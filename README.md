@@ -1,4 +1,4 @@
-# Modeling Idiomatic Expressions in Abstract Meaning Representation
+# Data
 
 Validation and test data for the reviewing process
 
