@@ -1,4 +1,5 @@
-# ::id test-1
+# ::id test-magpie_6764
+# ::magpie_sentence_no 16466
 # ::idiom bear in mind
 # ::snt The purpose of the Bill is not to over - regulate but to allow as much discretion to local authorities as possible, bearing in mind that we also need certainty within the law, and I hope that I have struck a balance.
 # ::usage figurative
@@ -32,7 +33,8 @@
                         :location (l2 / law))
                   :mod (a4 / also))))
 
-# ::id test-2
+# ::id test-magpie_8433
+# ::magpie_sentence_no 73
 # ::idiom jump on the bandwagon
 # ::snt One of the reasons being put forward is that they are jumping on a bandwagon which unfortunately is worldwide.
 # ::usage figurative
@@ -46,7 +48,8 @@
             :ARG1-of (p / put-01
                   :ARG2 (f2 / forward))))
 
-# ::id test-3
+# ::id test-magpie_30840
+# ::magpie_sentence_no 880
 # ::idiom off the hook
 # ::snt Then I left the phone off the hook.
 # ::usage literal
@@ -57,7 +60,8 @@
             :polarity -)
       :time (t / then))
 
-# ::id test-4
+# ::id test-magpie_1201
+# ::magpie_sentence_no 719
 # ::idiom over the hill
 # ::snt A recent run of glorious days saw the isobars sprawling loosely across the weather map and circling a pool of high pressure over the northern hills.
 # ::usage literal
@@ -82,7 +86,8 @@
                         :op1 (h2 / hill
                               :location (n / north))))))
 
-# ::id test-5
+# ::id test-magpie_19059
+# ::magpie_sentence_no 505
 # ::idiom in hot water
 # ::snt Stand in the hot water for two minutes, then step into the cold water and ' walk ' on the stones.
 # ::usage literal
@@ -107,7 +112,8 @@
                   :location (s3 / stone))
             :time (t2 / then)))
 
-# ::id test-6
+# ::id test-magpie_17733
+# ::magpie_sentence_no 227
 # ::idiom change hands
 # ::snt Service changed hands eight times and there were four lets in between until Soutter broke the deadlock with a tight drop that created an opening and a lovely cross - court forehand slice that zipped away for a winner.
 # ::usage figurative
@@ -141,7 +147,8 @@
                                                       :beneficiary (p2 / person
                                                             :ARG0-of (w / win-01)))))))))))
 
-# ::id test-7
+# ::id test-magpie_16174
+# ::magpie_sentence_no 1269
 # ::idiom in hot water
 # ::snt I sent money and a small gift for Harry : ' if you can speak to him, that is — he will have been in enough hot water already on my account … '
 # ::usage figurative
@@ -170,7 +177,8 @@
                         :ARG0 (y / you)
                         :ARG2 p))))
 
-# ::id test-8
+# ::id test-magpie_20431
+# ::magpie_sentence_no 59
 # ::idiom tie the knot
 # ::snt The end of the halyard goes through the end goes through the end fitting and then we tie a little stopper knot in the end, then we bring the other end of the halyard down and make it up tight on this crease at the bottom of the mast.
 # ::usage literal
@@ -208,7 +216,8 @@
                                     :part-of (m2 / mast)))))
             :time (t6 / then)))
 
-# ::id test-9
+# ::id test-magpie_31975
+# ::magpie_sentence_no 2952
 # ::idiom green light
 # ::snt The physicists in the team got round this by taking rapidly alternating snapshots of the area in red and green light.
 # ::usage literal
@@ -230,7 +239,8 @@
                   :manner (r3 / rapid)
                   :ARG1-of (a3 / alternate-01))))
 
-# ::id test-10
+# ::id test-magpie_39534
+# ::magpie_sentence_no 427
 # ::idiom change hands
 # ::snt Pye's own estate lay in disputed territory which changed hands at least twice.
 # ::usage figurative
@@ -245,7 +255,8 @@
                   :frequency (a / at-least
                         :op1 2))))
 
-# ::id test-11
+# ::id test-magpie_17826
+# ::magpie_sentence_no 1374
 # ::idiom call it a day
 # ::snt ‘ Time you called it a day.’
 # ::usage figurative
@@ -253,7 +264,8 @@
       :time-of (s / stop-01
             :ARG0 (y / you)))
 
-# ::id test-12
+# ::id test-magpie_5638
+# ::magpie_sentence_no 980
 # ::idiom fall short
 # ::snt The Zeppelin moved up towards the Castle, dropping large numbers of bombs but many fell short of the Castle.
 # ::usage figurative
@@ -274,7 +286,8 @@
       :ARG2 c
       :direction (u / up))
 
-# ::id test-13
+# ::id test-magpie_37745
+# ::magpie_sentence_no 95
 # ::idiom bear fruit
 # ::snt Christ appointed us, as His Church, to GO and bear fruit, fruit that will last.
 # ::usage figurative
@@ -296,7 +309,8 @@
                   :ARG1 (r / result
                         :ARG1-of (l / last-01)))))
 
-# ::id test-14
+# ::id test-magpie_4497
+# ::magpie_sentence_no 7707
 # ::idiom turn a blind eye
 # ::snt Some other forces throughout the region, if they even thought about it, appear to have turned a blind eye.
 # ::usage figurative
@@ -314,7 +328,8 @@
             :ARG1 (ii / it)
             :mod (e2 / even)))
 
-# ::id test-15
+# ::id test-magpie_41656
+# ::magpie_sentence_no 1598
 # ::idiom come to mind
 # ::snt ' Suddenly, I felt a tickling at my rear end, and all the stories of the candiru came to my mind in a millisecond, and I thought ' This is it!
 # ::usage figurative
@@ -339,7 +354,8 @@
             :ARG1 (ii2 / it
                   :domain (t4 / this))))
 
-# ::id test-16
+# ::id test-magpie_32778
+# ::magpie_sentence_no 390
 # ::idiom by heart
 # ::snt This was not a dreary exercise : rabbinical students feel that chanting the sacred words reveals the inner music to the soul and learning something ‘ by heart’— a revealing phrase — helps one to interiorise it and make it one's own.
 # ::usage figurative
@@ -377,7 +393,8 @@
                                     :ARG0 o
                                     :ARG1 ii3))))))
 
-# ::id test-17
+# ::id test-magpie_12841
+# ::magpie_sentence_no 12
 # ::idiom in the long run
 # ::snt In the long run, a population is said to be stable if the TFR is at the replacement rate, which is a little above 2.3 for the world as a whole, and somewhat lower, at 2.1, for developed countries, reflecting their lower infant - mortality rates.
 # ::usage figurative
@@ -414,7 +431,8 @@
       :time (r6 / run-13
             :ARG1-of (l3 / long-03)))
 
-# ::id test-18
+# ::id test-magpie_22242
+# ::magpie_sentence_no 384
 # ::idiom break even
 # ::snt And I would be interested just to know how many performances don't actually break even.
 # ::usage figurative
@@ -430,7 +448,8 @@
                                     :ARG1-of (a2 / actual-02))))
                   :mod (j / just))))
 
-# ::id test-19
+# ::id test-magpie_27430
+# ::magpie_sentence_no 2003
 # ::idiom break someone's heart
 # ::snt She must have sensed that one day I would be leaving her again, and that nearly broke my heart, knowing the sadness she must feel all too well in my experiences with lovers who never stayed long but left me feeling as if part of me had been torn from my body.
 # ::usage figurative
@@ -481,7 +500,8 @@
                                                                         :poss ii2)))))
                                           :polarity "-")))))))
 
-# ::id test-20
+# ::id test-magpie_34181
+# ::magpie_sentence_no 889
 # ::idiom change hands
 # ::snt Ransom strips are so called because they change hands at high values, often up to one third of the total site value.
 # ::usage figurative
@@ -502,7 +522,8 @@
       :ARG1 (s3 / so-called
             :domain s))
 
-# ::id test-21
+# ::id test-magpie_34274
+# ::magpie_sentence_no 237
 # ::idiom follow suit
 # ::snt Hamburg's decision to follow suit looks like a shining opportunity for venturesome British outfits, but there are snags.
 # ::usage figurative
@@ -523,7 +544,8 @@
                         :mod (v / venturesome))))
       :ARG2 (s2 / snag))
 
-# ::id test-22
+# ::id test-magpie_21955
+# ::magpie_sentence_no 1874
 # ::idiom open someone's eyes
 # ::snt Phoebe opened her eyes and saw the abstracted professional look in the doctor's face ; attentive not to Phoebe but to the lump, to the breast itself.
 # ::usage literal
@@ -551,7 +573,8 @@
                                     :ARG0 l
                                     :ARG1 a4))))))
 
-# ::id test-23
+# ::id test-magpie_35314
+# ::magpie_sentence_no 3
 # ::idiom green light
 # ::snt Howard Baker ( that is his name ) is sitting in front of a green light waiting for a green light because he is thinking.
 # ::usage literal
@@ -571,7 +594,8 @@
             :ARG0 (t / think-01
                   :ARG0 p)))
 
-# ::id test-24
+# ::id test-magpie_27780
+# ::magpie_sentence_no 873
 # ::idiom in the long run
 # ::snt His views were no less radical than those of Goldwater, but his mild, self - deprecating smiling manner was, in the long run, to make him a far more formidable advocate of conservatism.
 # ::usage figurative
@@ -604,7 +628,8 @@
             :time (r2 / run-13
                   :ARG1-of (l2 / long-03))))
 
-# ::id test-25
+# ::id test-magpie_44925
+# ::magpie_sentence_no 992
 # ::idiom turn a blind eye
 # ::snt The plaintiff must show that the defendant has turned a blind eye to truth in order to advance an ulterior object.
 # ::usage figurative
@@ -624,7 +649,8 @@
                         :ARG1 (o2 / object
                               :mod (u / ulterior))))))
 
-# ::id test-26
+# ::id test-magpie_16927
+# ::magpie_sentence_no 2306
 # ::idiom break someone's heart
 # ::snt Then she said, ' It 'll break your father's heart, I suppose you know that? '
 # ::usage figurative
@@ -643,7 +669,8 @@
                   :polarity (a / amr-unknown)))
       :time (t / then))
 
-# ::id test-27
+# ::id test-magpie_42487
+# ::magpie_sentence_no 2707
 # ::idiom come to mind
 # ::snt Poor Hugh never came to her mind at all.
 # ::usage figurative
@@ -657,7 +684,8 @@
       :time (e / ever)
       :mod (a / at-all))
 
-# ::id test-28
+# ::id test-magpie_35664
+# ::magpie_sentence_no 387
 # ::idiom come to mind
 # ::snt Several examples come to mind here.
 # ::usage figurative
@@ -666,7 +694,8 @@
             :quant (s / several))
       :location (h / here))
 
-# ::id test-29
+# ::id test-magpie_19493
+# ::magpie_sentence_no 1256
 # ::idiom break someone's heart
 # ::snt She left her fiance alone but told friends afterwards that the episode broke her heart.
 # ::usage figurative
@@ -700,7 +729,8 @@
             :op1 (p / prune-01
                   :ARG1 t)))
 
-# ::id test-31
+# ::id test-magpie_22372
+# ::magpie_sentence_no 1607
 # ::idiom read between the lines
 # ::snt Moreover, having read between the lines of Wendell Harvey's letters to her husband, she was certain that Harry and the Harvey girl were going to make a match of it.
 # ::usage figurative
@@ -727,7 +757,8 @@
                         :ARG0 (r / read-between-lines-09
                               :ARG0 s2)))))
 
-# ::id test-32
+# ::id test-magpie_34895
+# ::magpie_sentence_no 115
 # ::idiom in the long run
 # ::snt Th the problem with suggestion therapy whether it be hypnosis or group therapy is it doesn't tend to last in the longer run after the person stopped going to the group or they haven't seen the the er hypnotist for reinforcement.
 # ::usage figurative
@@ -764,7 +795,8 @@
             :purpose (r3 / reinforce-01
                   :ARG0 p2)))
 
-# ::id test-33
+# ::id test-magpie_23182
+# ::magpie_sentence_no 192
 # ::idiom go hand in hand
 # ::snt "It was part of the research design that data collection and data analysis should go hand in hand through a process of what has been called "" retroduction "" ( Ford, 1975 ; Best et al 1979 ) in which data analysis progressively focuses subsequent fieldwork."
 # ::usage figurative
@@ -816,7 +848,8 @@
                         :ARG1 h
                         :ARG2 (w2 / wife)))))
 
-# ::id test-35
+# ::id test-magpie_27783
+# ::magpie_sentence_no 1431
 # ::idiom in the long run
 # ::snt Try not to rely on Valium — it's highly addictive and will cause more problems in the long run.
 # ::usage figurative
@@ -841,7 +874,8 @@
                   :time (r2 / run-13
                         :ARG1-of (l / long-03)))))
 
-# ::id test-36
+# ::id test-magpie_39692
+# ::magpie_sentence_no 1933
 # ::idiom come to terms with
 # ::snt J. M. Dent & Sons Ltd., 1972 ) she tells of her first meeting with the composer, of his influence on her technique and interpretation, of how she came to terms with the music, of Plante and other virtuosi, and gives a detailed analysis of various pieces.
 # ::usage figurative
@@ -887,7 +921,8 @@
                   :op5 "Sons"
                   :op6 "Ltd.")))
 
-# ::id test-37
+# ::id test-magpie_44154
+# ::magpie_sentence_no 2146
 # ::idiom behind bars
 # ::snt ‘ Where is he now?’ she asked, thinking he was possibly behind bars.
 # ::usage figurative
@@ -902,7 +937,8 @@
       :ARG2 (a2 / amr-unknown)
       :time (n / now))
 
-# ::id test-38
+# ::id test-magpie_35041
+# ::magpie_sentence_no 3081
 # ::idiom come to terms with
 # ::snt This 28-day programme should have given you the opportunity to come to terms with your body.
 # ::usage figurative
@@ -920,7 +956,8 @@
                               :poss y)))
             :ARG2 y))
 
-# ::id test-39
+# ::id test-magpie_41002
+# ::magpie_sentence_no 2708
 # ::idiom in a nutshell
 # ::snt Leftovers in a nutshell
 # ::usage figurative
@@ -940,7 +977,8 @@
             :ARG0 s
             :ARG1 (t / thing)))
 
-# ::id test-41
+# ::id test-magpie_10451
+# ::magpie_sentence_no 11463
 # ::idiom change hands
 # ::snt SALE MOVE : Shopping centre to change hands
 # ::usage figurative
@@ -951,7 +989,8 @@
                   :ARG1 (c2 / center
                         :mod (s2 / shop-01)))))
 
-# ::id test-42
+# ::id test-magpie_27756
+# ::magpie_sentence_no 58
 # ::idiom follow suit
 # ::snt The Bank was tipped off by the West Germans shortly before the decision was announced, and evidently decided it would have to follow suit or risk a damaging run on the pound.
 # ::usage figurative
@@ -982,7 +1021,8 @@
                         :ARG0-of (d2 / damage-01))))
       :ARG1-of (e / evidence-01))
 
-# ::id test-43
+# ::id test-magpie_43394
+# ::magpie_sentence_no 2389
 # ::idiom miss the boat
 # ::snt Now Celtic may have missed the boat!
 # ::usage figurative
@@ -994,7 +1034,8 @@
             :ARG1 (o / opportunity))
       :time (n2 / now))
 
-# ::id test-44
+# ::id test-magpie_30131
+# ::magpie_sentence_no 1097
 # ::idiom throw in the towel
 # ::snt Add to this the facts that each chief executive has only limited authority over many of his staff and that much of the finance of this complex body is handled by a separate company accountable to Parliament, and it might well be enough to make Lord Hanson heave or Tiny Rowland throw in the towel.
 # ::usage figurative
@@ -1046,7 +1087,8 @@
                                                 :op2 "Rowland"))))))
             :mod (w / well)))
 
-# ::id test-45
+# ::id test-magpie_18203
+# ::magpie_sentence_no 528
 # ::idiom by heart
 # ::snt And I I remember being eight, nine, ten, eleven years old, and knowing them all off by heart,
 # ::usage figurative
@@ -1070,7 +1112,8 @@
                         :mod (a4 / all))
                   :manner (o / off-by-heart))))
 
-# ::id test-46
+# ::id test-magpie_43232
+# ::magpie_sentence_no 553
 # ::idiom break even
 # ::snt High income tax rates above the break - even point of any tax transfer scheme make leisure relatively cheap ( the substitution effect ) but simultaneously reduce income for buying goods including leisure ( the income effect ).
 # ::usage figurative
@@ -1118,7 +1161,8 @@
       :op2 (n2 / nibble-01
             :ARG0 s))
 
-# ::id test-48
+# ::id test-magpie_16341
+# ::magpie_sentence_no 101
 # ::idiom from scratch
 # ::snt It will built from scratch by Pickering Staplina in their Lancashire factory.
 # ::usage figurative
@@ -1136,7 +1180,8 @@
                   :name (n2 / name
                         :op1 "Llancashire"))))
 
-# ::id test-49
+# ::id test-magpie_42631
+# ::magpie_sentence_no 3101
 # ::idiom by heart
 # ::snt By heart, I would guess.
 # ::usage figurative
@@ -1144,7 +1189,8 @@
       :ARG0 (ii / i)
       :manner (b / by-heart))
 
-# ::id test-50
+# ::id test-magpie_3725
+# ::magpie_sentence_no 75
 # ::idiom in the long run
 # ::snt Packets of seeds are much less expensive than florists ' flowers in the long run, but they do cost a lot more in time and effort.
 # ::usage figurative
@@ -1168,7 +1214,8 @@
                   :ARG3 (m2 / more
                         :quant (l3 / lot)))))
 
-# ::id test-51
+# ::id test-magpie_19937
+# ::magpie_sentence_no 614
 # ::idiom jump on the bandwagon
 # ::snt They wait till something gets hot and then jump on the bandwagon.’
 # ::usage figurative
@@ -1183,7 +1230,8 @@
             :ARG0 t
             :time (t2 / then)))
 
-# ::id test-52
+# ::id test-magpie_29507
+# ::magpie_sentence_no 15
 # ::idiom fall short
 # ::snt The macroeconomic outcomes have consistently fallen short of expectations, and there is reason to believe that it will be even more difficult in Japan for monetary policy alone to gain sufficient traction.
 # ::usage figurative
@@ -1212,7 +1260,8 @@
                               :ARG3 (m3 / more
                                     :mod (e2 / even)))))))
 
-# ::id test-53
+# ::id test-magpie_20022
+# ::magpie_sentence_no 738
 # ::idiom go hand in hand
 # ::snt The hunt for causes goes on, and research into the causes goes hand - in - hand with care for the families.
 # ::usage figurative
@@ -1227,7 +1276,8 @@
                   :ARG1 (f / family))
             :manner (t / together)))
 
-# ::id test-54
+# ::id test-magpie_15454
+# ::magpie_sentence_no 269
 # ::idiom cut corners
 # ::snt Private contractors we all know cut corners, services decline and women, customers and users of the service suffer.
 # ::usage figurative
@@ -1249,7 +1299,8 @@
                         :ARG0-of (u / use-01
                               :ARG1 s)))))
 
-# ::id test-55
+# ::id test-magpie_25125
+# ::magpie_sentence_no 1237
 # ::idiom over the hill
 # ::snt The footpath on the left bank of the burn was little better than a sheep track, but there were clues to its former importance as a droving road over the hills to Byrness in Redesdale.
 # ::usage literal
@@ -1280,7 +1331,8 @@
                                           :op1 "Redesdale"))))
                   :time (f2 / former))))
 
-# ::id test-56
+# ::id test-magpie_47302
+# ::magpie_sentence_no 321
 # ::idiom hot air
 # ::snt A world record has been set for tight rope walking between two hot air balloons.
 # ::usage literal
@@ -1295,7 +1347,8 @@
                                     :ARG1-of (h / hot-05)))))
             :mod (w2 / world)))
 
-# ::id test-57
+# ::id test-magpie_46083
+# ::magpie_sentence_no 669
 # ::idiom break even
 # ::snt and that's what I 'm gon na be aiming to do, if it, if I break even in two years I 'd be happy cos I 've made money back and then I 'll be making profit after that, and you won't make it back in the first year, no way
 # ::usage figurative
@@ -1341,7 +1394,8 @@
       :manner (w / way
             :polarity -))
 
-# ::id test-58
+# ::id test-magpie_42430
+# ::magpie_sentence_no 443
 # ::idiom hot air
 # ::snt At the end of June, Murren is host to International Ballooning Week, and the skies fill up with myriads of colourful hot air balloons.
 # ::usage literal
@@ -1366,7 +1420,8 @@
                   :ARG1-of (h2 / hot-05)
                   :quant (m / myriad))))
 
-# ::id test-59
+# ::id test-magpie_10567
+# ::magpie_sentence_no 1310
 # ::idiom come to terms with
 # ::snt The failure to come to terms with this task casts light on, though it does not excuse, the hectic character of the final part of Braudel's Méditerranée : even when connections are traced between conjonctures and the actions of individuals, they tend to leave the actions heavily under - determined — so much so, in some cases, that they are barely explained at all.
 # ::usage figurative
@@ -1414,7 +1469,8 @@
             :ARG0 f
             :ARG1 c3))
 
-# ::id test-60
+# ::id test-magpie_26824
+# ::magpie_sentence_no 183
 # ::idiom fall short
 # ::snt Environmental groups condemned the announcement as inadequate, pointing out that the UK target was lower than that of all other West European countries and fell short of the 60 per cent reduction in CO2 emissions which scientists regarded as necessary to stabilize greenhouse gases at current levels.
 # ::usage figurative
@@ -1464,7 +1520,8 @@
                                                       :ARG2 (l2 / level
                                                             :time (c4 / current)))))))))))
 
-# ::id test-61
+# ::id test-magpie_5743
+# ::magpie_sentence_no 222
 # ::idiom go without saying
 # ::snt It almost goes without saying that over the years no single topic in agriculture has succeeded in raising passions more.
 # ::usage figurative
@@ -1497,7 +1554,8 @@
             :ARG0 s
             :ARG1 (w / word)))
 
-# ::id test-63
+# ::id test-magpie_11199
+# ::magpie_sentence_no 4
 # ::idiom bear in mind
 # ::snt Jorge Batlle, taking office as President March 1, must bear this in mind.
 # ::usage figurative
@@ -1517,7 +1575,8 @@
                               :day "1")))
             :ARG2 (t2 / this)))
 
-# ::id test-64
+# ::id test-magpie_8349
+# ::magpie_sentence_no 80
 # ::idiom bear in mind
 # ::snt Contact lenses often get lost during competition, so bear this in mind before you spend a hefty sum on them.
 # ::usage figurative
@@ -1538,7 +1597,8 @@
                         :ARG3 (s2 / sum
                               :mod (h / hefty))))))
 
-# ::id test-65
+# ::id test-magpie_45636
+# ::magpie_sentence_no 9225
 # ::idiom turn a blind eye
 # ::snt The authority plans to stop turning a blind eye to disability and war pension income when calculating community benefits charge and housing benefits.
 # ::usage figurative
@@ -1565,7 +1625,8 @@
                               :op2 (b3 / benefit
                                     :mod (h / house-01)))))))
 
-# ::id test-66
+# ::id test-magpie_38140
+# ::magpie_sentence_no 287
 # ::idiom tie the knot
 # ::snt Your author forgot all about the steam service and has tied a knot in his tie already for the September retreat.
 # ::usage literal
@@ -1587,7 +1648,8 @@
                   :time (d / date-entity
                         :month 9))))
 
-# ::id test-67
+# ::id test-magpie_19608
+# ::magpie_sentence_no 775
 # ::idiom break even
 # ::snt The break - even point where diesel starts to pay off varies considerably depending on the size of the premium and the extent of annual mileage ( the higher the mileage, the faster you reach break - even ).
 # ::usage figurative
@@ -1624,7 +1686,8 @@
                         :ARG2 (f / fast-02
                               :ARG1 r2)))))
 
-# ::id test-68
+# ::id test-magpie_9431
+# ::magpie_sentence_no 561
 # ::idiom go hand in hand
 # ::snt Economic progress goes hand in hand with environmental responsibility.
 # ::usage figurative
@@ -1635,7 +1698,8 @@
             :ARG1 (e2 / environment))
       :manner (t / together))
 
-# ::id test-69
+# ::id test-magpie_39649
+# ::magpie_sentence_no 639
 # ::idiom with a view to
 # ::snt Warrants, addressed to the High Court tipstaff or the county court registrar and bailiff, can be issued to arrest a bankrupt where there are reasonable grounds for believing that he may abscond with a view to avoiding or delaying payment of his debts or his appearance to a petition or to avoiding, delaying or disrupting any proceedings against him or any examination of his affairs ( s 364(1 ) and r 7.21 ).
 # ::usage figurative
@@ -1723,7 +1787,8 @@
                         :name (n4 / name
                               :op1 "R 7.21")))))
 
-# ::id test-70
+# ::id test-magpie_24786
+# ::magpie_sentence_no 174
 # ::idiom green light
 # ::snt So all other aircraft movements went to the taxiway with its distinctive central green lights.
 # ::usage literal
@@ -1740,7 +1805,8 @@
                               :mod (c2 / center)
                               :ARG1-of (g2 / green-02))))))
 
-# ::id test-71
+# ::id test-magpie_12796
+# ::magpie_sentence_no 319
 # ::idiom over the hill
 # ::snt And, just over the hill at North Stainmore, at Dummah Hill, Great - Uncle Isaac Bayles was looking after Daddy, and training him to be a farmer.
 # ::usage literal
@@ -1775,7 +1841,8 @@
                               :op1 "Dummah"
                               :op2 "Hill")))))
 
-# ::id test-72
+# ::id test-magpie_3613
+# ::magpie_sentence_no 382
 # ::idiom bear fruit
 # ::snt But plans for post - war reconstruction were to bear only limited fruit.
 # ::usage figurative
@@ -1789,7 +1856,8 @@
                   :ARG1-of (l / limit-01
                         :mod (o / only)))))
 
-# ::id test-73
+# ::id test-magpie_47511
+# ::magpie_sentence_no 7
 # ::idiom behind bars
 # ::snt The fifth decade of the German Democratic Republic had dawned with many hundreds of its citizens behind bars after the brutal suppression of demonstrations throughout the country which continued late into Saturday night.
 # ::usage figurative
@@ -1819,7 +1887,8 @@
                                                 :dayperiod (n2 / night)))))
                         :manner (b / brutal)))))
 
-# ::id test-74
+# ::id test-magpie_34800
+# ::magpie_sentence_no 1438
 # ::idiom follow suit
 # ::snt It was not until the end of the same year that Henry and Philip of France followed suit.
 # ::usage figurative
@@ -1839,7 +1908,8 @@
                   :ARG1 (y / year
                         :ARG1-of (s / same-01)))))
 
-# ::id test-75
+# ::id test-magpie_29672
+# ::magpie_sentence_no 784
 # ::idiom bear in mind
 # ::snt It ties in with the fifth principle that ‘ personal data shall be accurate and, where necessary, kept up - to - date’— a formidable requirement, if taken literally, in view of the frequency with which personal details ( address, etc. ) can change, and also bearing in mind the possible diversity of sources of information ; and who but the data subject can be the true judge of accuracy — unless of course he may have an interest in falsifying the record?
 # ::usage figurative
@@ -1886,7 +1956,8 @@
                   :mod (o2 / of-course)
                   :polarity "-")))
 
-# ::id test-76
+# ::id test-magpie_21106
+# ::magpie_sentence_no 80
 # ::idiom go without saying
 # ::snt It goes without saying that you should study it with the utmost care.
 # ::usage figurative
@@ -1899,7 +1970,8 @@
                   :degree (u / utmost)))
       :ARG1-of (o / obvious-01))
 
-# ::id test-77
+# ::id test-magpie_31469
+# ::magpie_sentence_no 560
 # ::idiom come to mind
 # ::snt Or I can charge you — withholding information, conspiracy, being an accomplice, possession of heroin, indecent exposure : anything that comes to mind, really.’
 # ::usage figurative
@@ -1926,7 +1998,8 @@
                         :ARG1-of (c3 / come-to-mind-09
                               :ARG1-of (r / real-04))))))
 
-# ::id test-78
+# ::id test-magpie_44762
+# ::magpie_sentence_no 187
 # ::idiom hot air
 # ::snt Where the scent of orange had deadened the senses in March, the resinous odour of olives weighed down the humid, hot air of this journey.
 # ::usage literal
@@ -1948,7 +2021,8 @@
                   :time (d3 / date-entity
                         :month 3))))
 
-# ::id test-79
+# ::id test-magpie_24684
+# ::magpie_sentence_no 816
 # ::idiom behind bars
 # ::snt The boathook is usually kept on the wall behind the bar.
 # ::usage literal
@@ -1959,7 +2033,8 @@
                   :op1 (b3 / bar)))
       :mod (u / usual))
 
-# ::id test-80
+# ::id test-magpie_5837
+# ::magpie_sentence_no 1876
 # ::idiom green light
 # ::snt There are many inspiring sights on the canals and one not to be missed is Tring Summit with its leafy green canopy of tall trees and soft green light reflected from the water as the herons fly through this natural tunnel at twilight.
 # ::usage literal
@@ -1995,7 +2070,8 @@
                                                       :mod (t4 / this))
                                                 :time (t5 / twilight)))))))))
 
-# ::id test-81
+# ::id test-magpie_7774
+# ::magpie_sentence_no 254
 # ::idiom bite the dust
 # ::snt Having realised, I suspect, at least for the time being, that they are not going to get anywhere in their fight for equal prize money at Wimbledon or the French, the Women's Tennis Association have come up with another proposal which I know has support in some areas but which I certainly hope will also bite the dust.
 # ::usage figurative
@@ -2044,7 +2120,8 @@
                   :mod (a5 / at-least)
                   :duration (t3 / time))))
 
-# ::id test-82
+# ::id test-magpie_16945
+# ::magpie_sentence_no 147
 # ::idiom steer clear of
 # ::snt He stayed for seven years, at first steering clear of the official trade - union structure which, as a Big Flamer, he regarded as a huge sell - out.
 # ::usage figurative
@@ -2069,7 +2146,8 @@
             :time (a2 / at-first)
             :ARG1 s3))
 
-# ::id test-83
+# ::id test-magpie_37832
+# ::magpie_sentence_no 1233
 # ::idiom go without saying
 # ::snt It goes without saying, one hopes, that one never, never gives way to one's own inclinations if they happen to run this way.
 # ::usage figurative
@@ -2088,7 +2166,8 @@
             :polarity "-")
       :ARG1-of (o2 / obvious-01))
 
-# ::id test-84
+# ::id test-magpie_36187
+# ::magpie_sentence_no 3508
 # ::idiom by heart
 # ::snt But after a while he soon knew large chunks of the play off by heart and could occasionally prompt without looking at the book.
 # ::usage figurative
@@ -2112,7 +2191,8 @@
             :time (a2 / after
                   :op1 (w / while))))
 
-# ::id test-85
+# ::id test-magpie_39223
+# ::magpie_sentence_no 2630
 # ::idiom in hot water
 # ::snt As the potatoes cook, soak the dried mushrooms in the hand- hot water for 10 minutes until they swell and soften.
 # ::usage literal
@@ -2136,7 +2216,8 @@
                   :op2 (s3 / soften-01
                         :ARG1 m))))
 
-# ::id test-86
+# ::id test-magpie_19131
+# ::magpie_sentence_no 1083
 # ::idiom hot air
 # ::snt Use a low heat setting for Peugeot hot air gun
 # ::usage literal
@@ -2153,7 +2234,8 @@
                   :name (n / name
                         :op1 "Peugeot"))))
 
-# ::id test-87
+# ::id test-magpie_25212
+# ::magpie_sentence_no 849
 # ::idiom go without saying
 # ::snt As we have already pointed out a number of times, the predicative position is the surface structure which marks assignment of the property of the adjective to the entity of the subject ; but it goes without saying that the subject of a sentence can not be merely a relation between two parts of itself ; therefore an adjective which is specialized to qualify the relation between entity and description is automatically excluded from predicative position for that reason.
 # ::usage figurative
@@ -2194,7 +2276,8 @@
                   :manner (a5 / automatic)))
       :ARG1-of (o / obvious-01))
 
-# ::id test-88
+# ::id test-magpie_22282
+# ::magpie_sentence_no 6146
 # ::idiom break someone's heart
 # ::snt You will break my heart .’
 # ::usage figurative
@@ -2202,7 +2285,8 @@
       :ARG0 (y / you)
       :ARG1 (ii / i))
 
-# ::id test-89
+# ::id test-magpie_946
+# ::magpie_sentence_no 1455
 # ::idiom bear in mind
 # ::snt The central difficulty is that of attributing responsibility to the ‘ centre’ in such a ‘ devolved’organisation as the typical trade union, bearing in mind the likelihood that ‘ unofficial action’will be taken at individual plant level without prior consultation with the union's central organs.
 # ::usage figurative
@@ -2234,7 +2318,8 @@
                                           :time (p2 / prior)
                                           :polarity "-")))))))
 
-# ::id test-90
+# ::id test-magpie_36192
+# ::magpie_sentence_no 7
 # ::idiom bear fruit
 # ::snt As a child, she was always deeply affected by the story of the sower who sowed his seeds, and some fell by the wayside, and some on stony ground and some fell among the thorns, and some fell upon good ground and bore fruit.
 # ::usage figurative
@@ -2264,7 +2349,8 @@
       :time (c / child
             :domain s8))
 
-# ::id test-91
+# ::id test-magpie_28403
+# ::magpie_sentence_no 883
 # ::idiom bear in mind
 # ::snt Bearing in mind that all the women who appear are portrayed as homemakers of one kind or another, it is significant that on the occasions when potentially humorous situations emerge, women are the ' butt of the joke ' on six of these occasions ( and Audrey as a potential one ), despite the fact that there are fewer women overall.
 # ::usage figurative
@@ -2301,7 +2387,8 @@
                         :ARG0-of (m / make-01
                               :ARG1 h3)))))
 
-# ::id test-92
+# ::id test-magpie_30728
+# ::magpie_sentence_no 859
 # ::idiom call it a day
 # ::snt a a and call it a day.
 # ::usage figurative
@@ -2312,7 +2399,8 @@
             :mode imperative
             :ARG0 (y / you)))
 
-# ::id test-93
+# ::id test-magpie_33056
+# ::magpie_sentence_no 1008
 # ::idiom tie the knot
 # ::snt Fiona & Paul had been together for six years before deciding to tie the knot.
 # ::usage figurative
@@ -2333,7 +2421,8 @@
                   :ARG1 (m / marry-01
                         :ARG1 a))))
 
-# ::id test-94
+# ::id test-magpie_10417
+# ::magpie_sentence_no 136
 # ::idiom by heart
 # ::snt A hardened choirgirl, I had all by heart,
 # ::usage figurative
@@ -2343,7 +2432,8 @@
             :ARG1-of (h2 / harden-01))
       :manner (b / by-heart))
 
-# ::id test-95
+# ::id test-magpie_3486
+# ::magpie_sentence_no 271
 # ::idiom behind bars
 # ::snt The rolling forest of Wensleydale that surrounded Bainbridge has gone now, with its deer and wild boar, but the horn that was blown at dusk every evening between Holyrood and Shrovetide to lead travellers out of the forest to safety still hangs behind the bar of the Rose and Crown, although it is blown now only at village weddings.
 # ::usage literal
@@ -2392,7 +2482,8 @@
                         :mod (o / only)))
             :mod (s3 / still)))
 
-# ::id test-96
+# ::id test-magpie_42614
+# ::magpie_sentence_no 573
 # ::idiom open someone's eyes
 # ::snt She opened her eyes and smiled at him.
 # ::usage literal
@@ -2405,7 +2496,8 @@
             :ARG0 s
             :ARG2 (h / he)))
 
-# ::id test-97
+# ::id test-magpie_4616
+# ::magpie_sentence_no 8
 # ::idiom turn a blind eye
 # ::snt The stunning opacity of solvency ratios encouraged regulators to turn a blind eye to banks ’ excessive risk - taking.
 # ::usage figurative
@@ -2426,7 +2518,8 @@
                         :ARG0 b2
                         :ARG1-of (e3 / excessive-02)))))
 
-# ::id test-98
+# ::id test-magpie_43953
+# ::magpie_sentence_no 13
 # ::idiom with a view to
 # ::snt With a view to building local understanding and providing information to the international community, the output of this work is being summarized in a user - friendly, Web based communication platform that is now being developed.
 # ::usage figurative
@@ -2453,7 +2546,8 @@
                   :ARG2 (c2 / community
                         :mod (ii2 / international)))))
 
-# ::id test-99
+# ::id test-magpie_20298
+# ::magpie_sentence_no 648
 # ::idiom green light
 # ::snt She counted twelve green lights, blessed twelve Halifax bombers on their way.
 # ::usage literal
@@ -2474,7 +2568,8 @@
                   :ARG1-of (g2 / go-02)
                   :ARG0-of g2)))
 
-# ::id test-100
+# ::id test-magpie_46079
+# ::magpie_sentence_no 1109
 # ::idiom tie the knot
 # ::snt Bride Laura Browne, 34, arrived to tie the knot with 38-year - old Robbie Carter in Cinderella's glass coach, drawn by six white ponies.
 # ::usage figurative
@@ -2519,7 +2614,8 @@
             :ARG0 s
             :ARG1 (t / thing)))
 
-# ::id test-102
+# ::id test-magpie_46332
+# ::magpie_sentence_no 3811
 # ::idiom break someone's heart
 # ::snt You 'll break all the girl's hearts — if you haven't done so already. '
 # ::usage figurative
@@ -2533,7 +2629,8 @@
             :ARG1 b
             :time (a2 / already)))
 
-# ::id test-103
+# ::id test-magpie_7139
+# ::magpie_sentence_no 2333
 # ::idiom hot air
 # ::snt So she could not let her go alone but must stand in the crowds being shoved, the smell of greasy food and litter breathed over her in this hot air, and the constant blare of noise grinding at her.
 # ::usage literal
@@ -2568,7 +2665,8 @@
                   :ARG2 s
                   :frequency (c4 / constant))))
 
-# ::id test-104
+# ::id test-magpie_5320
+# ::magpie_sentence_no 150
 # ::idiom in the long run
 # ::snt Mr Harvey McGregor has said in McGregor on Damages,(15th ed Sweet & Maxwell 1988, para 1588 ) : It may be argued that the benefit of a mother's personal attention to a child's upbringing, morals, education and psychology, which the services of a housekeeper, nurse or governess could never provide has, in the long run, a financial value for the child difficult as it is to assess.
 # ::usage figurative
@@ -2626,7 +2724,8 @@
                         :op2 "on"
                         :op3 "Disasters"))))
 
-# ::id test-105
+# ::id test-magpie_18059
+# ::magpie_sentence_no 0
 # ::idiom with a view to
 # ::snt We have established the institute with a view to facilitating the research.
 # ::usage figurative
@@ -2637,7 +2736,8 @@
             :ARG0 ii
             :ARG1 (r / research-01)))
 
-# ::id test-106
+# ::id test-magpie_48391
+# ::magpie_sentence_no 207
 # ::idiom bear in mind
 # ::snt Take people to objections, take them to where you want them to be and bear in mind you 're always looking for an objection
 # ::usage figurative
@@ -2663,7 +2763,8 @@
                   :ARG1 (o3 / object-01)
                   :time (a2 / always))))
 
-# ::id test-107
+# ::id test-magpie_3828
+# ::magpie_sentence_no 1046
 # ::idiom green light
 # ::snt It is in this last capacity that Hitler's image as perceived by his loyal ' following ' — functioning within the framework of ' charismatic politics ' — played its crucial role, as not only the leaders of Party and State, but those in responsible intermediary positions — whether for ideological reasons or for a variety of careerist or other motives little related in essence to principled hatred of Jews —'read ' Hitler's vaguely expressed ' intent'as a green light for radicalizing actions which developed their own dynamic and momentum.
 # ::usage figurative
@@ -2728,7 +2829,8 @@
             :mod (l4 / last)
             :mod (t / this)))
 
-# ::id test-108
+# ::id test-magpie_25071
+# ::magpie_sentence_no 5226
 # ::idiom come to mind
 # ::snt Built before the Battle of Hastings, it is a place where thoughts of infinite peace irrepressibly come to mind.
 # ::usage figurative
@@ -2748,7 +2850,8 @@
                               :op2 "of"
                               :op3 "Hastings")))))
 
-# ::id test-109
+# ::id test-magpie_41671
+# ::magpie_sentence_no 2481
 # ::idiom break even
 # ::snt Erteco, for example, broke even for the first time only last year.
 # ::usage figurative
@@ -2763,7 +2866,8 @@
             :mod (o2 / only))
       :ARG0-of (e / exemplify-01))
 
-# ::id test-110
+# ::id test-magpie_33033
+# ::magpie_sentence_no 0
 # ::idiom out of order
 # ::snt The elevator's out of order, so we 'll have to take the stairs.
 # ::usage figurative
@@ -2776,7 +2880,8 @@
                         :ARG0 w
                         :ARG1 (s / stair)))))
 
-# ::id test-111
+# ::id test-magpie_18869
+# ::magpie_sentence_no 434
 # ::idiom come to grips with
 # ::snt ‘ Tosca was the first score I came to grips with, and what a score!
 # ::usage figurative
@@ -2792,7 +2897,8 @@
       :op2 (s2 / score-01
             :mod (s3 / so)))
 
-# ::id test-112
+# ::id test-magpie_36559
+# ::magpie_sentence_no 3294
 # ::idiom bear fruit
 # ::snt Helmut Schlesinger, the bank's president, said his policies were bearing fruit.
 # ::usage figurative
@@ -2809,7 +2915,8 @@
                   :ARG0 p)
             :ARG1 (r / result)))
 
-# ::id test-113
+# ::id test-magpie_7033
+# ::magpie_sentence_no 1739
 # ::idiom come to grips with
 # ::snt Either side of the Refuge, time closed in, with meetings, the children to be looked after, books to be read, until she felt light - headed with the sense of not coming to grips with anything, of being forced to spin like a top.
 # ::usage figurative
@@ -2843,7 +2950,8 @@
                                                 :ARG1-of (r3 / resemble-01
                                                       :ARG2 (t / top))))))))))
 
-# ::id test-114
+# ::id test-magpie_29178
+# ::magpie_sentence_no 833
 # ::idiom in hot water
 # ::snt I shall be in hot water with some gay acquaintances for even listing homosexuality among deviations.
 # ::usage figurative
@@ -2864,7 +2972,8 @@
                         :ARG2-of (d / deviate-01))
                   :mod (e / even))))
 
-# ::id test-115
+# ::id test-magpie_41462
+# ::magpie_sentence_no 385
 # ::idiom behind bars
 # ::snt I grabbed the empties and got back behind the bar.
 # ::usage literal
@@ -2877,7 +2986,8 @@
             :ARG2 (b / behind
                   :op1 (b2 / bar))))
 
-# ::id test-116
+# ::id test-magpie_45527
+# ::magpie_sentence_no 1284
 # ::idiom ring a bell
 # ::snt He could ring the bell when he could descend no further.
 # ::usage literal
@@ -2891,7 +3001,8 @@
                   :ARG0 h
                   :degree (f / further))))
 
-# ::id test-117
+# ::id test-magpie_31073
+# ::magpie_sentence_no 0
 # ::idiom with a view to
 # ::snt I will meet both leaders again on 6 September with a view to taking stock of the current talks and charting a course for the way ahead.
 # ::usage figurative
@@ -2924,7 +3035,8 @@
       :ARG1 (f / fruit)
       :time (p / past))
 
-# ::id test-119
+# ::id test-magpie_9433
+# ::magpie_sentence_no 2657
 # ::idiom come to terms with
 # ::snt I wasn't coming to terms with it and didn't know what to do.
 # ::usage figurative
@@ -2940,7 +3052,8 @@
                   :ARG1-of (d / do-02
                         :ARG0 ii))))
 
-# ::id test-120
+# ::id test-magpie_43620
+# ::magpie_sentence_no 381
 # ::idiom from scratch
 # ::snt The enormous risks and start - up costs of launching a new daily from scratch prevented anyone trying, until new technology and a successful challenge to the strength of the trade unions transformed Fleet Street economics in the mid-1980s — making ‘ Fleet Street’ itself an archaic term, since the construction of production plant elsewhere, notably Wapping, was part of the process.
 # ::usage figurative
@@ -2993,7 +3106,8 @@
                                                       :op1 "Wapping")
                                                 :ARG1-of (n4 / notable-04)))))))))
 
-# ::id test-121
+# ::id test-magpie_38612
+# ::magpie_sentence_no 201
 # ::idiom follow suit
 # ::snt The need for short - term profits caused the run - down of many manufacturing industries around which communities and lives revolved and when this raw profit - standard was applied to power and energy industries, they followed suit.
 # ::usage figurative
@@ -3023,7 +3137,8 @@
                         :op2 (ii3 / industry
                               :mod (e / energy))))))
 
-# ::id test-122
+# ::id test-magpie_18471
+# ::magpie_sentence_no 50
 # ::idiom go without saying
 # ::snt "It goes without saying that even if a person falls within the definition of "" dependant "" provided in the Act he or she will still have to prove loss arising from the death of the deceased, and in practice many relatives have no claim at all."
 # ::usage figurative
@@ -3058,7 +3173,8 @@
                               :ARG0 (a4 / act)))))
       :ARG1-of (o3 / obvious-01))
 
-# ::id test-123
+# ::id test-magpie_1633
+# ::magpie_sentence_no 1557
 # ::idiom miss the boat
 # ::snt That's why you missed the boat.’
 # ::usage figurative
@@ -3068,7 +3184,8 @@
             :ARG0 (y / you)
             :ARG1 (o / opportunity)))
 
-# ::id test-124
+# ::id test-magpie_22267
+# ::magpie_sentence_no 19
 # ::idiom with a view to
 # ::snt Fresh techniques of exploring the information on grain populations with a view to interpreting depositional environment or transportation experienced by the deposits continue to be introduced with varying degrees of success.
 # ::usage figurative
@@ -3093,7 +3210,8 @@
                   :degree (d2 / degree
                         :ARG1-of (v / vary-01)))))
 
-# ::id test-125
+# ::id test-magpie_38330
+# ::magpie_sentence_no 1113
 # ::idiom bear in mind
 # ::snt Simultaneously, a programme of study must be planned for the whole key stage bearing in mind what comes before and after.
 # ::usage figurative
@@ -3112,7 +3230,8 @@
                               :time (a2 / after)))))
       :mod (s3 / simultaneous))
 
-# ::id test-126
+# ::id test-magpie_14037
+# ::magpie_sentence_no 938
 # ::idiom open someone's eyes
 # ::snt When Dorian opened his eyes, Lord Henry said, ‘ My dear Dorian, you must take care of yourself.
 # ::usage literal
@@ -3134,7 +3253,8 @@
             :ARG0 p2
             :ARG1 e))
 
-# ::id test-127
+# ::id test-magpie_28536
+# ::magpie_sentence_no 0
 # ::idiom over the hill
 # ::snt I stood erect in my tree, and for the first time for a long while looked far abroad over the country, to where the ships glided down the Danube among the vineyards, and the high - roads, still deserted, stretched like bridges across the gleaming landscape and far over the distant hills and valleys.
 # ::usage literal
@@ -3177,7 +3297,8 @@
             :location (a6 / abroad
                   :location (c / country))))
 
-# ::id test-128
+# ::id test-magpie_36992
+# ::magpie_sentence_no 6406
 # ::idiom hot air
 # ::snt It's hot air blowing in.
 # ::usage literal
@@ -3185,7 +3306,8 @@
       :ARG1 (a / air
             :ARG1-of (h / hot-05)))
 
-# ::id test-129
+# ::id test-magpie_10147
+# ::magpie_sentence_no 198
 # ::idiom bear fruit
 # ::snt These policies bore real fruit.
 # ::usage figurative
@@ -3195,7 +3317,8 @@
       :ARG1 (r / result
             :ARG1-of (r2 / real-04)))
 
-# ::id test-130
+# ::id test-magpie_31647
+# ::magpie_sentence_no 132
 # ::idiom change hands
 # ::snt Rumours that the Willis stake was about to change hands ahead of a bid have fuelled the progress.
 # ::usage figurative
@@ -3211,7 +3334,8 @@
                         :op1 (b / bid-03))))
       :ARG1 (p / progress-01))
 
-# ::id test-131
+# ::id test-magpie_37473
+# ::magpie_sentence_no 44
 # ::idiom go without saying
 # ::snt Once any treatment has been completed, partial water changes should be carried out every three days on three consecutive occasions, before returning to fortnightly changes of about 20 %, with water that must be as near as possible to that already in the aquarium,(but hopefully that goes without saying these days ).
 # ::usage figurative
@@ -3252,7 +3376,8 @@
                   :mod (t4 / this)))
       :time b)
 
-# ::id test-132
+# ::id test-magpie_48225
+# ::magpie_sentence_no 2153
 # ::idiom behind bars
 # ::snt ' She's behind the bar there.
 # ::usage literal
@@ -3261,7 +3386,8 @@
             :op1 (b2 / bar)
             :location (t / there)))
 
-# ::id test-133
+# ::id test-magpie_22076
+# ::magpie_sentence_no 645
 # ::idiom turn a blind eye
 # ::snt I mean, there are many, many cases of injustice around the world and, the West, the British government, can't be responsible for all of them, but there's, there's one particular case of Iraq, where we 've already gone to war, to, in the cause of democracy and freedom, and I don't believe that when Saddam offends again as he does day by day, we can turn a blind eye.
 # ::usage figurative
@@ -3314,7 +3440,8 @@
                                                       :frequency (d2 / day-by-day))))))
                         :polarity "-"))))
 
-# ::id test-134
+# ::id test-magpie_17267
+# ::magpie_sentence_no 36
 # ::idiom come to mind
 # ::snt As in other professions, women comics have to be extra - talented in order to compete with men, and have to adopt an aggressive approach ( Jo Brand, Ruby Wax and Joan Rivers are three that come to mind ).
 # ::usage figurative
@@ -3347,7 +3474,8 @@
                               :op1 "Joan"
                               :op2 "Rivers")))))
 
-# ::id test-135
+# ::id test-magpie_36618
+# ::magpie_sentence_no 1508
 # ::idiom change hands
 # ::snt D. There will be tax consequences when shares change hands on introduction of new members, death and retirement.
 # ::usage figurative
@@ -3365,7 +3493,8 @@
                   :op2 (d / die-01)
                   :op3 (r / retire-01))))
 
-# ::id test-136
+# ::id test-magpie_29767
+# ::magpie_sentence_no 74
 # ::idiom fall short
 # ::snt The typical monthly or quarterly report has on its first page a list of problems, that is, the areas where results fall short of expectations.
 # ::usage figurative
@@ -3397,7 +3526,8 @@
                   :value 1)
             :poss o))
 
-# ::id test-137
+# ::id test-magpie_17242
+# ::magpie_sentence_no 1402
 # ::idiom call it a day
 # ::snt He wrote again, a careful, stilted letter, expressing gratitude for the help he had received and suggesting they shook hands and called it a day.
 # ::usage figurative
@@ -3420,7 +3550,8 @@
                               :ARG0 t))))
       :mod (a2 / again))
 
-# ::id test-138
+# ::id test-magpie_7896
+# ::magpie_sentence_no 197
 # ::idiom bear fruit
 # ::snt Fifteen years of insisting on integration had borne little fruit.
 # ::usage figurative
@@ -3447,7 +3578,8 @@
             :op2 (a4 / act-02
                   :polarity "-")))
 
-# ::id test-140
+# ::id test-magpie_32717
+# ::magpie_sentence_no 1208
 # ::idiom break even
 # ::snt Contribution break even 110,000 albums
 # ::usage figurative
@@ -3456,7 +3588,8 @@
       :ARG2 (a / album
             :quant 10000))
 
-# ::id test-141
+# ::id test-magpie_37875
+# ::magpie_sentence_no 14
 # ::idiom come to terms with
 # ::snt Eldorado ( BBC1, 7 pm ) : Ingrid has to come to terms with a matter of life and death, while Marcus does the dirty on Alex.
 # ::usage figurative
@@ -3488,7 +3621,8 @@
       :time (d3 / date-entity
             :time "7:00"))
 
-# ::id test-142
+# ::id test-magpie_28051
+# ::magpie_sentence_no 777
 # ::idiom from scratch
 # ::snt Mollie Salisbury had designed several gardens for friends, as well as her own at Hatfield House in Hertfordshire, and she was only too delighted to help plan a garden from scratch.
 # ::usage figurative
@@ -3528,7 +3662,8 @@
                               :manner (f2 / from
                                     :op1 (b2 / begin-01)))))))
 
-# ::id test-143
+# ::id test-magpie_21977
+# ::magpie_sentence_no 1170
 # ::idiom go hand in hand
 # ::snt Declining faith went hand in hand with the secularisation of death.
 # ::usage figurative
@@ -3539,7 +3674,8 @@
             :ARG1 (d2 / die-01))
       :manner (t / together))
 
-# ::id test-144
+# ::id test-magpie_39056
+# ::magpie_sentence_no 23
 # ::idiom hot air
 # ::snt There's often a lot of hot air spoken about airbags — you know, the devices that inflate rapidly in an accident — but one things for sure, they certainly help save lives.
 # ::usage figurative
@@ -3564,7 +3700,8 @@
                         :ARG1 (l2 / life))
                   :mod (c2 / certain))))
 
-# ::id test-145
+# ::id test-magpie_47590
+# ::magpie_sentence_no 145
 # ::idiom come to grips with
 # ::snt This afforded the opportunity for him both to become familiar with other music, and to come to grips with concerto movement forms unhampered by the need to create the thematic and harmonic material as well.
 # ::usage figurative
@@ -3592,7 +3729,8 @@
                                                       :mod (a3 / as-well))))
                                     :polarity "-"))))))
 
-# ::id test-146
+# ::id test-magpie_45109
+# ::magpie_sentence_no 329
 # ::idiom in the long run
 # ::snt Well it's, it's for their benefit in, in the long run.
 # ::usage figurative
@@ -3625,7 +3763,8 @@
             :ARG0 s
             :location (p2 / pier)))
 
-# ::id test-149
+# ::id test-magpie_20182
+# ::magpie_sentence_no 1947
 # ::idiom ring a bell
 # ::snt She rang the bell, and there he was, suffused in the warm golden light of the hall, his sleeves rolled up, pushing that silver forelock back from his eyes.
 # ::usage literal
@@ -3666,7 +3805,8 @@
                   :direction (a2 / away
                         :source (s2 / shore)))))
 
-# ::id test-151
+# ::id test-magpie_34222
+# ::magpie_sentence_no 729
 # ::idiom hold water
 # ::snt Two substances which mimic NMFs, attracting and holding water in the skin, are urea and lactic acid.
 # ::usage literal
@@ -3689,7 +3829,8 @@
                               :ARG1 w
                               :location s3)))))
 
-# ::id test-152
+# ::id test-magpie_26696
+# ::magpie_sentence_no 112
 # ::idiom break someone's heart
 # ::snt I only hope that you will never have to read this letter — not because my life is worth anything to me but because it breaks my heart to think of you alone in a world which I have found to be so harsh and unforgiving.
 # ::usage figurative
@@ -3729,7 +3870,8 @@
                                                 :degree (s / so)))))
                         :ARG1 ii))))
 
-# ::id test-153
+# ::id test-magpie_24930
+# ::magpie_sentence_no 1255
 # ::idiom by heart
 # ::snt an electro cardiograph, it's a tracing of the electrical il impulses from the heart given off by the heart and this chap came in he 'd never had one before and he was nervous anyway, so I 'm trying to put him at his ease and I, I put, you have to put like a rubber band round their arms and legs and attach erm electrodes to them, you don't feel anything, you 're only measuring the electrical impulses given off by the heart
 # ::usage literal
@@ -3795,7 +3937,8 @@
                                           :ARG1 ii
                                           :mod (o3 / only))))))))
 
-# ::id test-154
+# ::id test-magpie_39932
+# ::magpie_sentence_no 816
 # ::idiom steer clear of
 # ::snt Britons were urged to steer clear of Euro - Disneyland near Paris on its opening day on Sunday, as French officials gave warning of vast crowds and nightmare traffic jams.
 # ::usage figurative
@@ -3833,7 +3976,8 @@
                               :ARG1 (t / traffic)
                               :mod (n6 / nightmare))))))
 
-# ::id test-155
+# ::id test-magpie_14023
+# ::magpie_sentence_no 3375
 # ::idiom in the long run
 # ::snt But in the long run, it's bound to strengthen Germany's economy tremendously, in fact some people think it's going to strengthen it a bit too much, because it's, it's strong enough er already.
 # ::usage figurative
@@ -3872,7 +4016,8 @@
                                           :ARG3 (e2 / enough))))))
             :mod (ii3 / in-fact)))
 
-# ::id test-156
+# ::id test-magpie_42398
+# ::magpie_sentence_no 1290
 # ::idiom by heart
 # ::snt Having your own original opinions was clearly a major flaw in a mirza and, just to be on the safe side, the Mirza Nama offers a few acceptable opinions for the young gentleman to learn by heart and adopt as his own.
 # ::usage figurative
@@ -3910,7 +4055,8 @@
                   :ARG1-of (s2 / safe-01)
                   :mod (j / just))))
 
-# ::id test-157
+# ::id test-magpie_18688
+# ::magpie_sentence_no 48
 # ::idiom go hand in hand
 # ::snt If so, the two activities should go hand - in - hand.
 # ::usage figurative
@@ -3934,7 +4080,8 @@
             :time (d / date-entity
                   :season (w / winter))))
 
-# ::id test-159
+# ::id test-magpie_27888
+# ::magpie_sentence_no 13
 # ::idiom in a nutshell
 # ::snt "In a nutshell : Ireland's policymakers failed to supervise their banks, and watched ( or cheered ) from the sidelines as a debt - fueled spending binge generated the "" Celtic miracle, "" whereby Ireland grew faster than all other EU members and Dublin real estate became some of the most expensive in the world."
 # ::usage figurative
@@ -3996,7 +4143,8 @@
                   :location (s4 / sideline)))
       :mod (ii2 / in-short))
 
-# ::id test-160
+# ::id test-magpie_34007
+# ::magpie_sentence_no 106
 # ::idiom from scratch
 # ::snt Oh no we don't make it from scratch, we just do the you know the m main machining
 # ::usage figurative
@@ -4018,7 +4166,8 @@
             :ARG1-of (k / know-01
                   :ARG0 (y / you))))
 
-# ::id test-161
+# ::id test-magpie_16863
+# ::magpie_sentence_no 606
 # ::idiom go bananas
 # ::snt No, that's my clock going bananas
 # ::usage figurative
@@ -4028,7 +4177,8 @@
       :mod (n / no)
       :ARG2 (c2 / crazy-03))
 
-# ::id test-162
+# ::id test-magpie_44524
+# ::magpie_sentence_no 2085
 # ::idiom change hands
 # ::snt Currently the United States does not have a droit de suite, a law that mandates that artists receive a percentage of the price of a work each time it changes hands.
 # ::usage figurative
@@ -4055,7 +4205,8 @@
                               :ARG1 w))))
       :time (c3 / current))
 
-# ::id test-163
+# ::id test-magpie_31910
+# ::magpie_sentence_no 3605
 # ::idiom come to terms with
 # ::snt I hurt her pride and she was never able to come to terms with that.
 # ::usage figurative
@@ -4071,7 +4222,8 @@
                   :ARG1 (t / that))
             :time (e / ever)))
 
-# ::id test-164
+# ::id test-magpie_12834
+# ::magpie_sentence_no 2
 # ::idiom in a nutshell
 # ::snt That, in a nutshell, is the problem that both Asia and the West face in China, and which has been demonstrated once again at the G20 summit in Canada.
 # ::usage figurative
@@ -4103,7 +4255,8 @@
             :mod (a3 / again
                   :mod (o2 / once))))
 
-# ::id test-165
+# ::id test-magpie_38
+# ::magpie_sentence_no 2241
 # ::idiom turn a blind eye
 # ::snt It sounds as though Maurin was paying him to keep Barbara there and she was paying him to run errands — deliver the note to you and the photograph to Nice Matin — and to turn a blind eye when she went out.’
 # ::usage figurative
@@ -4143,7 +4296,8 @@
                               :time (g / go-out-17
                                     :ARG0 p6))))))
 
-# ::id test-166
+# ::id test-magpie_43575
+# ::magpie_sentence_no 1281
 # ::idiom ring a bell
 # ::snt Aged from eighteen to eighty, some hadn't rung a bell for almost fifty years, but everyone pulled their weight on this historic occasion.
 # ::usage literal
@@ -4172,7 +4326,8 @@
                   :mod (h / history)
                   :mod (t4 / this))))
 
-# ::id test-167
+# ::id test-magpie_38747
+# ::magpie_sentence_no 1234
 # ::idiom go without saying
 # ::snt Of course, it goes without saying that any operator will wish to run a reliable and satisfactory service if he is to attract custom.
 # ::usage figurative
@@ -4192,7 +4347,8 @@
       :ARG1-of (o2 / obvious-01
             :mod (o3 / of-course)))
 
-# ::id test-168
+# ::id test-magpie_47135
+# ::magpie_sentence_no 506
 # ::idiom fall short
 # ::snt Some may see the bird's warning cry as falling short of lying for a further reason.
 # ::usage figurative
@@ -4212,7 +4368,8 @@
                         :ARG0 (r / reason
                               :mod (f2 / further))))))
 
-# ::id test-169
+# ::id test-magpie_17545
+# ::magpie_sentence_no 25
 # ::idiom come to mind
 # ::snt I would have gone for something a little snappier : ‘ A mad cow with a handbag,’ comes to mind as a first attempt.
 # ::usage figurative
@@ -4234,7 +4391,8 @@
                                     :ARG0-of (h2 / have-03
                                           :ARG1 (h3 / handbag))))))))
 
-# ::id test-170
+# ::id test-magpie_18725
+# ::magpie_sentence_no 0
 # ::idiom in the long run
 # ::snt For that reason one should not completely rule out that a European ~ Penal ~ Code might also include these areas in the long run.
 # ::usage figurative
@@ -4259,7 +4417,8 @@
                                     :ARG1-of (l / long-03))))
                   :ARG1-of (c4 / complete-02))))
 
-# ::id test-171
+# ::id test-magpie_11425
+# ::magpie_sentence_no 0
 # ::idiom ring a bell
 # ::snt The sentence rings a bell with me.
 # ::usage figurative
@@ -4268,7 +4427,8 @@
       :ARG2 (f / familiarize-02)
       :ARG3 (ii / i))
 
-# ::id test-172
+# ::id test-magpie_17339
+# ::magpie_sentence_no 3828
 # ::idiom bear fruit
 # ::snt Ian and I are doing what any neighbouring colleagues would do in similar circumstances — and this helping - out is bearing fruit.
 # ::usage figurative
@@ -4291,7 +4451,8 @@
                   :mod (t2 / this))
             :ARG1 (r2 / result)))
 
-# ::id test-173
+# ::id test-magpie_25456
+# ::magpie_sentence_no 315
 # ::idiom cut loose
 # ::snt The latest unit to go in IBM Corp's cutting loose of its surplus manufacturing plants, which started with four factories in Europe last week, is IBM Canada Ltd's Toronto manufacturing division, which is to become a separate, wholly owned subsidiary with a different, but as yet undetermined, name and logo : the Toronto division employs about 900 and has export revenues of some $ 800 m annually ; all employees will be offered positions with the new company, which will continue to manufacture products for IBM — for the time being at least, and will also seek work outside the company.
 # ::usage figurative
@@ -4373,7 +4534,8 @@
                   :op1 c2)
             :mod (a7 / also)))
 
-# ::id test-174
+# ::id test-magpie_21988
+# ::magpie_sentence_no 806
 # ::idiom with a view to
 # ::snt Not with a view to conciliating those readers who on principle object to sequels, but as a matter of fact, the Author wishes to say that he does not so regard this book.
 # ::usage figurative
@@ -4399,7 +4561,8 @@
                         :mod (s3 / so)))
             :mod (a2 / as-a-matter-of-fact)))
 
-# ::id test-175
+# ::id test-magpie_32798
+# ::magpie_sentence_no 344
 # ::idiom green light
 # ::snt To upbraid Eden for failing to give the green light to the Home Office's draft four - clause Commonwealth Immigrants Bill, is a bit harsh.
 # ::usage figurative
@@ -4427,7 +4590,8 @@
                                     :quant "4")))))
       :degree (b2 / bit))
 
-# ::id test-176
+# ::id test-magpie_39770
+# ::magpie_sentence_no 1938
 # ::idiom from scratch
 # ::snt Even though it offers compensation to people who have already bought shops or flats, Albania's court system, now being rebuilt from scratch after almost 30 years without a justice ministry, will have a hard time sorting out property disputes.
 # ::usage figurative
@@ -4468,7 +4632,8 @@
                                     :op2 (f2 / flat))
                               :time (a3 / already))))))
 
-# ::id test-177
+# ::id test-magpie_37302
+# ::magpie_sentence_no 17969
 # ::idiom with a view to
 # ::snt Drawing information from a variety of sources, and in particular from a national database of commons being structured at the Department of Geography, Aberystwyth, representative samples of ‘ public access’ commons will be selected for analysis, with a view to evaluating the ways in which such areas are administered, the problems that they face, and the effectiveness of particular schemes of management and regulation.
 # ::usage figurative
@@ -4513,7 +4678,8 @@
                               :mod (m / manage-01)
                               :mod (r2 / regulate-01))))))
 
-# ::id test-178
+# ::id test-magpie_26065
+# ::magpie_sentence_no 3373
 # ::idiom come to terms with
 # ::snt ‘ My guess is that she hadn't come to terms with the situation herself,’ she said.
 # ::usage figurative
@@ -4526,7 +4692,8 @@
                   :ARG0 s2
                   :ARG1 (s3 / situation))))
 
-# ::id test-179
+# ::id test-magpie_21002
+# ::magpie_sentence_no 164
 # ::idiom in the long run
 # ::snt The truth may be that in the long run, as Lincoln thought, people are not fooled.
 # ::usage figurative
@@ -4542,7 +4709,8 @@
                               :name (n / name
                                     :op1 "Lincoln"))))))
 
-# ::id test-180
+# ::id test-magpie_46409
+# ::magpie_sentence_no 1559
 # ::idiom ring a bell
 # ::snt Jane Hall had booked into the Riverside Hotel, she walked over to the reception desk and rang the bell, hello I 'm Jane Hall I 've booked a weekend stay here, ah yes Miss Hall if you would just like to sign here, here's your key, your room is six floors up, third on the right, have a nice stay.
 # ::usage literal
@@ -4599,7 +4767,8 @@
                   :ARG1 p3
                   :ARG1-of (n5 / nice-01))))
 
-# ::id test-181
+# ::id test-magpie_15113
+# ::magpie_sentence_no 1348
 # ::idiom with a view to
 # ::snt This is a condition in which managements become excessively concerned with short - term profits with a view to keeping share price high and thus avoiding the attention of bidders.
 # ::usage figurative
@@ -4627,7 +4796,8 @@
                                           :ARG0-of (b2 / bid-01))
                                     :ARG1 p))))))
 
-# ::id test-182
+# ::id test-magpie_44260
+# ::magpie_sentence_no 2585
 # ::idiom hot air
 # ::snt It burst out of the tunnel in a gale of hot air and shuddered to a halt.
 # ::usage literal
@@ -4643,7 +4813,8 @@
             :direction (h2 / halt-01
                   :ARG1 ii)))
 
-# ::id test-183
+# ::id test-magpie_2114
+# ::magpie_sentence_no 2238
 # ::idiom bear in mind
 # ::snt Bearing in mind his liking for nocturnal walks, one can imagine his excitement.
 # ::usage figurative
@@ -4659,7 +4830,8 @@
                         :time (d / date-entity
                               :dayperiod (n / night))))))
 
-# ::id test-184
+# ::id test-magpie_11622
+# ::magpie_sentence_no 799
 # ::idiom bear in mind
 # ::snt Bearing in mind that growth rate is related to size in a non - linear manner, compare growth rates of whelks of the same initial size marked as feeding on different prey.
 # ::usage figurative
@@ -4685,7 +4857,8 @@
                   :manner (l / linear
                         :polarity "-"))))
 
-# ::id test-185
+# ::id test-magpie_14890
+# ::magpie_sentence_no 1756
 # ::idiom from scratch
 # ::snt If you are running your own company which you own and have built up from scratch you have a different approach to somebody like myself who's a professional manager.
 # ::usage figurative
@@ -4709,7 +4882,8 @@
                         :manner (f / from
                               :op1 (b2 / begin-01))))))
 
-# ::id test-186
+# ::id test-magpie_612
+# ::magpie_sentence_no 1213
 # ::idiom follow suit
 # ::snt Turberville claimed to have reached agreement with the recently defeated Morgan of Wales [ q.v.]that he should rebel again if the Scots would follow suit.
 # ::usage figurative
@@ -4738,7 +4912,8 @@
                         :ARG1-of (d / defeat-01
                               :time (r4 / recent))))))
 
-# ::id test-187
+# ::id test-magpie_42403
+# ::magpie_sentence_no 1460
 # ::idiom bear in mind
 # ::snt Two cardinal points must be borne in mind.
 # ::usage figurative
@@ -4748,7 +4923,8 @@
                   :ARG0 (c / cardinal)
                   :quant "2")))
 
-# ::id test-188
+# ::id test-magpie_18642
+# ::magpie_sentence_no 224
 # ::idiom over the hill
 # ::snt They turned away together and marched over the hills towards the estate.
 # ::usage literal
@@ -4763,7 +4939,8 @@
                   :op1 (h / hill))
             :direction (e / estate)))
 
-# ::id test-189
+# ::id test-magpie_36563
+# ::magpie_sentence_no 947
 # ::idiom open someone's eyes
 # ::snt She opened her eyes again, not remembering closing them to shut out the blueness, but it was still there and her mind was spiked with pain.
 # ::usage literal
@@ -4792,7 +4969,8 @@
                         :poss s)
                   :ARG2 (p / pain-01))))
 
-# ::id test-190
+# ::id test-magpie_37443
+# ::magpie_sentence_no 2929
 # ::idiom open someone's eyes
 # ::snt As the teacher looked, Belle opened her eyes and sat up with a radiant smile.
 # ::usage literal
@@ -4812,7 +4990,8 @@
             :ARG0 (p2 / person
                   :ARG0-of (t / teach-01))))
 
-# ::id test-191
+# ::id test-magpie_15176
+# ::magpie_sentence_no 1108
 # ::idiom follow suit
 # ::snt Private - sector employers were instructed to follow suit by Aug. 11.
 # ::usage figurative
@@ -4828,7 +5007,8 @@
                         :month 8
                         :day 11))))
 
-# ::id test-192
+# ::id test-magpie_36609
+# ::magpie_sentence_no 2126
 # ::idiom behind bars
 # ::snt I need a visa and have failed to obtain one, Rosita likewise, and so they put us behind bars like prisoners.
 # ::usage figurative
@@ -4855,7 +5035,8 @@
                               :ARG2 (p3 / person
                                     :ARG1-of (ii2 / imprison-01)))))))
 
-# ::id test-193
+# ::id test-magpie_42020
+# ::magpie_sentence_no 422
 # ::idiom with a view to
 # ::snt In his first public speech as EC Environment Commissioner, Karel van Miert has called for common environmental norms to be applied across the EC, with a view to maintaining environmental standards without infringing the Community's commitment to free trade between member states.
 # ::usage figurative
@@ -4895,7 +5076,8 @@
             :ord (o2 / ordinal-entity
                   :value 1)))
 
-# ::id test-194
+# ::id test-magpie_17844
+# ::magpie_sentence_no 56
 # ::idiom over the hill
 # ::snt Time to leave the village now ; I drive over the hill into the next valley, past brown winter hills scarred with peat diggings and with the occasional relief of green patches of sphagnum moss.
 # ::usage literal
@@ -4926,7 +5108,8 @@
                                     :ARG1-of (g / green-02))
                               :frequency (o2 / occasional))))))
 
-# ::id test-195
+# ::id test-magpie_34464
+# ::magpie_sentence_no 139
 # ::idiom ring a bell
 # ::snt She rang the bell, and waited.
 # ::usage literal
@@ -4937,7 +5120,8 @@
       :op2 (w / wait-01
             :ARG1 s))
 
-# ::id test-196
+# ::id test-magpie_38624
+# ::magpie_sentence_no 3067
 # ::idiom read between the lines
 # ::snt ' Reading between the lines, ' said Melissa, ' I think he suspects her of killing Alain Gebrec, mistaking him for Erdle. '
 # ::usage figurative
@@ -4965,7 +5149,8 @@
             :condition (r / read-between-lines-09
                   :ARG0 ii)))
 
-# ::id test-197
+# ::id test-magpie_8505
+# ::magpie_sentence_no 1833
 # ::idiom open someone's eyes
 # ::snt Still it obstinately returned, and this time she opened her eyes, only to receive a jolt of shock as she focused.
 # ::usage literal
@@ -4989,7 +5174,8 @@
                   :time (f / focus-01
                         :ARG0 s2))))
 
-# ::id test-198
+# ::id test-magpie_29477
+# ::magpie_sentence_no 696
 # ::idiom in the long run
 # ::snt In the longer run, if Thailand is to sustain its growth rate it will need to create more jobs in higher - value - added industries.
 # ::usage figurative
@@ -5018,7 +5204,8 @@
                               :ARG1 r2)
                         :ARG3 (m3 / more)))))
 
-# ::id test-199
+# ::id test-magpie_7423
+# ::magpie_sentence_no 1659
 # ::idiom by heart
 # ::snt In methodology, explains Rivers ( 1964 ), this technique consists of learning the dialogue by heart, where the teacher suggests exactly what the students should say in both questions and answers.
 # ::usage figurative
@@ -5049,7 +5236,8 @@
             :time (d2 / date-entity
                   :year 1964)))
 
-# ::id test-200
+# ::id test-magpie_13146
+# ::magpie_sentence_no 6940
 # ::idiom hand to mouth
 # ::snt ‘ It is an achievement to play games at the moment, as we are literally living from hand to mouth.
 # ::usage figurative
@@ -5063,7 +5251,8 @@
                   :manner (p2 / precarious)
                   :manner (l2 / literal))))
 
-# ::id test-201
+# ::id test-magpie_38908
+# ::magpie_sentence_no 2544
 # ::idiom off the hook
 # ::snt Then the Animal Rights Activists can campaign against them, and let you off the hook.’
 # ::usage figurative
@@ -5081,7 +5270,8 @@
                         :ARG1 (y / you))))
       :time (t2 / then))
 
-# ::id test-202
+# ::id test-magpie_14408
+# ::magpie_sentence_no 561
 # ::idiom go without saying
 # ::snt It goes without saying that the draft should be checked carefully.
 # ::usage figurative
@@ -5091,7 +5281,8 @@
             :manner (c2 / careful))
       :ARG1-of (o / obvious-01))
 
-# ::id test-203
+# ::id test-magpie_198
+# ::magpie_sentence_no 379
 # ::idiom hold water
 # ::snt The Hydro Board were playing tunes with their dams, and did a great deal to lessen the impact by holding back as much water as they could.
 # ::usage literal
@@ -5120,7 +5311,8 @@
                                     :ARG4 (p2 / possible-01
                                           :ARG1 h)))))))
 
-# ::id test-204
+# ::id test-magpie_17450
+# ::magpie_sentence_no 227
 # ::idiom ring a bell
 # ::snt ' Well, er, ' said the vicar, ' I 'm not so sure about that but I 'll certainly ring the church bells. '
 # ::usage literal
@@ -5140,7 +5332,8 @@
       :mod (w / well
             :mode expressive))
 
-# ::id test-205
+# ::id test-magpie_42999
+# ::magpie_sentence_no 1458
 # ::idiom ring a bell
 # ::snt Well It rings a bell.
 # ::usage figurative
@@ -5149,7 +5342,8 @@
       :mod (w / well)
       :ARG2 (f / familiarize-02))
 
-# ::id test-206
+# ::id test-magpie_41835
+# ::magpie_sentence_no 3032
 # ::idiom open someone's eyes
 # ::snt Impulsively she touched her lips to his shoulder and he stirred sleepily, smiling as he opened his eyes.
 # ::usage literal
@@ -5172,7 +5366,8 @@
                   :ARG0 h
                   :ARG1 e)))
 
-# ::id test-207
+# ::id test-magpie_47168
+# ::magpie_sentence_no 2
 # ::idiom in a nutshell
 # ::snt In a nutshell : the implosion of the brave new world of modern finance, and the economic crisis that followed, was rooted in the idea that free and unregulated capital markets always work for the public good, and are all that is needed for economic prosperity.
 # ::usage figurative
@@ -5205,7 +5400,8 @@
                         :mod (a4 / all))))
       :mod (ii3 / in-short))
 
-# ::id test-208
+# ::id test-magpie_39226
+# ::magpie_sentence_no 601
 # ::idiom come to mind
 # ::snt Impractical, quixotic, unsuccessful, are all adjectives that come to mind when considering the strange phenomenon of the Foxton Inclined Plane.
 # ::usage figurative
@@ -5229,7 +5425,8 @@
                               :op2 "Inlined"
                               :op3 "Plane")))))
 
-# ::id test-209
+# ::id test-magpie_35524
+# ::magpie_sentence_no 2557
 # ::idiom change hands
 # ::snt The index closed 10.2 down on the day at 2,879.7, with 705 million shares changing hands.
 # ::usage figurative
@@ -5250,14 +5447,16 @@
                   :quant 10.2
                   :unit (d2 / dollar))))
 
-# ::id test-210
+# ::id test-magpie_39483
+# ::magpie_sentence_no 603
 # ::idiom change hands
 # ::snt Money changed hands.
 # ::usage figurative
 (c / change-hands-06
       :ARG1 (m / money))
 
-# ::id test-211
+# ::id test-magpie_18390
+# ::magpie_sentence_no 49
 # ::idiom hot air
 # ::snt The volume of hot air and waffle is suffocating — and it's all rot, and is doing users no service at all.
 # ::usage literal
@@ -5279,7 +5478,8 @@
                   :ARG0-of (u / use-01))
             :degree (a5 / at-all)))
 
-# ::id test-212
+# ::id test-magpie_45201
+# ::magpie_sentence_no 997
 # ::idiom break even
 # ::snt Kookai's sales last year were £ 10 m, on which the company is currently breaking even.
 # ::usage figurative
@@ -5296,7 +5496,8 @@
       :time (y / year
             :mod (l / last)))
 
-# ::id test-213
+# ::id test-magpie_44935
+# ::magpie_sentence_no 1008
 # ::idiom come to terms with
 # ::snt The decision rests on a balance between helping individuals to come to terms with what has happened in their lives at difficult times, risking the possibility of taking them back through stressful and disturbing memories, and leaving the past alone, risking the possibility that counsellees will never come to terms with what is disturbing them.
 # ::usage figurative
@@ -5334,7 +5535,8 @@
                                     :ARG1 ii))
                         :time (e2 / ever)))))
 
-# ::id test-214
+# ::id test-magpie_17514
+# ::magpie_sentence_no 295
 # ::idiom follow suit
 # ::snt Also, we decided to make a stylistic change on this record and I see a lot of other metal bands following suit.
 # ::usage figurative
@@ -5355,7 +5557,8 @@
                         :quant (l / lot))))
       :mod (a2 / also))
 
-# ::id test-215
+# ::id test-magpie_13905
+# ::magpie_sentence_no 14
 # ::idiom in the long run
 # ::snt Another, related, fallacy is the assumption that reforms can reap benefits only in the long run.
 # ::usage figurative
@@ -5371,7 +5574,8 @@
                               :ARG1-of (l / long-03)
                               :mod (o / only))))))
 
-# ::id test-216
+# ::id test-magpie_39836
+# ::magpie_sentence_no 523
 # ::idiom follow suit
 # ::snt With continental classics in vogue, you can both follow suit.
 # ::usage figurative
@@ -5383,7 +5587,8 @@
                   :mod (c2 / continent)
                   :ARG1-of (v / vogue-01))))
 
-# ::id test-217
+# ::id test-magpie_38033
+# ::magpie_sentence_no 1592
 # ::idiom in the long run
 # ::snt If you pin all your hopes on it, you may see improvements where there are none, and in the long run this could be very damaging to your child.
 # ::usage figurative
@@ -5412,7 +5617,8 @@
                   :time (r / run-13
                         :ARG1-of (l / long-03)))))
 
-# ::id test-218
+# ::id test-magpie_38680
+# ::magpie_sentence_no 25
 # ::idiom jump on the bandwagon
 # ::snt Don's let's be bamboozled into jumping on any passing bandwagon.
 # ::usage figurative
@@ -5427,7 +5633,8 @@
                   :ARG1-of (p / pass-03)
                   :mod (a / any))))
 
-# ::id test-219
+# ::id test-magpie_21247
+# ::magpie_sentence_no 1449
 # ::idiom go hand in hand
 # ::snt Ash - Wednesday, dedicated, originally, ‘ To My Wife’, deals, amongst other things, with the resignation of sex, which goes hand in hand with the abandoning of primitive ceremony, the link between such primitivism and the erotic being preserved.
 # ::usage figurative
@@ -5459,7 +5666,8 @@
       :time (d3 / date-entity
             :weekday (w2 / wednesday)))
 
-# ::id test-220
+# ::id test-magpie_26934
+# ::magpie_sentence_no 2
 # ::idiom from scratch
 # ::snt If you reinstall everything from scratch, yes, it will be like new.
 # ::usage figurative
@@ -5474,7 +5682,8 @@
                   :ARG1 e
                   :op1 (b / begin-01))))
 
-# ::id test-221
+# ::id test-magpie_35524
+# ::magpie_sentence_no 2557
 # ::idiom change hands
 # ::snt Spring Ram more than halved to 63.5p after forecasting a 28 per cent drop in profits to £ 26 million, with 25 million shares changing hands when trading resumed after Tuesday's suspension.
 # ::usage figurative
@@ -5507,7 +5716,8 @@
                               :time (d2 / date-entity
                                     :weekday (t2 / tuesday)))))))
 
-# ::id test-222
+# ::id test-magpie_6280
+# ::magpie_sentence_no 1961
 # ::idiom steer clear of
 # ::snt They 're more likely to steer clear of involvement.’
 # ::usage figurative
@@ -5519,7 +5729,8 @@
             :ARG1 s
             :ARG3 (m / more)))
 
-# ::id test-223
+# ::id test-magpie_31200
+# ::magpie_sentence_no 205
 # ::idiom in the long run
 # ::snt On the other hand there may be industries within the national economy in which enterprises stand to be progressively undercut by their international competitors in the long run.
 # ::usage figurative
@@ -5539,7 +5750,8 @@
                               :time (r / run-13
                                     :ARG1-of (l / long-03)))))))
 
-# ::id test-224
+# ::id test-magpie_15832
+# ::magpie_sentence_no 0
 # ::idiom green light
 # ::snt The European ~ Commission has given the green light to a co - operation agreement between Dresdner ~ Bank and Banque Nationale de ~ Paris ( BNP ).
 # ::usage figurative
@@ -5569,7 +5781,8 @@
       :ARG3 (o3 / operate-01
             :mod (t / together)))
 
-# ::id test-225
+# ::id test-magpie_17423
+# ::magpie_sentence_no 28
 # ::idiom turn a blind eye
 # ::snt Survival instinct is absolutely incredible, to see the wounds of a terrier and a fox when they have locked jaw locked and are pulled squealing out of a hole, I think I am deeply concerned about anybody here today that can turn that blind eye because what their terrier men are doing is dog fighting, make no bones about it, they won't be interested in laying the scent, they will not be interested in being retrained and helping your fraternity.
 # ::usage figurative
@@ -5632,7 +5845,8 @@
                   :ARG1 ii3
                   :ARG1-of (d2 / deep-02))))
 
-# ::id test-226
+# ::id test-magpie_34256
+# ::magpie_sentence_no 2667
 # ::idiom follow suit
 # ::snt But if you can help to sort out Mickey, the others will follow suit, I 'm sure.’
 # ::usage figurative
@@ -5650,7 +5864,8 @@
                                           :name (n / name
                                                 :op1 "Mickey"))))))))
 
-# ::id test-227
+# ::id test-magpie_16552
+# ::magpie_sentence_no 1339
 # ::idiom in the long run
 # ::snt But, although initial costs seem higher, in the long run dishwashing is the cheaper option.
 # ::usage figurative
@@ -5672,7 +5887,8 @@
                               :ARG1 c3)
                         :ARG3 (m2 / more)))))
 
-# ::id test-228
+# ::id test-magpie_24792
+# ::magpie_sentence_no 720
 # ::idiom steer clear of
 # ::snt Unless your home is totally dilapidated, steer clear of a complete redecoration prior to selling : it will arouse suspicion.
 # ::usage figurative
@@ -5694,7 +5910,8 @@
                   :ARG0 r
                   :ARG1 (s3 / suspect-01))))
 
-# ::id test-229
+# ::id test-magpie_8693
+# ::magpie_sentence_no 413
 # ::idiom come to mind
 # ::snt Turmoil is the word that comes to mind when one looks at the evolving British education system.
 # ::usage figurative
@@ -5711,7 +5928,8 @@
                               :op1 "Britain"))
                   :ARG1-of (e2 / evolve-01))))
 
-# ::id test-230
+# ::id test-magpie_47645
+# ::magpie_sentence_no 301
 # ::idiom go without saying
 # ::snt It goes without saying that once a person is charged his status is changed.
 # ::usage figurative
@@ -5722,7 +5940,8 @@
             :ARG1 p)
       :ARG1-of (o / obvious-01))
 
-# ::id test-231
+# ::id test-magpie_27203
+# ::magpie_sentence_no 93
 # ::idiom off the hook
 # ::snt And even now he can't believe he's off the hook.
 # ::usage figurative
@@ -5736,7 +5955,8 @@
                   :mod (e / even))
             :polarity "-"))
 
-# ::id test-232
+# ::id test-magpie_43347
+# ::magpie_sentence_no 14198
 # ::idiom cut loose
 # ::snt HOME ALONE 2 : LOST IN NEW YORK : Macaulay Culkin is cut loose from his parents once again in this highly - polished sequel.
 # ::usage figurative
@@ -5768,7 +5988,8 @@
                   :ARG1-of (p5 / polish-01
                         :degree (h2 / high-02)))))
 
-# ::id test-233
+# ::id test-magpie_21397
+# ::magpie_sentence_no 2
 # ::idiom bear in mind
 # ::snt The common position includes practically all of the amendments accepted by the Commission and harmonises the minimum examination requirements for safety advisers and, at second reading, we can accept the amendment on the proposed date, which is much more realistic than the one originally suggested by the Commission, bearing in mind that we have now spent several years debating this question.
 # ::usage figurative
@@ -5836,7 +6057,8 @@
             :ARG1 h)
       :ARG1 h)
 
-# ::id test-235
+# ::id test-magpie_4838
+# ::magpie_sentence_no 1209
 # ::idiom from scratch
 # ::snt Yet while Iago had to start from scratch, foment hatred, poison sight, and invert reality to set his chosen enemies against each other, all that Goneril and Regan have to do to get a third of Britain is to make the kind of noises Lear expects to hear ; indeed, since Cordelia won't flatter, they get her part too, and even her coronet as an unlooked - for bonus, Lear's only ‘ free gift’, to use the language of modern advertising promotions ( ‘ This coronet part between you’(King Lear, 1.
 # ::usage figurative
@@ -5931,7 +6153,8 @@
                                     :op1 (o4 / other
                                           :mod (e4 / each))))))))
 
-# ::id test-236
+# ::id test-magpie_11238
+# ::magpie_sentence_no 866
 # ::idiom hot air
 # ::snt He felt a lot of hot air was talked by some of the purists.
 # ::usage figurative
@@ -5947,7 +6170,8 @@
                   :quant (l / lot)
                   :polarity -)))
 
-# ::id test-237
+# ::id test-magpie_22407
+# ::magpie_sentence_no 1853
 # ::idiom open someone's eyes
 # ::snt ' Open your eyes, Gina — see for yourself. '
 # ::usage literal
@@ -5966,7 +6190,8 @@
                   :mod (b / by-oneself)))
       :ARG2 p)
 
-# ::id test-238
+# ::id test-magpie_21880
+# ::magpie_sentence_no 703
 # ::idiom fall short
 # ::snt I dare to go further : some of the most gifted and earnest among my contemporaries — I think of Edgar Dowers in the United States and Geoffrey Hill in the United Kingdom ( though I except Hill's wonderful Mercian Hymns ) — fall short of pleasing me as they might, because they seem not to have followed this rule of thumb, and their language is habitually for my taste a shade, or several shades, too grandiloquent or ‘ literary’.
 # ::usage figurative
@@ -6049,7 +6274,8 @@
                                           :ARG2 (h5 / habitual)
                                           :ARG3 t4)))))))
 
-# ::id test-239
+# ::id test-magpie_34721
+# ::magpie_sentence_no 485
 # ::idiom with a view to
 # ::snt Foster placement with strangers with a view to custodianship if all goes well.
 # ::usage figurative
@@ -6063,7 +6289,8 @@
             :ARG1 (a / all)
             :manner (w / well-09)))
 
-# ::id test-240
+# ::id test-magpie_45921
+# ::magpie_sentence_no 1382
 # ::idiom open someone's eyes
 # ::snt This time when he opened his eyes her face was turned towards him.
 # ::usage literal
@@ -6078,14 +6305,16 @@
             :mod (t2 / time
                   :mod (t3 / this))))
 
-# ::id test-241
+# ::id test-magpie_16016
+# ::magpie_sentence_no 1487
 # ::idiom call it a day
 # ::snt Castle calls it a day
 # ::usage figurative
 (s / stop-01
       :ARG0 (c / castle))
 
-# ::id test-242
+# ::id test-magpie_3530
+# ::magpie_sentence_no 2847
 # ::idiom cold feet
 # ::snt ‘ I wonder why people get cold feet,’ Killion remarked.
 # ::usage figurative
@@ -6102,7 +6331,8 @@
                               :ARG2 (n2 / nervous-01
                                     :ARG1 p2))))))
 
-# ::id test-243
+# ::id test-magpie_17665
+# ::magpie_sentence_no 14627
 # ::idiom bear in mind
 # ::snt Some of them have spent more terms in schools than others — which must be borne in mind when looking at the position of an individual pupil — but all those factors even out in the local authorities.
 # ::usage figurative
@@ -6132,7 +6362,8 @@
                   :ARG1-of (l2 / local-02))
             :mod (e / even)))
 
-# ::id test-244
+# ::id test-magpie_2712
+# ::magpie_sentence_no 1495
 # ::idiom in hot water
 # ::snt She had to bathe them in very hot water every night for months and fortunately the accident left no permanent damage.
 # ::usage literal
@@ -6159,7 +6390,8 @@
                   :mod (p / permanent))
             :ARG2-of (f / fortunate-01)))
 
-# ::id test-245
+# ::id test-magpie_27208
+# ::magpie_sentence_no 40
 # ::idiom tie the knot
 # ::snt The amount at the top that you need is just enough to tie a reef knot oh I 've forgot to show you a reef knot didn't I?
 # ::usage literal
@@ -6185,7 +6417,8 @@
                   :mode expressive)
             :ARG1-of (r2 / request-confirmation-91)))
 
-# ::id test-246
+# ::id test-magpie_3027
+# ::magpie_sentence_no 11
 # ::idiom behind bars
 # ::snt I booked the conference not realising it was gon na be the control room by this time, and then this morning I turned up to find out we can't put the lights on without getting behind the bar, and we can't get behind the bar so that's why this er
 # ::usage literal
@@ -6229,7 +6462,8 @@
             :dayperiod (m / morning)
             :mod (t6 / today)))
 
-# ::id test-247
+# ::id test-magpie_20246
+# ::magpie_sentence_no 195
 # ::idiom from scratch
 # ::snt We also have to provide support for the A N C for thirty years a banned organization having to start from scratch in a country where the majority is supported but having no party officers or structures in place because if we suspend support to them or reduce it it will be like having no support of them all this time and just when the bird is about to fly you clip its wings.
 # ::usage figurative
@@ -6285,7 +6519,8 @@
             :quant "30")
       :mod (a5 / also))
 
-# ::id test-248
+# ::id test-magpie_11687
+# ::magpie_sentence_no 9942
 # ::idiom follow suit
 # ::snt Chief coach Gordon Pritchard, forward coach Peter Souto and back coach Chris O'Brien all left the club — Pritchard offering his resignation after the game and Souto and O'Brien following suit yesterday.
 # ::usage figurative
@@ -6327,7 +6562,8 @@
                         :op2 p3)
                   :time (y / yesterday))))
 
-# ::id test-249
+# ::id test-magpie_36681
+# ::magpie_sentence_no 1989
 # ::idiom come to terms with
 # ::snt Now, slowly I began to come to terms with guilt.
 # ::usage figurative
@@ -6339,7 +6575,8 @@
       :ARG1-of (s / slow-05)
       :time (n / now))
 
-# ::id test-250
+# ::id test-magpie_3510
+# ::magpie_sentence_no 363
 # ::idiom break someone's heart
 # ::snt The blue eyes pierced through her with that cold, callous look that once was capable of breaking her heart.
 # ::usage figurative
@@ -6359,7 +6596,8 @@
                               :ARG1 s)
                         :time (o / once)))))
 
-# ::id test-251
+# ::id test-magpie_33432
+# ::magpie_sentence_no 134
 # ::idiom go hand in hand
 # ::snt In the past, raising productivity often went hand in hand with increased production ; now the emphasis will be on encouraging practices which will reduce costs, save energy, improve living and working conditions, protect and improve the environment and raise the quality and value of products leaving the farm.
 # ::usage figurative
@@ -6399,7 +6637,8 @@
                                                 :poss p6))))))
             :time (n / now)))
 
-# ::id test-252
+# ::id test-magpie_21937
+# ::magpie_sentence_no 4663
 # ::idiom green light
 # ::snt Among the immediate beneficiaries of a green light on young cattle would be pedigree breeders — particularly those from the South - west offering Galloways.
 # ::usage figurative
@@ -6418,7 +6657,8 @@
                         :topic c)
                   :time (ii2 / immediate))))
 
-# ::id test-253
+# ::id test-magpie_38816
+# ::magpie_sentence_no 1051
 # ::idiom fall short
 # ::snt However, since inflation was well established in people's expectations and was therefore reflected in their price - setting behaviour it was thought that a sudden reduction in monetary growth might cause demand to fall short of nominal output and cause a rise in unemployment.
 # ::usage figurative
@@ -6456,7 +6696,8 @@
                                     :ARG0-of (s3 / set-02
                                           :ARG1 (p3 / price))))))))
 
-# ::id test-254
+# ::id test-magpie_38207
+# ::magpie_sentence_no 72
 # ::idiom break someone's heart
 # ::snt If they recovered and were friends she was delighted, and would flirt with them, and assume an easy physicality with them, and sleep with them again maybe, and break their hearts again if given half a chance.
 # ::usage figurative
@@ -6493,7 +6734,8 @@
                   :ARG0 t
                   :ARG2 (f2 / friend))))
 
-# ::id test-255
+# ::id test-magpie_18899
+# ::magpie_sentence_no 4355
 # ::idiom green light
 # ::snt Alcatel spokesman John Highhams confirmed last night his company had been promised the contract if the project was given the green light in the Chancellor's Autumn statement.
 # ::usage figurative
@@ -6525,7 +6767,8 @@
       :dayperiod (n3 / night)
       :mod (y / yesterday))
 
-# ::id test-256
+# ::id test-magpie_26734
+# ::magpie_sentence_no 946
 # ::idiom go hand in hand
 # ::snt This catalogue of complaints represents a group of disciplinary problems that go hand in hand.
 # ::usage figurative
@@ -6539,7 +6782,8 @@
                   :ARG1-of (g2 / go-01
                         :manner (t2 / together)))))
 
-# ::id test-257
+# ::id test-magpie_40172
+# ::magpie_sentence_no 259
 # ::idiom follow suit
 # ::snt Penny Warlock decided to follow suit.
 # ::usage figurative
@@ -6551,7 +6795,8 @@
       :ARG1 (f / follow-suit-06
             :ARG0 p))
 
-# ::id test-258
+# ::id test-magpie_31486
+# ::magpie_sentence_no 13102
 # ::idiom break someone's heart
 # ::snt ‘ Kenton Ward is like our second home and it would break our hearts if it closed.’
 # ::usage figurative
@@ -6571,7 +6816,8 @@
             :condition (c2 / close-01
                   :ARG1 ii)))
 
-# ::id test-259
+# ::id test-magpie_5489
+# ::magpie_sentence_no 124
 # ::idiom bear fruit
 # ::snt IN THE countries of Eastern Europe, political stability seems to be eroding just as economic reform bears fruit.
 # ::usage figurative
@@ -6590,7 +6836,8 @@
                         :op1 "Eastern"
                         :op2 "Europe"))))
 
-# ::id test-260
+# ::id test-magpie_5158
+# ::magpie_sentence_no 3170
 # ::idiom go hand in hand
 # ::snt Once we have cleared the loan we will look at ways to buy our own premises with the help of our Small Self - Administered Scheme, so our Corporate and Pensions Planning go hand in hand.’
 # ::usage figurative
@@ -6620,7 +6867,8 @@
                               :ARG1 (p4 / pension)))
                   :manner (t / together))))
 
-# ::id test-261
+# ::id test-magpie_7547
+# ::magpie_sentence_no 261
 # ::idiom come to mind
 # ::snt A thought suddenly came to mind.
 # ::usage figurative
@@ -6629,7 +6877,8 @@
             :ARG1-of (t2 / think-01))
       :manner (s / sudden))
 
-# ::id test-262
+# ::id test-magpie_40523
+# ::magpie_sentence_no 668
 # ::idiom come to mind
 # ::snt The picture comes to mind of Miss Havisham in Charles Dickens ' Great Expectations sitting in her wedding dress for many years waiting for the groom who will not come.
 # ::usage figurative
@@ -6663,7 +6912,8 @@
                         :op3 "Great"
                         :op4 "Examples"))))
 
-# ::id test-263
+# ::id test-magpie_1557
+# ::magpie_sentence_no 241
 # ::idiom in the long run
 # ::snt Pétain was also a disciple of attrition, but in an entirely different sense from Joffre and Haig with their inhumanly simple calculations that the Germans could be beaten in the long run through losing man for man, by virtue of the Allied superiority in cannon fodder.
 # ::usage figurative
@@ -6708,7 +6958,8 @@
                               :polarity -)
                         :degree (e / entire)))))
 
-# ::id test-264
+# ::id test-magpie_42162
+# ::magpie_sentence_no 935
 # ::idiom hold water
 # ::snt One wonders how much longer this reasoning will hold water, as a steadily growing proportion of British legislation begins life in Brussels or Strasbourg.
 # ::usage figurative
@@ -6742,7 +6993,8 @@
                                     :name (n3 / name
                                           :op1 "Strasbourg")))))))
 
-# ::id test-265
+# ::id test-magpie_11312
+# ::magpie_sentence_no 16098
 # ::idiom bear in mind
 # ::snt Bearing in mind his experience and his information, I am pleased to hear his tribute to the quality of HMS Norfolk — as it happens, the first of class, built at Yarrow.
 # ::usage figurative
@@ -6771,7 +7023,8 @@
                   :op2 (ii2 / information
                         :poss h2))))
 
-# ::id test-266
+# ::id test-magpie_45448
+# ::magpie_sentence_no 474
 # ::idiom break even
 # ::snt If the expected rate of inflation is higher than the break - even rate of inflation, investors will prefer the index - linked bond.
 # ::usage figurative
@@ -6809,7 +7062,8 @@
                         :ARG1 s
                         :ARG3 (t / too)))))
 
-# ::id test-268
+# ::id test-magpie_15930
+# ::magpie_sentence_no 78
 # ::idiom come to mind
 # ::snt Three possible explanations come to mind.
 # ::usage figurative
@@ -6818,7 +7072,8 @@
             :quant 3
             :ARG1-of (p / possible-01)))
 
-# ::id test-269
+# ::id test-magpie_36320
+# ::magpie_sentence_no 915
 # ::idiom cut corners
 # ::snt If it's rough, the manufacturer has cut corners by not sealing the back edge.
 # ::usage figurative
@@ -6833,7 +7088,8 @@
                   :mod (b / back))
             :polarity "-"))
 
-# ::id test-270
+# ::id test-magpie_47383
+# ::magpie_sentence_no 206
 # ::idiom fall short
 # ::snt — by recording and reviewing number of courses and coaching awards gained, and, if appropriate, recording the constraints which contributed to the results falling short of the target.
 # ::usage figurative
@@ -6857,7 +7113,8 @@
                                     :ARG2 (t / target)))))
             :condition (a4 / appropriate-02)))
 
-# ::id test-271
+# ::id test-magpie_23914
+# ::magpie_sentence_no 488
 # ::idiom go hand in hand
 # ::snt There seems to be a tendency towards centralisation, paradoxically going hand in hand with devolution.
 # ::usage figurative
@@ -6869,7 +7126,8 @@
                   :manner (t2 / together)
                   :manner (p / paradox))))
 
-# ::id test-272
+# ::id test-magpie_45080
+# ::magpie_sentence_no 1888
 # ::idiom open someone's eyes
 # ::snt Wearily, Gazzer opened his eyes.
 # ::usage literal
@@ -6881,7 +7139,8 @@
       :ARG1 e
       :manner (w / weary))
 
-# ::id test-273
+# ::id test-magpie_15023
+# ::magpie_sentence_no 1206
 # ::idiom spill the beans
 # ::snt Superchefs spill the beans
 # ::usage figurative
@@ -6905,7 +7164,8 @@
       :op2 (c / crunch-01
             :ARG0 h))
 
-# ::id test-275
+# ::id test-magpie_11924
+# ::magpie_sentence_no 4103
 # ::idiom throw in the towel
 # ::snt She was acquitted on 17 counts of murder but admitted manslaughter during the trial which dramatically collapsed when the INLA bomb gang threw in the towel and changed their pleas.
 # ::usage figurative
@@ -6934,7 +7194,8 @@
                                     :ARG1 (p2 / plead-02
                                           :ARG0 g2)))))))
 
-# ::id test-276
+# ::id test-magpie_90
+# ::magpie_sentence_no 131
 # ::idiom fall short
 # ::snt The trainers suggest that, as guards, they fell short of expectations.
 # ::usage figurative
@@ -6960,7 +7221,8 @@
             :op1 (s / sense-02
                   :polarity -)))
 
-# ::id test-278
+# ::id test-magpie_13800
+# ::magpie_sentence_no 161
 # ::idiom turn a blind eye
 # ::snt Directors know this is going on and turn a blind eye.
 # ::usage figurative
@@ -6976,7 +7238,8 @@
             :ARG1 (e / eye
                   :ARG1-of (b / blind-02))))
 
-# ::id test-279
+# ::id test-magpie_14845
+# ::magpie_sentence_no 3509
 # ::idiom green light
 # ::snt The election is also giving a green light for policies about the environment.
 # ::usage figurative
@@ -6987,7 +7250,8 @@
             :ARG2 (e2 / environment))
       :mod (a / also))
 
-# ::id test-280
+# ::id test-magpie_3629
+# ::magpie_sentence_no 2068
 # ::idiom steer clear of
 # ::snt I think readers should be warned to steer clear of these fish in the future.
 # ::usage figurative
@@ -7003,7 +7267,8 @@
                         :time (f2 / future))
                   :ARG2 p)))
 
-# ::id test-281
+# ::id test-magpie_29029
+# ::magpie_sentence_no 1391
 # ::idiom ring a bell
 # ::snt On the Monday and the Tuesday he came to the front of the house and rang the hall door bell.
 # ::usage literal
@@ -7023,7 +7288,8 @@
             :op2 (d3 / date-entity
                   :weekday (t / tuesday))))
 
-# ::id test-282
+# ::id test-magpie_46693
+# ::magpie_sentence_no 787
 # ::idiom ring a bell
 # ::snt He rang a bell on the desk and Rossman entered.
 # ::usage literal
@@ -7047,7 +7313,8 @@
       :duration (s / season
             :quant (m / many)))
 
-# ::id test-284
+# ::id test-magpie_9265
+# ::magpie_sentence_no 1471
 # ::idiom follow suit
 # ::snt The Privy Council on 26 February authorised the Bank to refuse cash payments, and the country banks had to follow suit by tendering Bank of England notes in the stead of gold.
 # ::usage figurative
@@ -7080,7 +7347,8 @@
                               :ARG1-of (ii / instead-of-91
                                     :ARG2 (g2 / gold)))))))
 
-# ::id test-285
+# ::id test-magpie_42631
+# ::magpie_sentence_no 3101
 # ::idiom by heart
 # ::snt For the second lot, he may have another code which I don't have or he just knows them by heart.
 # ::usage figurative
@@ -7102,7 +7370,8 @@
             :ord (o2 / ordinal-entity
                   :value 2)))
 
-# ::id test-286
+# ::id test-magpie_38528
+# ::magpie_sentence_no 1280
 # ::idiom open someone's eyes
 # ::snt I opened my eyes and turned around to face her.
 # ::usage literal
@@ -7118,7 +7387,8 @@
                   :ARG0 ii
                   :ARG1 (s / she))))
 
-# ::id test-287
+# ::id test-magpie_5739
+# ::magpie_sentence_no 833
 # ::idiom open someone's eyes
 # ::snt Marian opened her eyes suddenly.
 # ::usage literal
@@ -7130,7 +7400,8 @@
       :ARG1 e
       :manner (s / sudden))
 
-# ::id test-288
+# ::id test-magpie_10384
+# ::magpie_sentence_no 726
 # ::idiom in hot water
 # ::snt If there were no regularity at all, if the sort of sensation which is caused by being in hot water were equally often caused by being in cold water, and vice versa, then we would be denied even the possibility of this notional classification.
 # ::usage literal
@@ -7164,7 +7435,8 @@
                         :mod (v / vice
                               :mod (b3 / both))))))
 
-# ::id test-289
+# ::id test-magpie_32266
+# ::magpie_sentence_no 256
 # ::idiom come to terms with
 # ::snt Here, Joanna, her mother and father John tell Penny Wark of their struggle to come to terms with tragedy.
 # ::usage figurative
@@ -7193,7 +7465,8 @@
       :ARG2 a
       :location (h2 / here))
 
-# ::id test-290
+# ::id test-magpie_20858
+# ::magpie_sentence_no 539
 # ::idiom come to grips with
 # ::snt It means that peasants do not have to learn a second language — French — before they come to grips with the written word.
 # ::usage figurative
@@ -7216,7 +7489,8 @@
                               :ARG1-of (w2 / write-01))))
             :polarity "-"))
 
-# ::id test-291
+# ::id test-magpie_15014
+# ::magpie_sentence_no 465
 # ::idiom fall short
 # ::snt This enabled me to gain an impression of the school and while falling short of a full ‘ ethnography’, I was aware of tensions, problems and the atmosphere in which the self - evaluation project was launched.
 # ::usage figurative
@@ -7243,7 +7517,8 @@
                         :ARG2 (e3 / ethnography
                               :mod (f2 / full))))))
 
-# ::id test-292
+# ::id test-magpie_23476
+# ::magpie_sentence_no 0
 # ::idiom go hand in hand
 # ::snt However, the expansion of trade has gone hand - in - hand with a drastic slowing of real economic progress.
 # ::usage figurative
@@ -7258,7 +7533,8 @@
                   :mod (d / drastic))
             :manner (t2 / together)))
 
-# ::id test-293
+# ::id test-magpie_23690
+# ::magpie_sentence_no 300
 # ::idiom break even
 # ::snt Presenting the final 1992 results ( figures, page seven ), Ing C Olivetti & Co SpA said that sales in lire terms rose 5.5 % in the first three months of 1993 from a year earlier, but they didn't give any absolute revenue figures ; in terms of volume, Olivetti said personal computer sales in Europe jumped 72 % in the first quarter from a year earlier, printer sales rose 42 % ; the firm will break even at the operating level this year but will not return to profit until 1994, chairman Carlo De Benedetti said.
 # ::usage figurative
@@ -7348,7 +7624,8 @@
       :time (y2 / year
             :mod t3))
 
-# ::id test-294
+# ::id test-magpie_600
+# ::magpie_sentence_no 2129
 # ::idiom over the hill
 # ::snt She sat on the corner of the old sofa with her legs folded under her and stared at the window, willing the oil lamp not to sputter and distort the sounds that belonged to the night : the true night that lay outside in the garden and the valley and held dominion over the hills.
 # ::usage literal
@@ -7389,7 +7666,8 @@
                                                       :location (o4 / over
                                                             :op1 (h2 / hill)))))))))))
 
-# ::id test-295
+# ::id test-magpie_42763
+# ::magpie_sentence_no 15
 # ::idiom in the long run
 # ::snt A general principle for an efficient tax system is to collect a given amount of revenue ( corresponding in the long run to the government ’s spending ) in a way that causes as little distortion as possible to the overall economy.
 # ::usage figurative
@@ -7418,7 +7696,8 @@
                                     :ARG1 d)))
                   :ARG0 c)))
 
-# ::id test-296
+# ::id test-magpie_1870
+# ::magpie_sentence_no 12113
 # ::idiom fall short
 # ::snt They had sublet another 40 hectares because their 52 hectares of valley and mountain holdings still fall well short of their needs.
 # ::usage figurative
@@ -7445,7 +7724,8 @@
                         :degree (w / well)
                         :mod (s3 / still)))))
 
-# ::id test-297
+# ::id test-magpie_38982
+# ::magpie_sentence_no 1886
 # ::idiom ring a bell
 # ::snt ' One day I 'm going to ring that bell, ' said Jasper, puffing away.
 # ::usage literal
@@ -7462,7 +7742,8 @@
             :time (d / day
                   :mod (o / one))))
 
-# ::id test-298
+# ::id test-magpie_3387
+# ::magpie_sentence_no 3614
 # ::idiom spill the beans
 # ::snt Come on, spill the beans.
 # ::usage figurative
@@ -7474,7 +7755,8 @@
             :mode imperative
             :ARG1 y))
 
-# ::id test-299
+# ::id test-magpie_32148
+# ::magpie_sentence_no 1758
 # ::idiom go without saying
 # ::snt It goes without saying that an ability to write and speak fluently is vital.
 # ::usage figurative
@@ -7486,7 +7768,8 @@
                   :manner (f / fluent)))
       :ARG1-of (o / obvious-01))
 
-# ::id test-300
+# ::id test-magpie_19535
+# ::magpie_sentence_no 1858
 # ::idiom hold water
 # ::snt The mudskipper manages to do so by holding water in its mouth which it swills over the lining of its mouth with a rolling action of its head to extract the oxygen.
 # ::usage literal
@@ -7512,7 +7795,8 @@
                                     :ARG1 (o / oxygen))))
                   :location m3)))
 
-# ::id test-301
+# ::id test-magpie_46255
+# ::magpie_sentence_no 1570
 # ::idiom hot air
 # ::snt In what other job might you call in and use a hot air balloon to appear over a city on a publicity stunt and that same afternoon sit in on a seminar which you have arranged as a scientific event?
 # ::usage literal
@@ -7550,7 +7834,8 @@
             :mod (o2 / other)
             :mod (a7 / amr-unknown)))
 
-# ::id test-302
+# ::id test-magpie_29554
+# ::magpie_sentence_no 1546
 # ::idiom from scratch
 # ::snt If you were trying to train one from scratch and made an error like that it could easily mess up an entire day's work.
 # ::usage figurative
@@ -7578,7 +7863,8 @@
                         :ARG1-of (r / resemble-01
                               :ARG2 t3)))))
 
-# ::id test-303
+# ::id test-magpie_47713
+# ::magpie_sentence_no 341
 # ::idiom over the hill
 # ::snt Well the weather forecast for tonight in the East Midlands, rain and cloudy with mist over hills and the rain rather persistent with some heavy bursts as well.
 # ::usage literal
@@ -7607,7 +7893,8 @@
                         :mod (a3 / as-well)
                         :quant (s / some)))))
 
-# ::id test-304
+# ::id test-magpie_23307
+# ::magpie_sentence_no 937
 # ::idiom come to terms with
 # ::snt They 've been trying to come to terms with what's happened ever since.
 # ::usage figurative
@@ -7619,7 +7906,8 @@
       :time (s / since
             :mod (e2 / ever)))
 
-# ::id test-305
+# ::id test-magpie_9816
+# ::magpie_sentence_no 318
 # ::idiom come to terms with
 # ::snt Other indigenous elderly people with set ideas may find it hard to come to terms with living in a multiracial community, and being offered care by a member of a minority group.
 # ::usage figurative
@@ -7649,7 +7937,8 @@
                                     :ARG1 (c3 / care-03
                                           :ARG0 p3)))))))
 
-# ::id test-306
+# ::id test-magpie_33133
+# ::magpie_sentence_no 801
 # ::idiom with a view to
 # ::snt "Although unfortunately details of the projects are tantalizingly hard to ascertain, at least two attempts were made after 1888 by the Edinburgh Typographical Society to set up a women's union, The first, in the late 1880s, is referred to only in the retrospective "" statement on the Female Question "", published in 1904 ; Miss Black of London [ who must have been Clementina Black]a lady who was well - known for her efforts to improve the social condition of her sex, offered to make an endeavour to organise the female compositors in Edinburgh, with a view to remedying the evils complained of by the journeymen."
 # ::usage figurative
@@ -7720,7 +8009,8 @@
                         :op1 (d4 / date-entity
                               :year 1880)))))
 
-# ::id test-307
+# ::id test-magpie_25559
+# ::magpie_sentence_no 1554
 # ::idiom bear fruit
 # ::snt In marked contrast with this ready compliance, virtually none of the recommendations for action to be taken by members of the Senior Management Team had borne fruit a year later.
 # ::usage figurative
@@ -7746,7 +8036,8 @@
                   :mod (t3 / this))
             :ARG1-of (m3 / mark-01)))
 
-# ::id test-308
+# ::id test-magpie_5948
+# ::magpie_sentence_no 5521
 # ::idiom change hands
 # ::snt MONEY MANIA : A trader yells himself hoarse in the deafening pit where fortunes changed hands
 # ::usage figurative
@@ -7777,7 +8068,8 @@
             :ARG1 (n / night
                   :ARG1-of (g2 / good-02))))
 
-# ::id test-310
+# ::id test-magpie_27906
+# ::magpie_sentence_no 141
 # ::idiom in the long run
 # ::snt In the long run it was to create a new ' image ' of itself which was purposely devoid of politics, as well as left - wing politics.
 # ::usage figurative
@@ -7794,7 +8086,8 @@
       :time (r / run-13
             :ARG1-of (l2 / long-03)))
 
-# ::id test-311
+# ::id test-magpie_48210
+# ::magpie_sentence_no 69
 # ::idiom with a view to
 # ::snt The demand may be advertised in one or more newspapers if the demand is for payment of a sum due under a judgment or order and the creditor knows or believes that the debtor has absconded or is keeping out of the way with a view to avoiding service and there is no real prospect of the debt being recovered by any enforcement action.
 # ::usage figurative
@@ -7840,7 +8133,8 @@
                               :mod (a6 / any)))
                   :ARG1-of (r2 / real-04))))
 
-# ::id test-312
+# ::id test-magpie_33514
+# ::magpie_sentence_no 1205
 # ::idiom come to grips with
 # ::snt He thought of Beryl and the need to come to grips with the Garland set - up as it had been before the old man's death.
 # ::usage figurative
@@ -7863,7 +8157,8 @@
                                           :ARG1 (m / man
                                                 :mod (o / old)))))))))
 
-# ::id test-313
+# ::id test-magpie_45031
+# ::magpie_sentence_no 1836
 # ::idiom behind bars
 # ::snt In one corner of the clubhouse a group of children were obviously waiting for someone, and behind the bar the steward polished glasses busily.
 # ::usage literal
@@ -7883,7 +8178,8 @@
             :location (b2 / behind
                   :op1 (b3 / bar))))
 
-# ::id test-314
+# ::id test-magpie_47024
+# ::magpie_sentence_no 2845
 # ::idiom spill the beans
 # ::snt Old Ferg spill some beans up in them there hills? '
 # ::usage figurative
@@ -7899,7 +8195,8 @@
             :location (t / there))
       :direction (u / up))
 
-# ::id test-315
+# ::id test-magpie_20385
+# ::magpie_sentence_no 3244
 # ::idiom hot air
 # ::snt For proper ventilation, cool air must be drawn in at the base to replace the hot air that has been extracted.
 # ::usage literal
@@ -7932,7 +8229,8 @@
                   :op1 (b / birthday
                         :poss ii))))
 
-# ::id test-317
+# ::id test-magpie_38589
+# ::magpie_sentence_no 25
 # ::idiom follow suit
 # ::snt We only hope other publishers will follow suit.’
 # ::usage figurative
@@ -7944,7 +8242,8 @@
                   :mod (o / other)))
       :mod (o2 / only))
 
-# ::id test-318
+# ::id test-magpie_28657
+# ::magpie_sentence_no 967
 # ::idiom come to mind
 # ::snt Listening to these performances, often taken at relatively modest speeds ( eg. the D major and G major Fugues, Book One, the thought that too much velocity and technical facility can be harmful comes to mind.
 # ::usage figurative
@@ -7992,7 +8291,8 @@
       :manner (ii / intervene-01
             :quant (l / little)))
 
-# ::id test-320
+# ::id test-magpie_19964
+# ::magpie_sentence_no 2729
 # ::idiom turn a blind eye
 # ::snt We sing dumb anyway Turn a blind eye,
 # ::usage figurative
@@ -8007,7 +8307,8 @@
             :ARG1 (e / eye
                   :ARG1-of (b / blind-02))))
 
-# ::id test-321
+# ::id test-magpie_13846
+# ::magpie_sentence_no 7712
 # ::idiom turn a blind eye
 # ::snt The best the authorities could do was turn a blind eye.
 # ::usage figurative
@@ -8023,7 +8324,8 @@
                         :ARG1 t)
                   :ARG3 (m / most))))
 
-# ::id test-322
+# ::id test-magpie_40716
+# ::magpie_sentence_no 896
 # ::idiom by heart
 # ::snt ‘ It must be very useful,’ James said with utter sincerity, ‘ to know all the rules of cricket by heart.’
 # ::usage figurative
@@ -8042,7 +8344,8 @@
       :manner (s2 / sincerity
             :mod (u2 / utter)))
 
-# ::id test-323
+# ::id test-magpie_34383
+# ::magpie_sentence_no 15
 # ::idiom fall short
 # ::snt Second, the Obama administration ’s proposed emissions - reduction targets will be the high - water mark for Congress, but will fall short of the EU ’s 20/20 / 20 pledge.
 # ::usage figurative
@@ -8087,7 +8390,8 @@
             :ARG0 s
             :ARG1 (a / anything)))
 
-# ::id test-325
+# ::id test-magpie_23508
+# ::magpie_sentence_no 2341
 # ::idiom behind bars
 # ::snt Ruth was helping behind the bar, washing up glasses, and he asked her, ' Did the Welsh lad take himself off?
 # ::usage literal
@@ -8126,7 +8430,8 @@
                   :ARG1-of (c / correct-02)))
       :ARG2 w)
 
-# ::id test-327
+# ::id test-magpie_16175
+# ::magpie_sentence_no 196
 # ::idiom with a view to
 # ::snt The conservation strategy will focus initially on building up an information database on the region's bird life, and on conducting further surveys, with a view to making information available to locally - based researchers.
 # ::usage figurative
@@ -8155,7 +8460,8 @@
                   :ARG3 (ii2 / information)))
       :time (ii3 / initial))
 
-# ::id test-328
+# ::id test-magpie_40420
+# ::magpie_sentence_no 3617
 # ::idiom ring a bell
 # ::snt He rang the bell.
 # ::usage literal
@@ -8163,7 +8469,8 @@
       :ARG0 (h / he)
       :ARG1 (b / bell))
 
-# ::id test-329
+# ::id test-magpie_35372
+# ::magpie_sentence_no 1671
 # ::idiom hot air
 # ::snt However, standing at the top of a ladder with a hot air gun is not funny when the weather is freezing cold, and a better answer is the hot towel treatment, especially with plastic waste pipes, which may melt if heated too much.
 # ::usage literal
@@ -8200,7 +8507,8 @@
                               :ARG1 a3)
                         :ARG3 (m3 / more)))))
 
-# ::id test-330
+# ::id test-magpie_11300
+# ::magpie_sentence_no 1216
 # ::idiom follow suit
 # ::snt The glossies followed suit, dutifully documenting the band's progress and blindly including this strange bunch of yokels among the smiling blonds beautiful masses.
 # ::usage figurative
@@ -8224,7 +8532,8 @@
                               :ARG0-of (s2 / smile-01)))
                   :ARG1-of (b5 / blind-02))))
 
-# ::id test-331
+# ::id test-magpie_16557
+# ::magpie_sentence_no 12
 # ::idiom follow suit
 # ::snt Five ~ Nordic countries have joined the US Treasury in ending public financing of new coal - fired power ~ plants overseas, and others may soon follow suit.
 # ::usage figurative
@@ -8257,7 +8566,8 @@
                   :ARG1 j
                   :time (s / soon))))
 
-# ::id test-332
+# ::id test-magpie_32185
+# ::magpie_sentence_no 11038
 # ::idiom fall short
 # ::snt In view of the congestion on motorways and major trunk roads, do not those figures still fall short of what is necessary and desirable, despite the improvement that has been made in the past three years?
 # ::usage figurative
@@ -8287,7 +8597,8 @@
                               :mod (t5 / trunk)
                               :ARG1-of (m2 / major-02))))))
 
-# ::id test-333
+# ::id test-magpie_5152
+# ::magpie_sentence_no 2612
 # ::idiom by heart
 # ::snt Oh, she should have paid more attention to him when they lay close ; she should have absorbed the hollows and smoothness of his brow and learned him by heart.
 # ::usage figurative
@@ -8320,7 +8631,8 @@
                               :part b)
                         :manner (b2 / by-heart)))))
 
-# ::id test-334
+# ::id test-magpie_40058
+# ::magpie_sentence_no 151
 # ::idiom bear in mind
 # ::snt Similarly, in Jefferson v Cape Insulation Ltd ( 3 December 1981 ) Farquharson J awarded substantial damages to a woman who knew she must soon die of mesothelioma for her evident distress in being parted from her family : per Farquharson J : I have also to bear in mind … that the major misery this woman is going to sustain is not the pain, serious and terrible as that is, but the prospect which must be continually in her mind of being parted from her family, and particularly her youngest child.
 # ::usage figurative
@@ -8390,7 +8702,8 @@
             :ARG1-of (s4 / say-01
                   :ARG0 p)))
 
-# ::id test-335
+# ::id test-magpie_18830
+# ::magpie_sentence_no 276
 # ::idiom come to terms with
 # ::snt On the other hand, virtually all the demands which the Anglicans had been pressing for in their attempts to come to terms with James, such as those made by the bishops in their meeting with the King on 3 October, did.
 # ::usage figurative
@@ -8425,7 +8738,8 @@
                               :month 10)))
             :mod a2))
 
-# ::id test-336
+# ::id test-magpie_32959
+# ::magpie_sentence_no 406
 # ::idiom go hand in hand
 # ::snt French and Jewish ‘ influence’ went hand in hand for many Germans and allowed Völkisch opinion on the matter to flourish : slowly but surely the word Völk came to mean not simply ‘ people’, but also ‘ populist’, and to imply a sense of common identity and of racial superiority over those peoples who needed the French to emancipate them.
 # ::usage figurative
@@ -8506,7 +8820,8 @@
       :time (h2 / harvest-01
             :ARG1-of (g / good-02)))
 
-# ::id test-339
+# ::id test-magpie_46740
+# ::magpie_sentence_no 1003
 # ::idiom come to mind
 # ::snt It's amazing the ideas that can come to mind with a little thought and some extra effort on your part.
 # ::usage figurative
@@ -8522,7 +8837,8 @@
                               :mod (e2 / extra)
                               :quant (s / some))))))
 
-# ::id test-340
+# ::id test-magpie_14474
+# ::magpie_sentence_no 548
 # ::idiom over the hill
 # ::snt The road rolled over a hill and curled down among flesh - pink dunes.
 # ::usage literal
@@ -8552,7 +8868,8 @@
             :ARG1 (k / knot)
             :instrument f))
 
-# ::id test-342
+# ::id test-magpie_34877
+# ::magpie_sentence_no 196
 # ::idiom over the hill
 # ::snt They attributed the idea of ‘ Wayfarers All’ to a walk over the hills towards the West of Fowey, St. Catherine's Castle and beyond.
 # ::usage literal
@@ -8577,7 +8894,8 @@
             :path (o / over
                   :op1 (h / hill))))
 
-# ::id test-343
+# ::id test-magpie_26085
+# ::magpie_sentence_no 954
 # ::idiom with a view to
 # ::snt In other words, a hearer will generally assume that the producer of an utterance wants to communicate something, and has chosen the linguistic context of his utterance with a view to furthering this aim.
 # ::usage figurative
@@ -8606,7 +8924,8 @@
       :ARG1-of (w2 / word-01
             :mod (o / other)))
 
-# ::id test-344
+# ::id test-magpie_1091
+# ::magpie_sentence_no 816
 # ::idiom bite the dust
 # ::snt Sugar's buy - out bites the dust
 # ::usage figurative
@@ -8616,7 +8935,8 @@
                   :name (n / name
                         :op1 "Sugar"))))
 
-# ::id test-345
+# ::id test-magpie_48075
+# ::magpie_sentence_no 14
 # ::idiom in a nutshell
 # ::snt I mean suddenly we had the example of a women's support group from the miner's strike th that we had the idea you know fr from that erm and Yona really put it in a nutshell when she said I think er er you know behind closed doors the women worrying about what was gon na happen next you know they felt very frustrated and in a way it was a way to channel o our energies away i i i it was seen as that really in the beginning you know as a a sort of a more as a way of getting rid of the well y you know the sort of desperation er the impotence one felt of not being able to do anything in this situation and it's er and by now of course we 've all become as a group very close er you know we 're we 're more like a big family now really an sort of er a lot of the women have never really sort of regularly been to meetings an th the commitment there is very strong really that we all turn up to our Tuesday meetings sort of.
 # ::usage figurative
@@ -8718,7 +9038,8 @@
                   :mod (ii4 / in-short)))
       :ARG3 m3)
 
-# ::id test-346
+# ::id test-magpie_3324
+# ::magpie_sentence_no 338
 # ::idiom change hands
 # ::snt Ecstasy tablets now change hands for £ 20 a time.
 # ::usage figurative
@@ -8732,7 +9053,8 @@
             :ARG2 (t2 / time))
       :time (n / now))
 
-# ::id test-347
+# ::id test-magpie_5254
+# ::magpie_sentence_no 86
 # ::idiom fall short
 # ::snt KLM's part in the NorthWest deal falls short of the 25 per cent limit placed on foreign ownership by the Federal Aviation Act of 1958.
 # ::usage figurative
@@ -8761,7 +9083,8 @@
                               :time (d2 / date-entity
                                     :year 1958))))))
 
-# ::id test-348
+# ::id test-magpie_4460
+# ::magpie_sentence_no 3021
 # ::idiom by heart
 # ::snt They knew the words of all these protest songs by heart.
 # ::usage figurative
@@ -8774,7 +9097,8 @@
                   :mod (t2 / this)))
       :manner (b / by-heart))
 
-# ::id test-349
+# ::id test-magpie_14140
+# ::magpie_sentence_no 1187
 # ::idiom change hands
 # ::snt Some 150,000 homes changed hands in this way in 1988.
 # ::usage figurative
@@ -8787,7 +9111,8 @@
       :time (d / date-entity
             :year 1988))
 
-# ::id test-350
+# ::id test-magpie_42908
+# ::magpie_sentence_no 242
 # ::idiom turn a blind eye
 # ::snt For years, the authorities have turned a blind eye to the slaughter, maintaining that it was a quaint custom which would eventually die out.
 # ::usage figurative
@@ -8809,7 +9134,8 @@
                   :ARG1-of (d / die-out-03
                         :time (e2 / eventual)))))
 
-# ::id test-351
+# ::id test-magpie_44449
+# ::magpie_sentence_no 873
 # ::idiom bear fruit
 # ::snt Imagine all the Apple seeds bearing fruit 25 years on.
 # ::usage figurative
@@ -8826,7 +9152,8 @@
                         :unit (y2 / year)
                         :quant "25"))))
 
-# ::id test-352
+# ::id test-magpie_3111
+# ::magpie_sentence_no 613
 # ::idiom from scratch
 # ::snt This can mean commissioning an architect to manage a building project from scratch, leaving the day - to - day technicalities to professionals — or, at the extreme, laying every brick and nailing every joint yourself.
 # ::usage figurative
@@ -8860,7 +9187,8 @@
                                     :mod (e2 / every)))
                         :mod (e3 / extreme)))))
 
-# ::id test-353
+# ::id test-magpie_41565
+# ::magpie_sentence_no 34
 # ::idiom hold water
 # ::snt Lord Home belied his reputation for laziness — the commonly - held view of the elder statesman, as the British prototype for Ronald Reagan, didn't hold water : up and working at 6.30 every morning, even if he did spend uncommon amounts of time in trout streams.
 # ::usage figurative
@@ -8907,7 +9235,8 @@
                               :mod (t3 / trout))))
             :polarity "-"))
 
-# ::id test-354
+# ::id test-magpie_78
+# ::magpie_sentence_no 41
 # ::idiom over the hill
 # ::snt Uncle said he will never forget as a little boy the sight of all these geese coming over the hill beyond our top pasture.
 # ::usage literal
@@ -8934,7 +9263,8 @@
                   :mod (l / little)
                   :domain p)))
 
-# ::id test-355
+# ::id test-magpie_9400
+# ::magpie_sentence_no 3107
 # ::idiom out of order
 # ::snt ‘ Lavatories out of order.
 # ::usage figurative
@@ -8953,7 +9283,8 @@
             :ARG1 b
             :ARG2 (j / jar)))
 
-# ::id test-357
+# ::id test-magpie_30361
+# ::magpie_sentence_no 38
 # ::idiom off the hook
 # ::snt Yes, no, any other business, you can all go, your all off the hook ..
 # ::usage figurative
@@ -8968,7 +9299,8 @@
             :mod (a3 / all)
             :ARG1 y2))
 
-# ::id test-358
+# ::id test-magpie_10440
+# ::magpie_sentence_no 511
 # ::idiom hot air
 # ::snt IBM's massive San Jose disk - drive plant has cut its use of CFCs by 95 per cent since 1987, substituting soapy water and hot - air drying.
 # ::usage literal
@@ -9002,7 +9334,8 @@
                         :manner (a2 / air
                               :ARG1-of (h / hot-05))))))
 
-# ::id test-359
+# ::id test-magpie_48346
+# ::magpie_sentence_no 171
 # ::idiom from scratch
 # ::snt He felt a trickle of blood down his arm from the scratch on his shoulder, and pulled the torn sleeve more tightly round it, hoping Ruth wouldn't notice the damage and make a fuss.
 # ::usage literal
@@ -9041,7 +9374,8 @@
                               :polarity -
                               :ARG0 p2)))))
 
-# ::id test-360
+# ::id test-magpie_38767
+# ::magpie_sentence_no 417
 # ::idiom in the long run
 # ::snt In the long run, that is the best way of protecting staff and customers alike.
 # ::usage literal

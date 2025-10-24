@@ -4,7 +4,8 @@
 
 Most of the sentences are taken from the MAGPIE corpus. Some sentences with
 literal meanings have been generated using GPT-4.1-nano (these ave the word
-`generated` in the identifier)
+`generated` in the identifier (line starting with`::id`). sentences taken from the MAGPIE corpus have
+the MAGPIE id in the `::id` line as well as the MAGPIE sentence number
 
 ```
 inproceedings{haagsma-etal-2020-magpie,
