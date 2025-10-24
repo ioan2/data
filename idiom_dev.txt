@@ -1,4 +1,4 @@
-# ::id 1
+# ::id dev-1
 # ::idiom break someone's heart
 # ::snt ' Go on, my love, ' she used to whisper in Estella's ear, ' break men's hearts and have no mercy!
 # ::usage figurative
@@ -22,7 +22,7 @@
                   :part e)
             :time (u / use-03)))
 
-# ::id 2
+# ::id dev-2
 # ::idiom turn a blind eye
 # ::snt The Waco sheriff habitually turned a blind eye to Koresh's activities.
 # ::usage figurative
@@ -41,7 +41,7 @@
                         :op1 "Koresh")))
       :manner (h2 / habitual))
 
-# ::id 3
+# ::id dev-3
 # ::idiom ring a bell
 # ::snt For a few moments, to give Hookum Singh time to get to the hall and ring the bell for the last time, the Collector held the toppling pile of bodies by himself, then he sped across the drawing - room after the Sikhs, his boots crunching broken glass from the cases of stuffed animals ; the Sikhs had bare feet, however, and did not crunch it so loudly.
 # ::usage literal
@@ -99,7 +99,7 @@
                               :manner (l2 / loud
                                     :degree (s3 / so)))))))
 
-# ::id 4
+# ::id dev-4
 # ::idiom with a view to
 # ::snt It is about time that the Government said something publicly to the psychopaths who run American foreign policy, with a view to achieving change.
 # ::usage figurative
@@ -120,7 +120,7 @@
                   :ARG0 g
                   :ARG1 (c2 / change-01))))
 
-# ::id 5-generated
+# ::id dev-5-generated
 # ::idiom bear fruit
 # ::snt The new investment is starting to bear fruit.
 # ::usage literal
@@ -130,7 +130,7 @@
                   :ARG1-of (n / new-01))
             :ARG1 (f / fruit)))
 
-# ::id 6
+# ::id dev-6
 # ::idiom come to grips with
 # ::snt More conservative because they clearly derive inspiration from the old WEA extra - mural model, of the tutorial class seriously, conscientiously, and at length coming to grips with conceptual insights and analytical frameworks which appear remote from the workplace, and because they insist upon the vital contribution of the professional educator.
 # ::usage figurative
@@ -174,7 +174,7 @@
                               :mod (p2 / professional))
                         :mod (v / vital)))))
 
-# ::id 7
+# ::id dev-7
 # ::idiom in the long run
 # ::snt In the long run, however, the time wasted in nagging exceeds the initial investment in time and effort involved in training children that parents mean what they say.
 # ::usage figurative
@@ -201,7 +201,7 @@
             :time (r / run-13
                   :ARG1-of (l / long-03))))
 
-# ::id 8
+# ::id dev-8
 # ::idiom come to terms with
 # ::snt He had never come to terms with his former master's failure to expire properly.
 # ::usage figurative
@@ -219,7 +219,7 @@
                   :manner (p2 / proper)))
       :time (e2 / ever))
 
-# ::id 9
+# ::id dev-9
 # ::idiom from scratch
 # ::snt I 've deleted everything and re - installed DOS 5 and Windows 3.1 from scratch, all to no avail.
 # ::usage figurative
@@ -244,7 +244,7 @@
                   :polarity "-")
             :mod (a4 / again)))
 
-# ::id 10
+# ::id dev-10
 # ::idiom turn a blind eye
 # ::snt Okay, if we wa if we want to turn a blind eye to it then that's our business you know but er but when you 're, when you 're actually erm
 # ::usage figurative
@@ -273,7 +273,7 @@
                               :ARG2 (a2 / actual-02)))))
       :ARG1-of (o / okay-04))
 
-# ::id 11
+# ::id dev-11
 # ::idiom over the hill
 # ::snt ' Let's take a look over this one last hill, ' she pleads, climbing the ridge.
 # ::usage literal
@@ -289,7 +289,7 @@
                   :mod (t / this)
                   :mod (l2 / last))))
 
-# ::id 12
+# ::id dev-12
 # ::idiom jump on the bandwagon
 # ::snt As the patents had run out on many ICI fibre Products, so competitors had jumped on the bandwagon and started building plants at a frenzied pace.
 # ::usage figurative
@@ -314,7 +314,7 @@
                         :manner (p5 / pace
                               :mod (f2 / frenzy))))))
 
-# ::id 13
+# ::id dev-13
 # ::idiom bear in mind
 # ::snt When you approach pluggers or press officers, bear in mind that this is how they make their money, and the amount of enthusiasm which they show for your product may not be a true indication of the coverage which they can secure.
 # ::usage figurative
@@ -351,7 +351,7 @@
             :ARG0 y
             :ARG1 o))
 
-# ::id 14
+# ::id dev-14
 # ::idiom jump on the bandwagon
 # ::snt I would have expected Esquire to be a little more imaginative than to jump on the anti - Essex bandwagon and to realize that you don't have to be brainless to live in Braintree.
 # ::usage figurative
@@ -382,7 +382,7 @@
                                           :name (n3 / name
                                                 :op1 "Braintree"))))))))
 
-# ::id 15
+# ::id dev-15
 # ::idiom come to terms with
 # ::snt ( He found it difficult to come to terms with the fact -that the Roman Catholics were responsible for the Italian classical revival in the sixteenth and seventeenth centuries. )
 # ::usage figurative
@@ -407,7 +407,7 @@
                                     :op2 (d3 / date-entity
                                           :century 17)))))))
 
-# ::id 16
+# ::id dev-16
 # ::idiom behind bars
 # ::snt A MOTHER is fighting to keep the man who killed her daughter behind bars.
 # ::usage figurative
@@ -425,7 +425,7 @@
                                           :ARG1 p
                                           :ARG2 (d / daughter))))))))
 
-# ::id 17
+# ::id dev-17
 # ::idiom break someone's heart
 # ::snt It 'll break my tailor's heart. '
 # ::usage figurative
@@ -435,7 +435,7 @@
             :ARG0-of (t / tailor-01)
             :poss (ii2 / i)))
 
-# ::id 18
+# ::id dev-18
 # ::idiom in the long run
 # ::snt ‘ I know it 'll be hard but it 'll be better for Maureen in the long run.
 # ::usage figurative
@@ -455,7 +455,7 @@
                   :ARG1 ii2
                   :ARG3 (m / more))))
 
-# ::id 19
+# ::id dev-19
 # ::idiom in hot water
 # ::snt Rye must be soaked in hot water to destroy an anti - growth hormone in the seed coat before it is given to livestock, but triticale kernels can be fed directly to livestock with no harmful side - effects.
 # ::usage literal
@@ -488,7 +488,7 @@
                         :mod (s3 / side)
                         :ARG0-of (h3 / harmful-02)))))
 
-# ::id 20
+# ::id dev-20
 # ::idiom in a nutshell
 # ::snt What's your own view in a nutshell the way forward to democracy?
 # ::usage figurative
@@ -500,7 +500,7 @@
       :ARG2 (a / amr-unknown)
       :mod (ii / in-short))
 
-# ::id 21
+# ::id dev-21
 # ::idiom fall short
 # ::snt This perception reflects not only the contradictory pronouncements and behavior of policymakers, but also the extent to which economic outcomes have consistently fallen short of their expectations.
 # ::usage figurative
@@ -528,7 +528,7 @@
                         :ARG1-of (c2 / consistent-02))
                   :mod (a3 / also))))
 
-# ::id 22
+# ::id dev-22
 # ::idiom fall short
 # ::snt But the aim is to help parents financially even though the actuality falls short of the intention of preventing family poverty.
 # ::usage figurative
@@ -549,7 +549,7 @@
                                     :ARG1 (p4 / poor
                                           :mod (f3 / family))))))))
 
-# ::id 23-generated
+# ::id dev-23-generated
 # ::idiom hand to mouth
 # ::snt He raised the glass hand to mouth and drank deeply.
 # ::usage literal
@@ -564,7 +564,7 @@
             :ARG0 h
             :ARG1-of (d2 / deep-02)))
 
-# ::id 24
+# ::id dev-24
 # ::idiom go hand in hand
 # ::snt Tony Underwood, Mullins, Johnson, Back and Greenwood have shown that maturity and commonsense have gone hand in hand in their development.
 # ::usage figurative
@@ -594,7 +594,7 @@
                   :ARG1 a)
             :manner (t / together)))
 
-# ::id 25
+# ::id dev-25
 # ::idiom turn a blind eye
 # ::snt It worries me that turning a blind eye to the deliberate starvation of these patients is portrayed as contributing in some way to the high ethical standards of the nursing profession.’
 # ::usage figurative
@@ -618,7 +618,7 @@
                         :mod (s3 / some))))
       :ARG1 (ii / i))
 
-# ::id 26
+# ::id dev-26
 # ::idiom go hand in hand
 # ::snt Teenagers have to learn that privilege and responsibility go hand in hand.
 # ::usage figurative
@@ -632,7 +632,7 @@
                         :op2 (r / responsible-03))
                   :manner (t2 / together))))
 
-# ::id 27
+# ::id dev-27
 # ::idiom hot air
 # ::snt And hot - air balloon cylinders do travel by road — between flights.
 # ::usage literal
@@ -646,7 +646,7 @@
             :time (b2 / between
                   :op1 (f / fly-01))))
 
-# ::id 28
+# ::id dev-28
 # ::idiom follow suit
 # ::snt Why didn't Britain follow suit?
 # ::usage figurative
@@ -658,7 +658,7 @@
       :ARG1-of (c2 / cause-01
             :ARG0 (a / amr-unknown)))
 
-# ::id 29
+# ::id dev-29
 # ::idiom fall short
 # ::snt The automatic recognition of human speech is, however, an immensely difficult problem, and the actual progress so far achieved falls far short of original research expectations [ Wheddon, 1990 ].
 # ::usage figurative
@@ -690,7 +690,7 @@
                         :time (d3 / date-entity
                               :year 1990)))))
 
-# ::id 30
+# ::id dev-30
 # ::idiom from scratch
 # ::snt Very few people have the luxury of starting completely from scratch although those who do seldom see it as an advantage.
 # ::usage figurative
@@ -712,7 +712,7 @@
                   :ARG1 s)
             :frequency (s3 / seldom)))
 
-# ::id 31
+# ::id dev-31
 # ::idiom hot air
 # ::snt Perhaps you have always wanted to go up in a hot air balloon, appear on stage in a local amateur production or jump from a higher board at the swimming pool — well, how about it?
 # ::usage literal
@@ -746,7 +746,7 @@
       :op2 (a6 / amr-unknown
             :mod (w2 / well)))
 
-# ::id 32
+# ::id dev-32
 # ::idiom come to terms with
 # ::snt When Diana joined the Stewart - Richardsons they were just coming to terms with a family tragedy.
 # ::usage figurative
@@ -763,7 +763,7 @@
                   :name (n2 / name
                         :op1 "Stewart-Richardsons"))))
 
-# ::id 33
+# ::id dev-33
 # ::idiom steer clear of
 # ::snt She boiled some milk for a cup of cocoa, resolving to steer clear of the brandy and hot milk : all that talk of pookas in the car had made her sound neurotic!
 # ::usage figurative
@@ -793,7 +793,7 @@
                   :ARG1 s3
                   :ARG2 (n / neurotic))))
 
-# ::id 34
+# ::id dev-34
 # ::idiom come to terms with
 # ::snt Would he be able to come to terms with them, as she, herself, had begun to, albeit reluctantly?
 # ::usage figurative
@@ -810,7 +810,7 @@
                         :ARG1 c2))
             :polarity (a / amr-unknown)))
 
-# ::id 35
+# ::id dev-35
 # ::idiom bear fruit
 # ::snt Again, Lenin's promise that the main aim of NEP was to restore peasant fortunes did begin to bear real fruit before the end of 1922.
 # ::usage figurative
@@ -837,7 +837,7 @@
                         :year "1922")))
       :mod (a2 / again))
 
-# ::id 36
+# ::id dev-36
 # ::idiom in the long run
 # ::snt Don't try to remove anything before it is ready as it will only go wrong in the long run, making all your work so far a complete waste of effort.
 # ::usage figurative
@@ -868,7 +868,7 @@
                               :ARG1 (e / effort-01)
                               :ARG1-of (c3 / complete-02))))))
 
-# ::id 37-generated
+# ::id dev-37-generated
 # ::idiom over the hill
 # ::snt He worries that employers see him as over the hill.
 # ::usage figurative
@@ -881,7 +881,7 @@
                   :ARG1 h))
       :ARG1 h)
 
-# ::id 38
+# ::id dev-38
 # ::idiom turn a blind eye
 # ::snt Or they do, and turn a blind eye.
 # ::usage figurative
@@ -894,7 +894,7 @@
                   :ARG1 (e / eye
                         :ARG1-of (b / blind-02)))))
 
-# ::id 39
+# ::id dev-39
 # ::idiom in hot water
 # ::snt ‘ Ah, but these crystals melt in hot water.
 # ::usage literal
@@ -906,7 +906,7 @@
                   :ARG1-of (h / hot-05)))
       :mod (a / ah))
 
-# ::id 40
+# ::id dev-40
 # ::idiom by heart
 # ::snt And then we got a table tester to help them refresh their memories, it's like a disc and then you got the slots and then it tells you your eight times and that's good as well but I mean he's got them off by heart which is brilliant!
 # ::usage figurative
@@ -949,7 +949,7 @@
                                     :manner (o / off-by-heart)
                                     :ARG1-of (b / brilliant-01)))))))
 
-# ::id 41
+# ::id dev-41
 # ::idiom come to terms with
 # ::snt As she endeavoured to come to terms with the realities of her marriage and royal life, there were moments in those early years when Diana sensed that she actually could cope and could make a positive contribution to the royal family and the wider nation.
 # ::usage figurative
@@ -989,7 +989,7 @@
                                     :ARG0 p
                                     :mod r))))))
 
-# ::id 42
+# ::id dev-42
 # ::idiom in the long run
 # ::snt This breaks up the upper crust of the snow and produces, in the long run, a piste which is firmer, and therefore better able to withstand 140 racers.
 # ::usage figurative
@@ -1019,7 +1019,7 @@
             :time (r2 / run-13
                   :ARG1-of (l / long-03))))
 
-# ::id 43
+# ::id dev-43
 # ::idiom ring a bell
 # ::snt The St Albans clock had two similar escapements, one to control the going - train and one to ring the bell each hour on a twenty - four - hour system with the number of strokes equal to the hour.
 # ::usage literal
@@ -1054,7 +1054,7 @@
                                                       :quant 1
                                                       :unit (h3 / hour))))))))))
 
-# ::id 44
+# ::id dev-44
 # ::idiom follow suit
 # ::snt RBGE must follow suit or possibly look to other styles of publication.
 # ::usage figurative
@@ -1072,7 +1072,7 @@
                   :mod (o3 / other))
             :ARG1-of (p2 / possible-01)))
 
-# ::id 45
+# ::id dev-45
 # ::idiom in a nutshell
 # ::snt There it is in a nutshell.
 # ::usage figurative
@@ -1080,7 +1080,7 @@
       :ARG1 (ii / it)
       :mod (ii2 / in-short))
 
-# ::id 46-generated
+# ::id dev-46-generated
 # ::idiom bear fruit
 # ::snt The effort to clean the park is finally bearing fruit.
 # ::usage literal
@@ -1091,7 +1091,7 @@
       :ARG1 (f / fruit)
       :time (f2 / final))
 
-# ::id 47
+# ::id dev-47
 # ::idiom behind bars
 # ::snt ' Ye handled him well, ' Pol said : the barman, with a swing, was back behind his bar again.
 # ::usage literal
@@ -1113,7 +1113,7 @@
                         :mod (a / again))
                   :direction (b5 / back))))
 
-# ::id 48
+# ::id dev-48
 # ::idiom hot air
 # ::snt In 1831 and again in 1832 he launched hot - air balloons at local festivals, one of them flying a distance of more than four miles, but even at this time his goal was powered flight with fixed - wing aeroplanes.
 # ::usage literal
@@ -1150,7 +1150,7 @@
                   :mod (t2 / this)
                   :mod (e / even))))
 
-# ::id 49
+# ::id dev-49
 # ::idiom ring a bell
 # ::snt And now to a village where the church bells have been rung properly for the first time in twenty years.
 # ::usage literal
@@ -1167,7 +1167,7 @@
                               :unit (y / year)))))
       :time (n / now))
 
-# ::id 50
+# ::id dev-50
 # ::idiom off the hook
 # ::snt He wasn't even let off the hook when it was all over.
 # ::usage figurative
@@ -1180,7 +1180,7 @@
             :ARG1 (ii / it)
             :degree (a / all)))
 
-# ::id 51
+# ::id dev-51
 # ::idiom from scratch
 # ::snt I am one of the hon. Members who has started a business from scratch and who has been an employer of quite a lot of people whose jobs were created out of that initiative and enterprise.
 # ::usage figurative
@@ -1206,7 +1206,7 @@
                                                 :op2 (e2 / enterprise)
                                                 :mod (t / that)))))))))
 
-# ::id 52
+# ::id dev-52
 # ::idiom off the hook
 # ::snt That let the Christmas kitten off the hook — and, thinking back, I remember having swollen glands and feeling a bit run down after eating some very rare lamb at a lunch party we went to around the time I conceived.’
 # ::usage figurative
@@ -1249,7 +1249,7 @@
                   :ARG0 ii
                   :ARG1 (b2 / back))))
 
-# ::id 53-generated
+# ::id dev-53-generated
 # ::idiom go without saying
 # ::snt The cat went outside without saying a sound.
 # ::usage literal
@@ -1261,7 +1261,7 @@
             :ARG0 c
             :ARG1 (s2 / sound)))
 
-# ::id 54
+# ::id dev-54
 # ::idiom break even
 # ::snt The films may not be released until the following year and probably will not break even ( including interest costs ) until three years after that.
 # ::usage figurative
@@ -1287,7 +1287,7 @@
                   :ARG1 (c / cost-01
                         :ARG1 (ii2 / interest)))))
 
-# ::id 55
+# ::id dev-55
 # ::idiom over the hill
 # ::snt Hundreds of miners from the western valleys were walking over the hill to the stricken village.
 # ::usage literal
@@ -1303,7 +1303,7 @@
       :path (o / over
             :op1 (h / hill)))
 
-# ::id 56
+# ::id dev-56
 # ::idiom green light
 # ::snt At the red light orange light green light
 # ::usage literal
@@ -1316,7 +1316,7 @@
             :op3 (l3 / light
                   :mod (g / green))))
 
-# ::id 57
+# ::id dev-57
 # ::idiom with a view to
 # ::snt In other areas, such as Colombia and Italy, our exploration efforts will continue with a view to maximising value from our existing portfolio by building on success and exploiting our technical expertise.
 # ::usage figurative
@@ -1349,7 +1349,7 @@
                               :mod (t / technical)
                               :poss w)))))
 
-# ::id 58
+# ::id dev-58
 # ::idiom bear in mind
 # ::snt You never really sort of said well was it, was it a slipped disc or is it gone or have you got ta go back for any more tests or anything like that er and bearing in mind that he also said he was keen on sports and he played tennis and so on, you could 've had the opportunity there to say oh have your back problem, back troubles made in difference to you in that area?
 # ::usage figurative
@@ -1414,7 +1414,7 @@
                                                 :mod (t6 / that)))))
                         :location (t7 / there)))))
 
-# ::id 59
+# ::id dev-59
 # ::idiom with a view to
 # ::snt In an obituary ( Milne - Redhead, 1984 ) the writer says ‘ Meanwhile another botanical interest had developed, with Wilmott's collaboration and Maybud's Scottish heritage, namely an annual botanising expedition to the Outer Hebrides, with a view to obtaining enough material and information to write a Flora.
 # ::usage figurative
@@ -1468,7 +1468,7 @@
                   :time (d2 / date-entity
                         :year 1984))))
 
-# ::id 60
+# ::id dev-60
 # ::idiom spill the beans
 # ::snt It was as if he 'd known — as if he 'd somehow been alerted to the fact that she was about to cave in, to spill the beans on their bogus relationship.
 # ::usage figurative
@@ -1489,7 +1489,7 @@
                               :ARG1 (b / bogus))))
             :manner (s3 / somehow)))
 
-# ::id 61
+# ::id dev-61
 # ::idiom go bananas
 # ::snt I went bananas.
 # ::usage figurative
@@ -1497,7 +1497,7 @@
       :ARG1 (ii / i)
       :ARG2 (c / crazy-03))
 
-# ::id 62
+# ::id dev-62
 # ::idiom go hand in hand
 # ::snt In education, quality and equality must go hand in hand.’
 # ::usage figurative
@@ -1509,7 +1509,7 @@
             :manner (t / together))
       :topic (e2 / educate-01))
 
-# ::id 63
+# ::id dev-63
 # ::idiom go without saying
 # ::snt It goes without saying — though the mythical, baby - eating reductionist is reputed to deny this — that the kinds of explanations which are suitable at high levels in the hierarchy are quite different from the kinds of explanations which are suitable at lower levels.
 # ::usage figurative
@@ -1541,7 +1541,7 @@
                   :ARG0 p
                   :ARG1 (t / this))))
 
-# ::id 64
+# ::id dev-64
 # ::idiom fall short
 # ::snt And a prosthetist said : ‘ You have a great understanding of their problems because no matter how good a prosthetist is, if he's got two legs he falls short of really knowing what it's like.’
 # ::usage figurative
@@ -1576,7 +1576,7 @@
                                     :degree-of (g2 / good-02
                                           :ARG1 p3)))))))
 
-# ::id 65
+# ::id dev-65
 # ::idiom open someone's eyes
 # ::snt He had rolled over just a little, and opened his eyes.
 # ::usage literal
@@ -1591,7 +1591,7 @@
             :ARG0 h
             :ARG1 e))
 
-# ::id 66
+# ::id dev-66
 # ::idiom open someone's eyes
 # ::snt Susan opened her eyes, and surveyed her handiwork.
 # ::usage literal
@@ -1607,7 +1607,7 @@
             :ARG1 (h / handiwork
                   :poss p)))
 
-# ::id 67
+# ::id dev-67
 # ::idiom come to mind
 # ::snt When I left twenty minutes later I felt I had come off with rather the worst of the bargain but another of my father's aphorisms came to mind : shnorrers no choosers.
 # ::usage figurative
@@ -1645,7 +1645,7 @@
                                     :polarity -
                                     :ARG0-of (c4 / choose-01)))))))
 
-# ::id 68
+# ::id dev-68
 # ::idiom in the long run
 # ::snt He knows that what the economy needs in the short run is different from what needs to be done to manage public debt in the long run, but he is unable to provide decisive leadership.
 # ::usage figurative
@@ -1673,7 +1673,7 @@
                         :ARG0 h
                         :manner (d4 / decisive)))))
 
-# ::id 69
+# ::id dev-69
 # ::idiom call it a day
 # ::snt ‘ The director's finally decided to call it a day,’ he said.
 # ::usage figurative
@@ -1685,7 +1685,7 @@
                   :ARG0 d2)
             :time (f / final)))
 
-# ::id 70
+# ::id dev-70
 # ::idiom break someone's heart
 # ::snt It broke my heart when I heard, and Nicolo — oh, he was so upset!
 # ::usage figurative
@@ -1703,7 +1703,7 @@
             :mod (o / oh
                   :mode expressive)))
 
-# ::id 71
+# ::id dev-71
 # ::idiom come to terms with
 # ::snt I need time to think, to try to come to terms with —’
 # ::usage figurative
@@ -1718,7 +1718,7 @@
                         :ARG1 (c / come-to-terms-14
                               :ARG0 ii)))))
 
-# ::id 72
+# ::id dev-72
 # ::idiom go without saying
 # ::snt It goes without saying that there should be an independent official investigation, inquiry, inquest — call it what you will — into the cause of an unnatural death ; but is it not time that ancient laws and practices were brought up to date to deal with modern circumstances?
 # ::usage figurative
@@ -1755,7 +1755,7 @@
             :polarity "-")
       :ARG1-of (o2 / obvious-01))
 
-# ::id 73
+# ::id dev-73
 # ::idiom change hands
 # ::snt Peasants may have been keen to enlist because they were genuinely patriotic, but their mood was invariably febrile when the throne changed hands.
 # ::usage figurative
@@ -1777,7 +1777,7 @@
             :ARG1-of (v / vary-01
                   :polarity -)))
 
-# ::id 74
+# ::id dev-74
 # ::idiom cold feet
 # ::snt The groom was getting cold feet just minutes before the wedding.
 # ::usage figurative
@@ -1793,7 +1793,7 @@
                         :quant "1")
                   :mod (j / just))))
 
-# ::id 75
+# ::id dev-75
 # ::idiom change hands
 # ::snt it could have been just because it's, just had just newly changed hands and it might have
 # ::usage figurative
@@ -1809,7 +1809,7 @@
             :op2 (p2 / possible-01
                   :ARG1 c2)))
 
-# ::id 76-generated
+# ::id dev-76-generated
 # ::idiom miss the boat
 # ::snt He missed the boat because he misread the departure time.
 # ::usage literal
@@ -1822,7 +1822,7 @@
                   :ARG1 (t / time
                         :time-of (d / depart-01)))))
 
-# ::id 77
+# ::id dev-77
 # ::idiom green light
 # ::snt out of its warped frame, stood in the green light
 # ::usage literal
@@ -1833,7 +1833,7 @@
             :ARG1-of (w / warp-01)
             :poss (ii / it)))
 
-# ::id 78
+# ::id dev-78
 # ::idiom open someone's eyes
 # ::snt When she opened her eyes and saw Patrick standing in the room she started up with a cry.
 # ::usage literal
@@ -1854,7 +1854,7 @@
                                     :op1 "Patrick"))
                         :location (r / room)))))
 
-# ::id 79
+# ::id dev-79
 # ::idiom from scratch
 # ::snt Work on the new Supplement began almost from scratch in 1957 with the appointment of R.W. Burchfield as Editor.
 # ::usage figurative
@@ -1876,7 +1876,7 @@
                   :ARG0-of (h / have-org-role-91
                         :ARG2 (e / editor)))))
 
-# ::id 80
+# ::id dev-80
 # ::idiom come to mind
 # ::snt All this came to mind on sight of a communication from, of all places, Customs & Excise Debt Management Division Branch 4 ( Insolvency Branch ).
 # ::usage figurative
@@ -1898,7 +1898,7 @@
                         :location (p / place
                               :mod (a2 / all))))))
 
-# ::id 81
+# ::id dev-81
 # ::idiom bear in mind
 # ::snt Bear in mind that see it but it's more likely to pass on energy units, because it's the stronger, you know.
 # ::usage figurative
@@ -1922,7 +1922,7 @@
                         :ARG1 ii
                         :ARG3 (m2 / more)))))
 
-# ::id 82
+# ::id dev-82
 # ::idiom follow suit
 # ::snt The first commercial companies to follow suit were public utilities such as some railway and gas companies, which started pension schemes for their clerical staff from the 1840s onwards.
 # ::usage figurative
@@ -1951,7 +1951,7 @@
                   :value 1)
             :ARG0-of (f / follow-suit-06)))
 
-# ::id 83
+# ::id dev-83
 # ::idiom bear fruit
 # ::snt Obviously, too, they are policies which will take years of consistent application before they can bear fruit.
 # ::usage figurative
@@ -1973,7 +1973,7 @@
                                     :ARG1 (r / result))))))
       :mod (t4 / too))
 
-# ::id 84
+# ::id dev-84
 # ::idiom break someone's heart
 # ::snt There was no point in being sweet and understanding and breaking her heart all over again about it.
 # ::usage figurative
@@ -1991,7 +1991,7 @@
                   :mod (a2 / again
                         :mod (a3 / all-over)))))
 
-# ::id 85
+# ::id dev-85
 # ::idiom bear in mind
 # ::snt And bear in mind that's what we 're talking about, Major : the highest level.
 # ::usage figurative
@@ -2009,7 +2009,7 @@
                                                 :ARG1 l)
                                           :ARG3 (m2 / most))))))))
 
-# ::id 86
+# ::id dev-86
 # ::idiom change hands
 # ::snt Much of the evening was taken up with reminiscences, talk of Edna's family — particularly her fisherman brother, Bert — and the fact that Four Winds had changed hands four times in as many years.
 # ::usage figurative
@@ -2045,7 +2045,7 @@
                                     :quant 1
                                     :unit (y / year)))))))
 
-# ::id 87
+# ::id dev-87
 # ::idiom by heart
 # ::snt She tried to learn the Book of Job by heart, but never got safely past the end of the second chapter ; the first two chapters were on the dull side, overloaded with yoke of oxen and she - asses, with Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite, Job's comforters.
 # ::usage figurative
@@ -2102,7 +2102,7 @@
                               :ARG0-of (c4 / comfort-01
                                     :ARG1 (j / job)))))))
 
-# ::id 88
+# ::id dev-88
 # ::idiom in the long run
 # ::snt We are convinced that the philosophy which was originally intended to predominate in the post - war UK child care legislation — namely that the work of public agencies was to provide supportive services to families, part of which could include admission to care as a means ultimately of preserving family relationships in the long run — has been lost from current practice.
 # ::usage figurative
@@ -2146,7 +2146,7 @@
                               :ARG1-of (p7 / possible-01)
                               :part-of w3)))))
 
-# ::id 89
+# ::id dev-89
 # ::idiom bear fruit
 # ::snt The survey, which had been scheduled for the summer, has started two months early and is expected to bear fruit by mid - June.
 # ::usage figurative
@@ -2169,7 +2169,7 @@
                               :op1 (d2 / date-entity
                                     :month "6"))))))
 
-# ::id 90
+# ::id dev-90
 # ::idiom in the long run
 # ::snt Yet, in the long run, it is the latter who matter most, and their importance persists when other preoccupations turn out to be transitory.
 # ::usage figurative
@@ -2190,7 +2190,7 @@
                               :mod (o / other))
                         :ARG2 (t2 / transitory)))))
 
-# ::id 91-generated
+# ::id dev-91-generated
 # ::idiom go without saying
 # ::snt He went to the mountain without saying anything.
 # ::usage literal
@@ -2202,7 +2202,7 @@
             :ARG0 h
             :ARG1 (a / anything)))
 
-# ::id 92
+# ::id dev-92
 # ::idiom go without saying
 # ::snt It goes without saying that everything depends on the nature of the piece of music to be scored.
 # ::usage figurative
@@ -2213,7 +2213,7 @@
                   :mod (m / music)))
       :ARG1-of (o / obvious-01))
 
-# ::id 93-generated
+# ::id dev-93-generated
 # ::idiom hand to mouth
 # ::snt She ate the popcorn, hand to mouth, during the movie.
 # ::usage literal
@@ -2224,7 +2224,7 @@
       :ARG1 (p / popcorn)
       :time (m2 / movie))
 
-# ::id 94
+# ::id dev-94
 # ::idiom throw in the towel
 # ::snt But for the radical interpreter, this would be to throw in the towel at a crucial conceptual conjuncture, imputing our intentional framework to another, dumb species.
 # ::usage figurative
@@ -2246,7 +2246,7 @@
                         :mod (d / dumb)
                         :mod (a / another)))))
 
-# ::id 95
+# ::id dev-95
 # ::idiom behind bars
 # ::snt And even if it hasn't, maybe Rohmer can see to it that you 'll spend the rest of your life behind bars along with Jimmy Devlin?
 # ::usage figurative
@@ -2272,7 +2272,7 @@
                   :op1 (h / have-polarity-91
                         :ARG2 -))))
 
-# ::id 96
+# ::id dev-96
 # ::idiom go hand in hand
 # ::snt In most cases the development of these functions would have gone hand in hand with the growth of the settlement and would have been directly related to the increasing dependence of the surrounding hinterland on the goods and services which it could provide.
 # ::usage figurative
@@ -2300,7 +2300,7 @@
       :time (c / case-04
             :quant (m / most)))
 
-# ::id 97
+# ::id dev-97
 # ::idiom go hand in hand
 # ::snt Yet if it goes hand in hand with a commitment to redistributing power and wealth, literacy becomes one of the tools a government can use to create a new society.
 # ::usage figurative
@@ -2327,7 +2327,7 @@
                               :op2 (w / wealth))))
             :manner (t3 / together)))
 
-# ::id 98
+# ::id dev-98
 # ::idiom with a view to
 # ::snt In Lowther v. Harris ( 1926 K.B. ) an agent was entrusted with a tapestry with a view to selling it.
 # ::usage figurative
@@ -2343,7 +2343,7 @@
             :time (d / date-entity
                   :year 1926)))
 
-# ::id 99
+# ::id dev-99
 # ::idiom break someone's heart
 # ::snt Sometimes I think that girl will break his heart.’
 # ::usage figurative
@@ -2355,7 +2355,7 @@
             :ARG1 (h / he))
       :frequency (s / sometimes))
 
-# ::id 100
+# ::id dev-100
 # ::idiom turn a blind eye
 # ::snt There were silent enemies of the Nazi regime, there were the fellow travellers and those who turned a blind eye.
 # ::usage figurative
@@ -2374,7 +2374,7 @@
             :ARG1 (e2 / eye
                   :ARG1-of (b / blind-02))))
 
-# ::id 101
+# ::id dev-101
 # ::idiom by heart
 # ::snt "Henry Gunning, a Cambridge don in the eighteenth century, tells of a college fellow who "" had Horace at his fingertips "" — quite literally, for he committed the Odes to memory by taking the volume to the privy, getting a poem by heart, then tearing out the page for hygienic uses."
 # ::usage figurative
@@ -2422,7 +2422,7 @@
                                     :ARG1 p4
                                     :mod (h3 / hygienic)))))))
 
-# ::id 102
+# ::id dev-102
 # ::idiom hot air
 # ::snt Does not it mean that we are the party of hot money, not hot air?
 # ::usage figurative
@@ -2438,7 +2438,7 @@
       :polarity (a / amr-unknown)
       :polarity "-")
 
-# ::id 103
+# ::id dev-103
 # ::idiom ring a bell
 # ::snt He rang the bell.
 # ::usage literal
@@ -2446,7 +2446,7 @@
       :ARG0 (h / he)
       :ARG1 (b / bell))
 
-# ::id 104-generated
+# ::id dev-104-generated
 # ::idiom hot air
 # ::snt Their marketing campaign was just hot air with no real product behind it.
 # ::usage figurative
@@ -2462,7 +2462,7 @@
             :polarity "-")
       :polarity -)
 
-# ::id 105
+# ::id dev-105
 # ::idiom come to mind
 # ::snt A few have done so because they are making careers as party - line Republicans, so their priority is to tell Republican politicians what they want to hear ( Josh ~ Bolton and Mitch Daniels come to mind here ).
 # ::usage figurative
@@ -2505,7 +2505,7 @@
                               :op2 "Daniels")))
             :location (h3 / here)))
 
-# ::id 106
+# ::id dev-106
 # ::idiom tie the knot
 # ::snt The wedding industry has to get as much cash as possible out of the remaining couples who choose to tie the knot with the blessing of God and every florist in Britain.
 # ::usage figurative
@@ -2535,7 +2535,7 @@
                                                             :op1 "Britain")))))
                               :ARG1 c2)))))
 
-# ::id 107
+# ::id dev-107
 # ::idiom bite the dust
 # ::snt Scotland were not short of pluck, says IAN ROBERTSON, but it was still business as usual Down Under as yet another British side came, saw and bit the dust …
 # ::usage figurative
@@ -2575,7 +2575,7 @@
                                     :op3 (b2 / bite-dust-02
                                           :ARG0 s4)))))))
 
-# ::id 108
+# ::id dev-108
 # ::idiom ring a bell
 # ::snt It happens a lot that you ring the bell and they just don't come.
 # ::usage literal
@@ -2589,7 +2589,7 @@
             :mod (j / just))
       :frequency (l / lot))
 
-# ::id 109
+# ::id dev-109
 # ::idiom come to mind
 # ::snt Some of the landowning agencies that are most restrictive are those which might be thought to be answerable to the public, or have their best interests at heart : the Forestry Commission, the Ministry of Defence and sometimes even the National Trust come to mind.
 # ::usage figurative
@@ -2641,7 +2641,7 @@
                         :ARG3 (m2 / most)))
             :location (h3 / heart)))
 
-# ::id 110
+# ::id dev-110
 # ::idiom behind bars
 # ::snt Behind the bar you will find a huge range of interesting Spanish liqueurs and brandies and you will find a bottle of dry sherry chilling in the fridge.
 # ::usage literal
@@ -2670,7 +2670,7 @@
                   :ARG1-of (c2 / chill-01
                         :location (f3 / fridge)))))
 
-# ::id 111
+# ::id dev-111
 # ::idiom from scratch
 # ::snt It was the only bank launched from scratch in the province for many years.
 # ::usage figurative
@@ -2686,7 +2686,7 @@
                         :quant "1")))
       :domain (ii / it))
 
-# ::id 112
+# ::id dev-112
 # ::idiom fall short
 # ::snt Surveys of provision have indicated that this still falls short of a desirable level.
 # ::usage figurative
@@ -2699,7 +2699,7 @@
                   :ARG1-of (d / desirable-02))
             :mod (s3 / still)))
 
-# ::id 113
+# ::id dev-113
 # ::idiom go hand in hand
 # ::snt Individual tragedy and national hardship go hand in hand.
 # ::usage figurative
@@ -2711,7 +2711,7 @@
                   :mod (n / nation)))
       :manner (t2 / together))
 
-# ::id 114
+# ::id dev-114
 # ::idiom fall short
 # ::snt Studies indicate that 40 % of all patients fall short of the diagnoses that doctors and psychiatrists give them, yet 200~million prescriptions are still written annually in the US to treat depression and anxiety.
 # ::usage figurative
@@ -2748,7 +2748,7 @@
                   :name (n / name
                         :op1 "US"))))
 
-# ::id 115
+# ::id dev-115
 # ::idiom come to terms with
 # ::snt Just how Morrissey will come to terms with this problem is a matter for some speculation.
 # ::usage figurative
@@ -2764,7 +2764,7 @@
                         :mod (t2 / this))))
       :mod (j / just))
 
-# ::id 116
+# ::id dev-116
 # ::idiom come to mind
 # ::snt The first word that comes to mind is resilience.
 # ::usage figurative
@@ -2774,7 +2774,7 @@
                   :value 1)
             :domain (r / resilience)))
 
-# ::id 117
+# ::id dev-117
 # ::idiom fall short
 # ::snt Here, the concomitant decreases in salt intake, gastric cancer, and hypertensive cardiovascular disease during the twentieth century in most industrialised countries are noteworthy but fall short of establishing causality.
 # ::usage figurative
@@ -2803,7 +2803,7 @@
                   :ARG2 (e / establish-01
                         :ARG1 (c5 / causality)))))
 
-# ::id 118
+# ::id dev-118
 # ::idiom fall short
 # ::snt The party, however, fell short of the two - thirds majority needed to pass laws with constitutional implications or to reverse presidential vetoes.
 # ::usage figurative
@@ -2828,7 +2828,7 @@
                                                       :ARG0-of (h / have-org-role-91
                                                             :ARG2 (p4 / president)))))))))))
 
-# ::id 119
+# ::id dev-119
 # ::idiom go without saying
 # ::snt It almost goes without saying that any disciplinary strategies adopted by teachers must involve an even - handed approach towards both sexes if they are to be lawful.
 # ::usage figurative
@@ -2849,7 +2849,7 @@
       :mod (a3 / almost)
       :ARG1-of (o2 / obvious-01))
 
-# ::id 120
+# ::id dev-120
 # ::idiom over the hill
 # ::snt The last section of the path goes over Alderton Hill, passes through Gretton and climbs over Langley Hill.
 # ::usage literal
@@ -2876,7 +2876,7 @@
                               :op1 "Langley"
                               :op2 "Hill")))))
 
-# ::id 121
+# ::id dev-121
 # ::idiom by heart
 # ::snt I once knew by heart a poem by the Russian, Fyodor Tyuchev entitled Vyesna ( Spring ).
 # ::usage figurative
@@ -2897,7 +2897,7 @@
       :manner (b / by-heart)
       :time (o / once))
 
-# ::id 122
+# ::id dev-122
 # ::idiom turn a blind eye
 # ::snt The government would turn a blind eye if the targets were foreign nationals, and particularly a despised Lebanese like Fawaz Younis.
 # ::usage figurative
@@ -2922,7 +2922,7 @@
                               :op1 "Fawaz"
                               :op2 "Younis")))))
 
-# ::id 123
+# ::id dev-123
 # ::idiom by heart
 # ::snt ‘ Yes, and wouldn't it be good to get a structure and … maybe costume, a few props anyway and learn the poems off by heart, not read them, nose buried in a book, dropping them out your looseleaf onto the floor, scrabbling around picking them up again in the wrong order.’
 # ::usage figurative
@@ -2962,7 +2962,7 @@
                                     :ARG1-of (w / wrong-02))))))
       :polarity (a5 / amr-unknown))
 
-# ::id 124
+# ::id dev-124
 # ::idiom cut loose
 # ::snt Perhaps he really did want to cut loose and was restrained from so doing by Maman, who would have regarded it as disloyal.
 # ::usage figurative
@@ -2985,7 +2985,7 @@
             :ARG1 h
             :ARG2 c))
 
-# ::id 125
+# ::id dev-125
 # ::idiom steer clear of
 # ::snt Christmas shoppers are being warned to steer clear of seasonal bargains which turn out to be clever fakes.
 # ::usage figurative
@@ -3004,7 +3004,7 @@
                               :mod (c / clever)))))
       :ARG2 p)
 
-# ::id 126-generated
+# ::id dev-126-generated
 # ::idiom bear fruit
 # ::snt The tree will bear fruit once it matures.
 # ::usage literal
@@ -3014,7 +3014,7 @@
       :time (m / mature-01
             :ARG1 t))
 
-# ::id 127
+# ::id dev-127
 # ::idiom open someone's eyes
 # ::snt When she opened her eyes, Fernand had gone.
 # ::usage literal
@@ -3027,7 +3027,7 @@
             :ARG0 p
             :ARG1 e))
 
-# ::id 128
+# ::id dev-128
 # ::idiom green light
 # ::snt The reform operated as a green light for a rural pacification campaign which was increasingly to encompass civilians not associated with any campesino organization or the armed struggle.
 # ::usage figurative
@@ -3049,7 +3049,7 @@
                                     :polarity "-"))
                         :ARG1-of (ii / increase-01)))))
 
-# ::id 129
+# ::id dev-129
 # ::idiom break even
 # ::snt It should break even this year.
 # ::usage figurative
@@ -3059,7 +3059,7 @@
             :time (y / year
                   :mod (t / this))))
 
-# ::id 130
+# ::id dev-130
 # ::idiom over the hill
 # ::snt Valleys have one big advantage over hills.
 # ::usage literal
@@ -3068,7 +3068,7 @@
       :ARG2 (h / hill)
       :mod (b / big))
 
-# ::id 131
+# ::id dev-131
 # ::idiom change hands
 # ::snt The land on the outskirts of Portadown changed hands this week at £ 125,000 an acre, compared with the £ 250 an acre given to local farmers who did not want to sell.
 # ::usage figurative
@@ -3104,7 +3104,7 @@
       :time (w2 / week
             :mod (t / this)))
 
-# ::id 132
+# ::id dev-132
 # ::idiom in hot water
 # ::snt For example, it can not survive in very hot water, in bleach or detergent.
 # ::usage literal
@@ -3120,7 +3120,7 @@
                         :op2 (b / bleach)
                         :op3 (d / detergent)))))
 
-# ::id 133
+# ::id dev-133
 # ::idiom off the hook
 # ::snt Many times the chub take slugs so viciously they rip them clean off the hook, and the only thing you can do to improve matters is to thread the line through the full length of the slug with a baiting needle, attach the hook and pull it back so that one end of the slug is lying in the bend of the hook.
 # ::usage literal
@@ -3167,7 +3167,7 @@
                   :ARG0 y
                   :ARG1 (m2 / matter))))
 
-# ::id 134
+# ::id dev-134
 # ::idiom follow suit
 # ::snt Ten years later the Congregationalists followed suit with their first International Council : the suggestion here had come from Australia.
 # ::usage figurative
@@ -3195,7 +3195,7 @@
                   :quant 10
                   :unit (y / year))))
 
-# ::id 135
+# ::id dev-135
 # ::idiom ring a bell
 # ::snt ' Hold on tight now! ' he called, ringing the bell.
 # ::usage literal
@@ -3209,7 +3209,7 @@
             :ARG1-of (t / tight-04)
             :time (n / now)))
 
-# ::id 136-generated
+# ::id dev-136-generated
 # ::idiom bear fruit
 # ::snt The orchard bore fruit abundantly this year.
 # ::usage literal
@@ -3220,7 +3220,7 @@
             :mod (t / this))
       :manner (a / abundant))
 
-# ::id 137
+# ::id dev-137
 # ::idiom green light
 # ::snt No sooner had I selected wheels down than I noticed that the port wheel had not come right down because I did not get a green light on that side of the undercarriage indicator.
 # ::usage literal
@@ -3249,7 +3249,7 @@
                   :ARG1 (w2 / wheel)
                   :direction (d2 / down))))
 
-# ::id 138
+# ::id dev-138
 # ::idiom in the long run
 # ::snt That kind of spontaneous effort, by all kinds of people in this country, will be just as important in the long run as what Governments do.
 # ::usage figurative
@@ -3274,7 +3274,7 @@
             :ARG1-of (l / long-03))
       :mod (j / just))
 
-# ::id 139
+# ::id dev-139
 # ::idiom bear in mind
 # ::snt But bear in mind that without an external aerial, you may not be able to get a very good teletext reception.
 # ::usage figurative
@@ -3296,14 +3296,14 @@
                               :polarity "-")
                         :polarity "-"))))
 
-# ::id 140
+# ::id dev-140
 # ::idiom out of order
 # ::snt It's out of order.
 # ::usage figurative
 (b / break-down-12
       :ARG1 (ii / it))
 
-# ::id 141
+# ::id dev-141
 # ::idiom hand to mouth
 # ::snt Then I heard how he lived hand to mouth in the Bronx, lobbying whom he could at the talking - shop.
 # ::usage figurative
@@ -3325,7 +3325,7 @@
                         :ARG1 p)))
       :time (t3 / then))
 
-# ::id 142
+# ::id dev-142
 # ::idiom bear fruit
 # ::snt In France intermittent discussion from 1879 onwards, in which the advocates of change often pointed to Britain and Germany as models, bore fruit at last in the sending in 1904 of a commercial attaché to London at the special request of the embassy there : by 1908 the French diplomatic service included six such appointments.
 # ::usage figurative
@@ -3373,7 +3373,7 @@
                   :time (d5 / date-entity
                         :year "1904"))))
 
-# ::id 143
+# ::id dev-143
 # ::idiom bear fruit
 # ::snt However, any such strategy requires far more time and continuity of action and work to bear fruit.
 # ::usage figurative
@@ -3395,7 +3395,7 @@
                   :ARG0 s
                   :ARG1 (r2 / result))))
 
-# ::id 144
+# ::id dev-144
 # ::idiom hold water
 # ::snt Hume's argument, however, does not hold water for the simple reason that it assumes that the question of the possibility of significantly ascribing identity to objects as ontological existents can and should be decided via an analysis of the conditions of their identification, whereas the simple fact is that the concept of an entity as a potential topic of discourse is analytically linked with, and hence inseparable from, that of identity.
 # ::usage figurative
@@ -3446,7 +3446,7 @@
                                           :ARG2 c7)
                                     :polarity "-"))))))
 
-# ::id 145
+# ::id dev-145
 # ::idiom follow suit
 # ::snt Artemis followed suit and they headed away from the house up a long pull which led to a covert known as the King's Bushes.
 # ::usage figurative
@@ -3472,7 +3472,7 @@
             :direction (a2 / away
                   :op1 (h2 / house))))
 
-# ::id 146
+# ::id dev-146
 # ::idiom throw in the towel
 # ::snt He forced his opponent's corner into throwing in the towel in the second round.
 # ::usage figurative
@@ -3488,7 +3488,7 @@
             :ord (o2 / ordinal-entity
                   :value "2")))
 
-# ::id 147
+# ::id dev-147
 # ::idiom come to mind
 # ::snt Words such as illumination, actualization and realization come to mind.
 # ::usage figurative
@@ -3499,7 +3499,7 @@
                   :op2 (a2 / actualize-01)
                   :op3 (r / realize-01))))
 
-# ::id 148
+# ::id dev-148
 # ::idiom fall short
 # ::snt ‘ Part of that refers to the ways in which people fall short in their living, which is what we call sin, so it is not simply about that.
 # ::usage figurative
@@ -3523,7 +3523,7 @@
                   :ARG1 (t2 / that)
                   :ARG1-of (s3 / simple-02))))
 
-# ::id 149
+# ::id dev-149
 # ::idiom go hand in hand
 # ::snt He had never thought that prostitutes and squalor went hand in hand.
 # ::usage figurative
@@ -3537,7 +3537,7 @@
       :time (e / ever)
       :polarity "-")
 
-# ::id 150
+# ::id dev-150
 # ::idiom tie the knot
 # ::snt Crew members can not steer or tie knots.
 # ::usage literal
@@ -3554,7 +3554,7 @@
                   :ARG0 p2
                   :ARG1 k)))
 
-# ::id 151
+# ::id dev-151
 # ::idiom with a view to
 # ::snt By virtue of their size, and with a view to portability, these show kites are mostly ‘ soft’ and do not use spars.
 # ::usage figurative
@@ -3574,7 +3574,7 @@
                   :poss k))
       :purpose (p / portability))
 
-# ::id 152
+# ::id dev-152
 # ::idiom from scratch
 # ::snt Starting from scratch has a certain attraction but is hardly an option in countries, such as Britain, which have long established medical schools.
 # ::usage figurative
@@ -3596,7 +3596,7 @@
                                     :mod (m / medicine))
                               :ARG1-of (l / long-03))))))
 
-# ::id 153
+# ::id dev-153
 # ::idiom cut corners
 # ::snt I promise not to cheek Frances and cut corners.
 # ::usage figurative
@@ -3612,7 +3612,7 @@
                   :ARG0 ii)
             :polarity "-"))
 
-# ::id 154
+# ::id dev-154
 # ::idiom go bananas
 # ::snt ‘ They 're all going bananas — something to do with the computer.’
 # ::usage figurative
@@ -3624,7 +3624,7 @@
             :ARG3 (s / something))
       :ARG2 (c2 / crazy-03))
 
-# ::id 155
+# ::id dev-155
 # ::idiom over the hill
 # ::snt "And while he was resting, over the hill came flying the dark Swift, screaming as he went,""News!"
 # ::usage literal
@@ -3644,7 +3644,7 @@
             :time (r / rest-01
                   :ARG1 (h2 / he))))
 
-# ::id 156
+# ::id dev-156
 # ::idiom come to terms with
 # ::snt Do we find it so difficult to come to terms with Islam because it is often based on a profound popular devoutness while we ourselves live in a largely secularised world?
 # ::usage figurative
@@ -3671,7 +3671,7 @@
                               :ARG1-of (s2 / secularize-01
                                     :degree (l2 / large)))))))
 
-# ::id 157
+# ::id dev-157
 # ::idiom hold water
 # ::snt These enable skin to hold water and give cohesion to the dead surface skin cells, providing a flat, luminous effect.
 # ::usage literal
@@ -3692,7 +3692,7 @@
                         :ARG1-of (f / flat-06)
                         :ARG1-of (l / luminous-02)))))
 
-# ::id 158
+# ::id dev-158
 # ::idiom go hand in hand
 # ::snt Responsibility goes hand in hand with accountability because all role holders are accountable to their superior for the exercise of those responsibilities.
 # ::usage figurative
@@ -3717,7 +3717,7 @@
                   :ARG1 a3)
             :manner (t2 / together)))
 
-# ::id 159
+# ::id dev-159
 # ::idiom behind bars
 # ::snt John, you didn't do that to that gentleman behind the bar did you, smashed his eyes?
 # ::usage literal
@@ -3740,7 +3740,7 @@
                   :ARG1 e))
       :ARG2 p)
 
-# ::id 160
+# ::id dev-160
 # ::idiom go without saying
 # ::snt It goes without saying that developing and emerging - market countries no longer look at the advanced countries as they once did.
 # ::usage figurative
@@ -3761,7 +3761,7 @@
                   :time (o / once)))
       :ARG1-of (o2 / obvious-01))
 
-# ::id 161
+# ::id dev-161
 # ::idiom in a nutshell
 # ::snt ‘ There you are, Mr Barnett : the life of Willy Morpurgo in a nutshell.
 # ::usage figurative
@@ -3780,7 +3780,7 @@
                                     :op2 "Morpurgo")))))
       :ARG2 p)
 
-# ::id 162-generated
+# ::id dev-162-generated
 # ::idiom tie the knot
 # ::snt I am tying the knot
 # ::usage literal
@@ -3788,7 +3788,7 @@
       :ARG0 (ii / i)
       :ARG1 (k / knot))
 
-# ::id 163
+# ::id dev-163
 # ::idiom break even
 # ::snt Tucson, Arizona - based Artisoft Inc warns that it expects its results for the third quarter to March 31 to be at break - even or slightly below — it expects to increase reserves and allowances, take one - time charges, and accelerate accruals by a pre - tax total of $ 1.5 m to $ 2 m, and it expects third quarter revenues to be below year - ago revenues of $ 20.3 m ; it blames a shift in the sales mix for the revenue shortfall —‘Given the current trend toward the LANtastic software only option, the company is cautious in its expectations over the next several quarters for recovery in revenues and earnings to the levels achieved in the first and second quarter of the fiscal year,’ the company said — it also offers it with adaptors.
 # ::usage figurative
@@ -3894,7 +3894,7 @@
                   :ARG2 c5
                   :mod (a11 / also))))
 
-# ::id 164
+# ::id dev-164
 # ::idiom read between the lines
 # ::snt Harriet, being no fool, read between the lines and knew that Sidney had been got at by his stronger - minded and cynical other half.
 # ::usage figurative
@@ -3920,7 +3920,7 @@
                   :domain p
                   :polarity "-")))
 
-# ::id 165
+# ::id dev-165
 # ::idiom come to mind
 # ::snt But it is equally clear that its nature can not be accounted for by demonstrating its rules by a random use of any lexical items that come to mind.
 # ::usage figurative
@@ -3942,7 +3942,7 @@
                                     :manner (r2 / random)))))
             :ARG1-of (e / equal-01)))
 
-# ::id 166
+# ::id dev-166
 # ::idiom come to grips with
 # ::snt Let me be personal here, for coming to grips with this has been an important milestone in my own life as a Christian.
 # ::usage figurative
@@ -3964,7 +3964,7 @@
                               :name (n / name
                                     :op1 "Christian"))))))
 
-# ::id 167
+# ::id dev-167
 # ::idiom break someone's heart
 # ::snt So he has to go back home and leave her and in telling her of course he breaks her heart.
 # ::usage figurative
@@ -3988,7 +3988,7 @@
                         :mod (o2 / of-course))
                   :ARG1 s)))
 
-# ::id 168
+# ::id dev-168
 # ::idiom come to terms with
 # ::snt To fully address the question of the moral and ethical base of a new form of Chinese governance, China ’s government and its people must be able to look back freely and come to terms with their recent history : the Great Leap Forward, the Cultural ~ Revolution, the events of 1989, Tibet, and other sensitive issues.
 # ::usage figurative
@@ -4046,7 +4046,7 @@
                               :ARG1-of (n5 / new-01)))))
       :degree (f3 / full))
 
-# ::id 169
+# ::id dev-169
 # ::idiom with a view to
 # ::snt In the course of his judgment, at p. 324c, Lord Donaldson M.R. stated that at one stage the plaintiffs made overtures to the Director of Public Prosecutions with a view to his joining in these proceedings.
 # ::usage figurative
@@ -4081,7 +4081,7 @@
                         :name (n3 / name
                               :op1 "324c")))))
 
-# ::id 170
+# ::id dev-170
 # ::idiom bear in mind
 # ::snt Perhaps editors need to bear in mind what authors may think when this sort of thing happens and keep them better informed.
 # ::usage figurative
@@ -4108,7 +4108,7 @@
                                           :ARG1 ii)
                                     :ARG3 (m / more)))))))
 
-# ::id 171
+# ::id dev-171
 # ::idiom call it a day
 # ::snt By the end of the season, Moores ' partners called it a day.
 # ::usage figurative
@@ -4122,7 +4122,7 @@
             :op1 (e / end-01
                   :ARG1 (s2 / season))))
 
-# ::id 172-generated
+# ::id dev-172-generated
 # ::idiom go without saying
 # ::snt She went to the beach without saying a word.
 # ::usage literal
@@ -4134,7 +4134,7 @@
             :ARG0 s
             :ARG1 (w / word)))
 
-# ::id 173
+# ::id dev-173
 # ::idiom break even
 # ::snt Mm, and what are they, are they, are, are they actually supposed to make money off it or is it just supposed to be a break even thing or are they quite happy
 # ::usage figurative
@@ -4157,7 +4157,7 @@
             :ARG1 t
             :degree (q / quite)))
 
-# ::id 174
+# ::id dev-174
 # ::idiom over the hill
 # ::snt Through the whole of the long night that followed, Boldwood's dark figure could be seen walking over the hills of Weatherbury like a ghost.
 # ::usage literal
@@ -4182,7 +4182,7 @@
                         :ARG1-of (f2 / follow-01)
                         :mod (w2 / whole)))))
 
-# ::id 175
+# ::id dev-175
 # ::idiom jump on the bandwagon
 # ::snt They 're just jumping on the bandwagon.
 # ::usage figurative
@@ -4190,7 +4190,7 @@
       :ARG0 (t / they)
       :mod (j2 / just))
 
-# ::id 176
+# ::id dev-176
 # ::idiom steer clear of
 # ::snt No one mentioned Nigel, her ousted predecessor, and for the moment Lisa decided to steer clear of that subject.
 # ::usage figurative
@@ -4214,7 +4214,7 @@
                         :mod (t / that)))
             :time (m2 / moment)))
 
-# ::id 177
+# ::id dev-177
 # ::idiom turn a blind eye
 # ::snt Nelson, who took Murdoch's place in goal, first of all did as his namesake and turned a blind eye to a cross from McGinlay.
 # ::usage figurative
@@ -4241,7 +4241,7 @@
                         :name (n4 / name
                               :op1 "McGinlay")))))
 
-# ::id 178
+# ::id dev-178
 # ::idiom with a view to
 # ::snt Councillors have already held talks with the town's bus operators with a view to reducing the number of vehicles using the centre.
 # ::usage figurative
@@ -4263,7 +4263,7 @@
                                     :ARG1 (c2 / center))))))
       :time (a / already))
 
-# ::id 179
+# ::id dev-179
 # ::idiom with a view to
 # ::snt This is so, for example, if its inclusion is not material for the purposes of giving a true and fair view or if, in effect, the parent is not able to exercise dominance over the subsidiary or holds its interest in the subsidiary exclusively with a view to resale, or the information necessary for group accounts can not be obtained without disproportionate delay or expense.
 # ::usage figurative
@@ -4310,7 +4310,7 @@
                                     :polarity -)))))
       :ARG0-of (e5 / exemplify-01))
 
-# ::id 180
+# ::id dev-180
 # ::idiom read between the lines
 # ::snt So beware : if we were able to read between the lines that easily, so too can your family and friends!
 # ::usage figurative
@@ -4334,7 +4334,7 @@
                         :mod (t2 / too))))
       :mod (s / so))
 
-# ::id 181
+# ::id dev-181
 # ::idiom by heart
 # ::snt At an early age he developed a remarkable memory and could recite long passages from the Scriptures by heart.
 # ::usage figurative
@@ -4356,7 +4356,7 @@
                                     :op2 "Scripture")))
                   :manner (b2 / by-heart))))
 
-# ::id 182
+# ::id dev-182
 # ::idiom follow suit
 # ::snt In September Croatia followed suit.
 # ::usage figurative
@@ -4367,7 +4367,7 @@
       :time (d / date-entity
             :month 9))
 
-# ::id 183
+# ::id dev-183
 # ::idiom bear in mind
 # ::snt You also need to bear in mind that you may have other payments under existing deeds of covenant or other payments made under Gift Aid in the same tax year, and you will need to have a taxable income at least equal to the gross amount of all these payment, as well as the Gift Aid payment being contemplated, otherwise you will have to account to the Revenue for some tax.
 # ::usage figurative
@@ -4423,7 +4423,7 @@
                   :ARG1 p
                   :ARG2 "-")))
 
-# ::id 184
+# ::id dev-184
 # ::idiom in the long run
 # ::snt ‘ Yet in the long run — and we have already had a pretty long run — the results are potentially devastating.’
 # ::usage figurative
@@ -4440,7 +4440,7 @@
                               :degree (p2 / pretty))
                         :time (a2 / already)))))
 
-# ::id 185
+# ::id dev-185
 # ::idiom go hand in hand
 # ::snt "In "" A Language Learner's Field Guide "" Healey offers helpful suggestions to those working in monolingual situations, and in languages where language learning must go hand in hand with language analysis."
 # ::usage figurative
@@ -4472,7 +4472,7 @@
                   :op4 "Field"
                   :op5 "Guide")))
 
-# ::id 186
+# ::id dev-186
 # ::idiom cold feet
 # ::snt The image of the cold wrinkled feet on the glimmering thresholds and the steam from the dim fields again shows Tithonus hopeless situation.
 # ::usage literal
@@ -4495,7 +4495,7 @@
                   :polarity -))
       :mod (a2 / again))
 
-# ::id 187
+# ::id dev-187
 # ::idiom ring a bell
 # ::snt If it's no oan then it's aff! ' he added sagely, ringing the bell.
 # ::usage literal
@@ -4509,7 +4509,7 @@
                   :polarity -))
       :manner (s / sage))
 
-# ::id 188
+# ::id dev-188
 # ::idiom bear in mind
 # ::snt He who seeketh horse or wife without flaws, may forsake his work and bear in mind that bed and stable forever empty he will keep.
 # ::usage figurative
@@ -4535,7 +4535,7 @@
                                     :ARG0 h))
                         :duration (f3 / forever)))))
 
-# ::id 189
+# ::id dev-189
 # ::idiom with a view to
 # ::snt So we are well on the way to achieving the recruitment targets that have been set with a view to making the decision as effective as possible.
 # ::usage figurative
@@ -4558,7 +4558,7 @@
                                                       :ARG1 d)))))))
             :degree (w3 / well)))
 
-# ::id 190
+# ::id dev-190
 # ::idiom in a nutshell
 # ::snt In a nutshell, it has been much easier for the West to do business in the post - colonial Middle ~ East with un - democratic regimes, which have found Western support and recognition useful in marginalizing local liberal and democratic forces, even as it paved the way for the rise of Islamist radicalization.
 # ::usage figurative
@@ -4607,7 +4607,7 @@
             :quant (m3 / much))
       :mod (ii / in-short))
 
-# ::id 191
+# ::id dev-191
 # ::idiom turn a blind eye
 # ::snt Never again, because Iraq's military might was built with the active encouragement of some western powers, while many others turned a conveniently blind eye to their arms merchants ' activities.
 # ::usage figurative
@@ -4642,7 +4642,7 @@
                   :mod (e3 / ever))
             :ARG2 "-"))
 
-# ::id 192
+# ::id dev-192
 # ::idiom by heart
 # ::snt I can remember, before taking a Latin exam in school, sitting up half the night and learning the English ' crib ' of Caesar's Gallic Wars by heart and hoping that, when faced with a piece to translate, I would know enough Latin to work out where to start and where to finish.
 # ::usage figurative
@@ -4701,7 +4701,7 @@
                                           :op1 "Latin"))
                               :location (s3 / school))))))
 
-# ::id 193
+# ::id dev-193
 # ::idiom turn a blind eye
 # ::snt ‘ I know Mr Yates wasn't very happy and I can sympathise, unfortunately the law was there and we couldn't turn a blind eye.
 # ::usage figurative
@@ -4732,7 +4732,7 @@
             :ARG2-of (f / fortunate-01
                   :polarity "-")))
 
-# ::id 194
+# ::id dev-194
 # ::idiom from scratch
 # ::snt If such a system is not used, or a completely new and different production process is to be used, it may be necessary to estimate and allocate overheads from scratch.
 # ::usage figurative
@@ -4757,7 +4757,7 @@
                               :ARG1-of (c / complete-02))
                         :ARG1-of (d / differ-02)))))
 
-# ::id 195
+# ::id dev-195
 # ::idiom come to grips with
 # ::snt I had to come to grips with how my understanding of the sovereignty of God applied in that situation.
 # ::usage figurative
@@ -4776,7 +4776,7 @@
                         :ARG2 (s2 / situation
                               :mod (t2 / that))))))
 
-# ::id 196
+# ::id dev-196
 # ::idiom follow suit
 # ::snt And Reinhardt followed suit and had Peter Behrens rebuild Arnim's Theater ( Unter den Linden 44 ) according to his specifications.
 # ::usage figurative
@@ -4808,7 +4808,7 @@
                               :ARG2 (s / specification
                                     :poss p3))))))
 
-# ::id 197
+# ::id dev-197
 # ::idiom green light
 # ::snt The Department of Environment will give the green light to parking bays for certain disabled people.
 # ::usage figurative
@@ -4825,7 +4825,7 @@
                         :ARG1-of (d / disable-01)
                         :mod (c / certain)))))
 
-# ::id 198
+# ::id dev-198
 # ::idiom come to grips with
 # ::snt Their own proposals for reform are aimed at restructuring the British press but it can be argued that even they fail to come to grips with the sort of major ‘ shortcomings’ of the press ( and media ) identified above.
 # ::usage figurative
@@ -4855,7 +4855,7 @@
                                     :name (n / name
                                           :op1 "Britain")))))))
 
-# ::id 199-generated
+# ::id dev-199-generated
 # ::idiom go without saying
 # ::snt The horse went to the stable without saying a sound.
 # ::usage literal
@@ -4867,7 +4867,7 @@
             :ARG0 h
             :ARG1 (s3 / sound)))
 
-# ::id 200
+# ::id dev-200
 # ::idiom bear in mind
 # ::snt Bear in mind that Nottinghamshire is quite a large county there are about one million people living in Nottinghamshire.
 # ::usage figurative
@@ -4887,7 +4887,7 @@
                         :op1 1000000))
             :location c))
 
-# ::id 201
+# ::id dev-201
 # ::idiom open someone's eyes
 # ::snt She opened her eyes, but, like Lady Macbeth's, their sense was shut.
 # ::usage literal
@@ -4905,7 +4905,7 @@
                               :op1 "Lady"
                               :op2 "Macbeth")))))
 
-# ::id 202
+# ::id dev-202
 # ::idiom green light
 # ::snt House of Fraser shares were highly sensitive to any rumours of a bid, and we waited with caution and anxiety for the green light from the ministry.
 # ::usage figurative
@@ -4930,7 +4930,7 @@
                   :op1 (c2 / caution)
                   :op2 (a4 / anxiety))))
 
-# ::id 203
+# ::id dev-203
 # ::idiom come to mind
 # ::snt Or ask your inner wisdom for a symbol of this new belief, accept whatever image comes to mind, and draw this on the cards.
 # ::usage figurative
@@ -4960,7 +4960,7 @@
                   :ARG1 t
                   :location (c2 / card))))
 
-# ::id 204
+# ::id dev-204
 # ::idiom hot air
 # ::snt The sybarites who wanted the hot water bath or the hot air bath would pass through into the slightly heated room one stage farther in, and undress there, then go on in to whichever they fancied.
 # ::usage literal
@@ -4993,7 +4993,7 @@
                         :ARG0 s))
             :time (t2 / then)))
 
-# ::id 205
+# ::id dev-205
 # ::idiom turn a blind eye
 # ::snt Saleh ’s dilemma is that Western aid may now come with increased interference in Yemen ’s internal affairs at a time when he wants the world to turn a blind eye to his conduct of the country ’s civil wars.
 # ::usage figurative
@@ -5027,7 +5027,7 @@
                                           :mod (c4 / civil)))))
                   :time (n4 / now))))
 
-# ::id 206
+# ::id dev-206
 # ::idiom with a view to
 # ::snt The Golders Green and Hendon Group urges Amnesty's British Section to examine the circumstances in which ‘ non - conscripted military personal’ may be adopted as prisoners of conscience, ‘ with a view to full clarification on the issue’.
 # ::usage figurative
@@ -5064,7 +5064,7 @@
             :ARG1 (ii2 / issue-02)
             :degree (f / full)))
 
-# ::id 207
+# ::id dev-207
 # ::idiom miss the boat
 # ::snt Little fuss has been made of the director's original notion of casting Michael Jackson as Peter, but Spielberg has clearly missed the boat in refusing to commission Robert Smith, front man and only constant factor of The Cure, to compose the score.
 # ::usage figurative
@@ -5111,7 +5111,7 @@
                               :ARG1 (s / score))))
             :ARG1-of (c6 / clear-06)))
 
-# ::id 208
+# ::id dev-208
 # ::idiom hold water
 # ::snt Most unbiased lawyers had said the Danish concessions ‘ won't hold water’.
 # ::usage figurative
@@ -5128,7 +5128,7 @@
                                     :op1 "Denmark"))))
             :polarity "-"))
 
-# ::id 209
+# ::id dev-209
 # ::idiom open someone's eyes
 # ::snt She opened her eyes in surprise.
 # ::usage literal
@@ -5139,7 +5139,7 @@
       :ARG2-of (s2 / surprise-01
             :ARG1 s))
 
-# ::id 210
+# ::id dev-210
 # ::idiom change hands
 # ::snt The house has changed hands many times over the last fifty years.
 # ::usage figurative
@@ -5152,7 +5152,7 @@
                   :quant 50
                   :unit (y / year))))
 
-# ::id 211
+# ::id dev-211
 # ::idiom go without saying
 # ::snt It goes without saying that the Labour front bench supported all of the most reactionary arguments that could be found to oppose the management reforms.
 # ::usage figurative
@@ -5175,7 +5175,7 @@
                   :ARG3 (m2 / most)))
       :ARG1-of (o2 / obvious-01))
 
-# ::id 212
+# ::id dev-212
 # ::idiom follow suit
 # ::snt The other girls followed suit, and the waitress, after a moment's hesitation, wrung in turn the outstretched hands before hurrying off to attend to the needs of a customer who, to judge by his impatience, was in the last stages of starvation.
 # ::usage figurative
@@ -5206,7 +5206,7 @@
                                                       :polarity -
                                                       :ARG1 c)))))))))
 
-# ::id 213
+# ::id dev-213
 # ::idiom come to mind
 # ::snt Other stalwarts come to mind.
 # ::usage figurative
@@ -5214,7 +5214,7 @@
       :ARG2 (s / stalwart
             :mod (o / other)))
 
-# ::id 214
+# ::id dev-214
 # ::idiom come to terms with
 # ::snt It tends to make life a bit dull at work and we 've tried to come to terms with that.
 # ::usage figurative
@@ -5233,13 +5233,13 @@
                   :ARG0 w2
                   :ARG1 t)))
 
-# ::id 215
+# ::id dev-215
 # ::idiom green light
 # ::snt Green light :
 # ::usage figurative
 (p / permit-01)
 
-# ::id 216
+# ::id dev-216
 # ::idiom break even
 # ::snt You 're never going to get extremely rich by betting on horses at very low odds, unless you bet very large stakes, but on the other hand if you do bet frequently at horses that are two to one or two to one on, or something like that, then the statistics demonstrate that you can, over a season, just about break even, or you tend to just about break even.
 # ::usage figurative
@@ -5289,7 +5289,7 @@
                                           :ARG2 b6))))
                   :ARG1-of (f / frequent-02))))
 
-# ::id 217
+# ::id dev-217
 # ::idiom cut corners
 # ::snt Men working on the site complained of pressure to cut corners to save time on the delayed project.
 # ::usage figurative
@@ -5307,7 +5307,7 @@
                         :ARG3 (p2 / project
                               :ARG1-of (d / delay-01))))))
 
-# ::id 218
+# ::id dev-218
 # ::idiom open someone's eyes
 # ::snt Claudia opens her eyes.
 # ::usage literal
@@ -5318,7 +5318,7 @@
             :part (e / eye))
       :ARG1 e)
 
-# ::id 219
+# ::id dev-219
 # ::idiom go without saying
 # ::snt It's not a crime for anyone, even the managing director of a shipping company, to go off without saying where.
 # ::usage literal
@@ -5339,7 +5339,7 @@
                   :ARG0 a
                   :ARG1 (l / location))))
 
-# ::id 220
+# ::id dev-220
 # ::idiom ring a bell
 # ::snt During the siege Stamford had rung its church bells backwards in order to summon Royalist support and in response Cromwell threatened to raze the entire town.
 # ::usage literal
@@ -5370,7 +5370,7 @@
       :time (s3 / seize-01
             :ARG0 c))
 
-# ::id 221
+# ::id dev-221
 # ::idiom over the hill
 # ::snt Thunder rumbled in the distance and then rolled away again over the hills.
 # ::usage literal
@@ -5386,7 +5386,7 @@
                   :op1 (h / hill))
             :time (t2 / then)))
 
-# ::id 222
+# ::id dev-222
 # ::idiom open someone's eyes
 # ::snt Then suddenly the boy rolled over onto his back, opened his eyes — the palest milky blue — and looked at them.
 # ::usage literal
@@ -5411,7 +5411,7 @@
             :ARG1 e)
       :time (t / then))
 
-# ::id 223
+# ::id dev-223
 # ::idiom by heart
 # ::snt Some she knew by heart.
 # ::usage figurative
@@ -5420,7 +5420,7 @@
       :ARG1 (s2 / some)
       :manner (b / by-heart))
 
-# ::id 224
+# ::id dev-224
 # ::idiom with a view to
 # ::snt He subsequently claimed that the Soviet Union had received great support during these meetings for its readiness to take part ‘ in multilateral talks among all states which use the waters of the Indian Ocean with a view to formulating guarantees of the safety of maritime lines of communication, including the Persian Gulf and the Strait of Hormuz, as well as guarantees of the littoral states’ sovereignty over their natural resources’.
 # ::usage figurative
@@ -5470,7 +5470,7 @@
                   :mod (t2 / this)))
       :time (s5 / subsequent))
 
-# ::id 225
+# ::id dev-225
 # ::idiom change hands
 # ::snt The forgeries are understood to be changing hands at up to £ 60 a time across the province in pubs and clubs.
 # ::usage figurative
@@ -5489,7 +5489,7 @@
                   :op1 (p2 / pub)
                   :op2 (c2 / club))))
 
-# ::id 227
+# ::id dev-227
 # ::idiom call it a day
 # ::snt But what about when she does eventually call it a day.
 # ::usage figurative
@@ -5500,7 +5500,7 @@
                         :ARG0 (s2 / she)
                         :time (e / eventual)))))
 
-# ::id 228
+# ::id dev-228
 # ::idiom open someone's eyes
 # ::snt When she opened her eyes, it was to see Stephen's mother standing by the bed.
 # ::usage literal
@@ -5519,7 +5519,7 @@
             :ARG0 s2
             :ARG1 e))
 
-# ::id 229
+# ::id dev-229
 # ::idiom go without saying
 # ::snt It goes without saying that all the material needs to be checked repeatedly and authorized by various departmental heads, and that it will be changed right up until the last minute.
 # ::usage figurative
@@ -5545,7 +5545,7 @@
                   :mod (r2 / right)))
       :ARG1-of (o / obvious-01))
 
-# ::id 230
+# ::id dev-230
 # ::idiom fall short
 # ::snt First, the conception of what might pass under the heading of ‘ learning’ falls short of the possible process of intellectual development.
 # ::usage figurative
@@ -5563,7 +5563,7 @@
                   :ARG1 (ii / intellectual))
             :ARG1-of (p4 / possible-01)))
 
-# ::id 231
+# ::id dev-231
 # ::idiom fall short
 # ::snt The state has, in a sense, to define what proper care is, or at least what falls short of it.
 # ::usage figurative
@@ -5581,7 +5581,7 @@
                               :mod (a / at-least)))))
       :mod (s3 / sense))
 
-# ::id 232
+# ::id dev-232
 # ::idiom bear in mind
 # ::snt A large proportion had substantial additionality, although some projects could have been supported by other than public - sector funds, bearing in mind that UDG is supposed to be a last - resort lender.
 # ::usage figurative
@@ -5610,7 +5610,7 @@
                         :ord (o2 / ordinal-entity
                               :value "-1")))))
 
-# ::id 233
+# ::id dev-233
 # ::idiom over the hill
 # ::snt to have led him so gullibly over the hills
 # ::usage literal
@@ -5621,7 +5621,7 @@
       :manner (g / gullible
             :degree (s / so)))
 
-# ::id 234
+# ::id dev-234
 # ::idiom change hands
 # ::snt I don't know if the Guiness is as good at the Imperial anymore as the pub has changed hands!!!.
 # ::usage figurative
@@ -5643,7 +5643,7 @@
                         :ARG0 (p / pub))
                   :time (a / anymore))))
 
-# ::id 235
+# ::id dev-235
 # ::idiom open someone's eyes
 # ::snt Then a visitor laughed, and Irene opened her eyes.
 # ::usage literal
@@ -5659,7 +5659,7 @@
             :ARG1 e)
       :time (t / then))
 
-# ::id 236
+# ::id dev-236
 # ::idiom come to mind
 # ::snt What are the words, what are the expressions that come to mind when you say influencing.
 # ::usage figurative
@@ -5673,7 +5673,7 @@
             :ARG0 (y / you)
             :ARG1 (ii / influence-01)))
 
-# ::id 237
+# ::id dev-237
 # ::idiom in the long run
 # ::snt Even if this is small, it means that the detailed behaviour becomes totally unforecastable in the long run.
 # ::usage figurative
@@ -5693,7 +5693,7 @@
             :op1 (s / small
                   :domain t)))
 
-# ::id 238
+# ::id dev-238
 # ::idiom in the long run
 # ::snt In the long run, investment will also affect the supply side of the economy, raising its productive potential and thereby pushing outwards the production frontier.
 # ::usage figurative
@@ -5715,7 +5715,7 @@
       :time (r2 / run-13
             :ARG1-of (l / long-03)))
 
-# ::id 239
+# ::id dev-239
 # ::idiom hold water
 # ::snt Aabida continued pouring water into various containers at teacher's suggestion, but remained convinced that a taller container held more water than a shorter, fatter one.
 # ::usage literal
@@ -5752,7 +5752,7 @@
                                     :ARG3 (m3 / more)
                                     :ARG4 o))))))
 
-# ::id 240
+# ::id dev-240
 # ::idiom hot air
 # ::snt Then it was screaming past, and they could feel the hot air and smell the smoke.
 # ::usage literal
@@ -5770,7 +5770,7 @@
                         :ARG0 t2
                         :ARG1 (s3 / smoke)))))
 
-# ::id 241
+# ::id dev-241
 # ::idiom spill the beans
 # ::snt All this was known to the auditors, they didn't spill the beans.
 # ::usage figurative
@@ -5785,7 +5785,7 @@
             :ARG1 (s / secret)
             :polarity "-"))
 
-# ::id 242
+# ::id dev-242
 # ::idiom break someone's heart
 # ::snt Her voice, muffled by the cushion in which she had hidden her face, was so despairing that it almost broke his heart.
 # ::usage figurative
@@ -5806,7 +5806,7 @@
                   :mod (a / almost)
                   :ARG1 (h3 / he))))
 
-# ::id 243
+# ::id dev-243
 # ::idiom steer clear of
 # ::snt ‘ Question is, will it steer clear of us, Jaq?’
 # ::usage figurative
@@ -5821,7 +5821,7 @@
             :name (n / name
                   :op1 "Jaq")))
 
-# ::id 244
+# ::id dev-244
 # ::idiom go without saying
 # ::snt That the hanger showed Innovation goes without saying — enter the Oxford and the Harvard again.
 # ::usage figurative
@@ -5842,7 +5842,7 @@
                               :op1 "Harvard")))
             :mod (a2 / again)))
 
-# ::id 245
+# ::id dev-245
 # ::idiom go hand in hand
 # ::snt One reason is that revenue growth usually goes hand - in - hand with macroeconomic growth, which increasingly is found in emerging - market countries, rather than in many banks ’ mature Western home markets.
 # ::usage figurative
@@ -5869,7 +5869,7 @@
             :mod (u / usual))
       :quant "1")
 
-# ::id 246-generated
+# ::id dev-246-generated
 # ::idiom cold feet
 # ::snt The cold floor gave her cold feet.
 # ::usage literal
@@ -5880,7 +5880,7 @@
             :ARG1-of (c2 / cold-01))
       :ARG2 (s / she))
 
-# ::id 247
+# ::id dev-247
 # ::idiom change hands
 # ::snt Although its larger successor, the GLC, changed hands regularly — from Labour in 1973 to Conservative in 1977 and back to Labour in 1981 — London remains the strongest source of Labour support in the South - East of the country.
 # ::usage figurative
@@ -5923,7 +5923,7 @@
                         :year 1973))
             :ARG1-of (r2 / regular-02)))
 
-# ::id 248
+# ::id dev-248
 # ::idiom bear in mind
 # ::snt That apart, we should bear in mind that roses vary greatly in their ability to bloom more or less continuously after the first flush.
 # ::usage figurative
@@ -5948,7 +5948,7 @@
       :ARG2-of (e / except-01
             :ARG1 (t / that)))
 
-# ::id 249
+# ::id dev-249
 # ::idiom steer clear of
 # ::snt If such shortcomings irritate you seriously, you should steer clear of small Mediterranean resorts of the type we offer ; become a tourist, not a traveller.
 # ::usage figurative
@@ -5979,7 +5979,7 @@
             :ARG1 y
             :ARG1-of (s5 / serious-02)))
 
-# ::id 250
+# ::id dev-250
 # ::idiom over the hill
 # ::snt It's when you 've been flying them for a few days consecutively that it ( pardon the pun ) dawns on them that they could escape and find out what's over the next hill.
 # ::usage literal
@@ -6007,7 +6007,7 @@
             :ARG0 y
             :ARG1 (p3 / pun)))
 
-# ::id 251
+# ::id dev-251
 # ::idiom break even
 # ::snt The break even point before the changes in price and advertising expenditure was :
 # ::usage figurative
@@ -6022,7 +6022,7 @@
                               :ARG2-of (e / expend-01
                                     :ARG3 (a2 / advertise-01)))))))
 
-# ::id 252
+# ::id dev-252
 # ::idiom behind bars
 # ::snt There int one behind the bar?
 # ::usage literal
@@ -6031,7 +6031,7 @@
       :location (b / behind
             :op1 (b2 / bar)))
 
-# ::id 253
+# ::id dev-253
 # ::idiom hot air
 # ::snt The wood ended at a wheat field that sloped downhill to the unhedged road from which the dust was rising to hang in the hot air.
 # ::usage literal
@@ -6051,7 +6051,7 @@
                                           :ARG1-of (h3 / hot-05)))))
                   :direction (d2 / downhill))))
 
-# ::id 254
+# ::id dev-254
 # ::idiom in the long run
 # ::snt And are not a desirable way to shop in the long run.
 # ::usage figurative
@@ -6063,7 +6063,7 @@
                         :ARG1-of (l / long-03)))
             :ARG1-of (d / desirable-02)))
 
-# ::id 255-generated
+# ::id dev-255-generated
 # ::idiom tie the knot
 # ::snt He tied the knot
 # ::usage literal
@@ -6071,7 +6071,7 @@
       :ARG0 (h / he)
       :ARG1 (k / knot))
 
-# ::id 256
+# ::id dev-256
 # ::idiom from scratch
 # ::snt probation officer with the state in Texas and they decide they want a trial at monitoring and they ask if I would be interested and so we begin the programme, the first in - house operative programme in Texas, and we set up our programme from scratch and started just kind of working on trial and error trying to make the thing worked.
 # ::usage figurative
@@ -6123,7 +6123,7 @@
                   :degree (k / kind-of)
                   :mod (j / just))))
 
-# ::id 257
+# ::id dev-257
 # ::idiom come to mind
 # ::snt Some of Reagan ’s advisers sincerely did not believe that the tax cuts of the early 1980s would generate the large deficits that they did ( Beryl Sprinkel and Lawrence Kudlow come to mind ).
 # ::usage figurative
@@ -6159,7 +6159,7 @@
                               :op1 "Lawrence"
                               :op2 "Kudlow")))))
 
-# ::id 258
+# ::id dev-258
 # ::idiom call it a day
 # ::snt the swing and I 've bought them a couple of wooden puzzles where you pick the bits up so, I thought well then I 'll call it a day there, and that 'll be that
 # ::usage figurative
@@ -6185,7 +6185,7 @@
                               :op2 (t4 / that))
                         :mod (w2 / well)))))
 
-# ::id 259
+# ::id dev-259
 # ::idiom by heart
 # ::snt I remember two of them by heart after over eighty years.
 # ::usage figurative
@@ -6202,7 +6202,7 @@
                         :quant 80
                         :unit (y / year)))))
 
-# ::id 260
+# ::id dev-260
 # ::idiom hot air
 # ::snt Small firms can be more vulnerable because trade wars can turn into costly and time - consuming dog - fights — as Don Cameron, a British manufacturer of hot - air balloons, has found.
 # ::usage literal
@@ -6236,7 +6236,7 @@
                                           :ARG1 (t3 / time))
                                     :mod (c4 / costly)))))))
 
-# ::id 261
+# ::id dev-261
 # ::idiom green light
 # ::snt The green light surrounding them now seemed to be imparting a sick lifeless pallor.
 # ::usage literal
@@ -6252,7 +6252,7 @@
                         :polarity -)))
       :time (n / now))
 
-# ::id 262
+# ::id dev-262
 # ::idiom in the long run
 # ::snt Yes, it used to be two and a half times the wage and in the long run rather than mess about taking the house off them
 # ::usage figurative
@@ -6274,7 +6274,7 @@
       :time (r / run-13
             :ARG1-of (l / long-03)))
 
-# ::id 263
+# ::id dev-263
 # ::idiom come to mind
 # ::snt It has come to my mind that it is contrasting er spiritual
 # ::usage figurative
@@ -6284,7 +6284,7 @@
             :ARG1 (ii2 / it)
             :ARG2 (s / spiritual)))
 
-# ::id 264-generated
+# ::id dev-264-generated
 # ::idiom spill the beans
 # ::snt The wind blew and spilled the beans from the basket.
 # ::usage literal
@@ -6296,14 +6296,14 @@
             :ARG1 (b2 / bean)
             :ARG2 (b3 / basket)))
 
-# ::id 265
+# ::id dev-265
 # ::idiom hot air
 # ::snt Hot air.
 # ::usage figurative
 (s / sense-02
       :polarity -)
 
-# ::id 266
+# ::id dev-266
 # ::idiom in a nutshell
 # ::snt In a nutshell : young country bumpkin black cop is drafted in to defuse the tension on a London estate and discovers who's really doing the dirty work.
 # ::usage figurative
@@ -6330,7 +6330,7 @@
                         :ARG1-of (r / real-04))))
       :mod (ii / in-short))
 
-# ::id 267
+# ::id dev-267
 # ::idiom with a view to
 # ::snt The Declaration provides for the possibility of taking ` specific measures to assist ( the outermost regions ) inasmuch and as long as there is an objective need to take such measures with a view to the economic and social development of those regions. '
 # ::usage figurative
@@ -6356,7 +6356,7 @@
                                                 :poss r))
                                     :mod (o2 / objective)))))))
 
-# ::id 268-generated
+# ::id dev-268-generated
 # ::idiom miss the boat
 # ::snt They missed the boat and spent the afternoon at the port instead.
 # ::usage literal
@@ -6370,7 +6370,7 @@
             :location (p / port)
             :ARG1-of (ii / instead-of-91)))
 
-# ::id 269
+# ::id dev-269
 # ::idiom over the hill
 # ::snt There were no Christmas holidays at the school, and it was too difficult to travel over the cold, windy hills to visit my little girls.
 # ::usage literal
@@ -6395,7 +6395,7 @@
                         :mod (l / little)
                         :poss ii))))
 
-# ::id 270
+# ::id dev-270
 # ::idiom come to terms with
 # ::snt But she was going to have to keep the door open to him for the next twenty years and, like it or not, it was something that she would have to come to terms with.
 # ::usage figurative
@@ -6427,7 +6427,7 @@
                                     :ARG1 s
                                     :ARG2 k))))))
 
-# ::id 271
+# ::id dev-271
 # ::idiom from scratch
 # ::snt For students who wish to take one year only of Russian from scratch the course 1A is recommended as an outside subject.
 # ::usage figurative
@@ -6453,7 +6453,7 @@
                         :manner (f / from
                               :op1 (b / begin-01))))))
 
-# ::id 272
+# ::id dev-272
 # ::idiom in the long run
 # ::snt In the long - run, this money illusion will disappear as workers come to realise that price inflation is depriving them of their perceived increase - in real income.
 # ::usage figurative
@@ -6476,7 +6476,7 @@
                               :ARG0 p))
                   :ARG2 p)))
 
-# ::id 273
+# ::id dev-273
 # ::idiom follow suit
 # ::snt His chat followed suit.
 # ::usage figurative
@@ -6484,7 +6484,7 @@
       :ARG1 (c / chat-01
             :ARG0 (h / he)))
 
-# ::id 274
+# ::id dev-274
 # ::idiom behind bars
 # ::snt The man behind the bar said something to him, probably a reminder, for he nodded, spoke to his wife, then with a quick look round the room, he left.
 # ::usage literal
@@ -6515,7 +6515,7 @@
                                     :op1 (r3 / room))
                               :ARG1-of (q / quick-02))))))
 
-# ::id 275
+# ::id dev-275
 # ::idiom by heart
 # ::snt In order for muscles to work effectively, to run and fight, they need blood rich in oxygen supplied by the heart.
 # ::usage literal
@@ -6535,7 +6535,7 @@
             :op3 (f / fight-01
                   :ARG0 m)))
 
-# ::id 276
+# ::id dev-276
 # ::idiom come to grips with
 # ::snt cos, as you say, if if they do have to come to grips with their fellow man, to be at least some of them who are going to be impressed by that.
 # ::usage figurative
@@ -6556,7 +6556,7 @@
             :ARG1-of (s2 / say-01
                   :ARG0 (y / you))))
 
-# ::id 277
+# ::id dev-277
 # ::idiom behind bars
 # ::snt And in areas where grease is not a factor such as traffic areas, behind the bar and so on, standard, non - grease formula mats may prove economically correct.
 # ::usage literal
@@ -6581,7 +6581,7 @@
                                     :op1 (b2 / bar))
                               :op3 (e2 / et-cetera))))))
 
-# ::id 278
+# ::id dev-278
 # ::idiom in the long run
 # ::snt Since form and function are related to living things, when the information in an illustration is incorrect it can take more work in the long run to get the thing to look right.
 # ::usage figurative
@@ -6609,7 +6609,7 @@
                   :time (r3 / run-13
                         :ARG1-of (l3 / long-03)))))
 
-# ::id 279
+# ::id dev-279
 # ::idiom green light
 # ::snt Green light for Jag's new E - type
 # ::usage figurative
@@ -6622,7 +6622,7 @@
                   :op1 "Jag"))
       :ARG1-of (n2 / new-01))
 
-# ::id 280
+# ::id dev-280
 # ::idiom go hand in hand
 # ::snt The creation of Scottish, Welsh and English regional Parliaments therefore goes hand in hand with the promotion of more European cooperation and partnership, ensuring access to power for individuals and their communities right across Europe.
 # ::usage figurative
@@ -6664,7 +6664,7 @@
                                     :mod (r2 / right)))))
             :manner (t / together)))
 
-# ::id 281
+# ::id dev-281
 # ::idiom break even
 # ::snt The sales revenue from their smaller circulations covered a much lower proportion of costs ; but the greater purchasing power of their readers, some of whom spent ‘ corporate’ money, not just their own personal incomes, enabled the qualities to charge far higher advertising rates and break even at circulation levels completely unrealistic for the populars.
 # ::usage figurative
@@ -6726,7 +6726,7 @@
                                     :ARG1-of (p8 / popular-02))
                               :ARG1-of (c7 / complete-02))))))
 
-# ::id 282
+# ::id dev-282
 # ::idiom with a view to
 # ::snt Such request would trigger a meeting of elected employee representatives who, unless they unanimously agreed otherwise, would request negotiations with central management with a view to concluding an agreement for an EWC.
 # ::usage figurative
@@ -6756,7 +6756,7 @@
                         :ARG0 p
                         :mod (u / unanimous)))))
 
-# ::id 283
+# ::id dev-283
 # ::idiom change hands
 # ::snt They established that 6 copyholds changed hands a total of 36 times and 21 freeholds changed ownership a total of 118 times.
 # ::usage figurative
@@ -6775,7 +6775,7 @@
                   :ARG1-of (t3 / total-01
                         :ARG2 "118"))))
 
-# ::id 284
+# ::id dev-284
 # ::idiom change hands
 # ::snt But when money starts to change hands, they take a harder line.
 # ::usage figurative
@@ -6791,7 +6791,7 @@
                   :ARG1 (c2 / change-hands-06
                         :ARG1 (m2 / money)))))
 
-# ::id 285-generated
+# ::id dev-285-generated
 # ::idiom tie the knot
 # ::snt The climber made sure to tie the knot securely before ascending.
 # ::usage literal
@@ -6806,7 +6806,7 @@
                   :op1 (a / ascend-01
                         :ARG0 p))))
 
-# ::id 286
+# ::id dev-286
 # ::idiom change hands
 # ::snt The Court of Appeal rejected the Council's defence on the ground, not that the ticket changed hands too late, but that it was not a contractual document ; for no reasonable person would expect to find contractual terms in a document which was no more than a receipt for him to prove that he had paid and which in many instances ( i.e. in the absence of the attendant ) would not change hands until long after the contract was made.
 # ::usage figurative
@@ -6860,7 +6860,7 @@
                                                                   :ARG0-of (a3 / attend-02)))))))))))
       :manner (g3 / ground))
 
-# ::id 287
+# ::id dev-287
 # ::idiom green light
 # ::snt Jaguar Reinvests the E - type Exciting V8 sports car gets green light
 # ::usage figurative
@@ -6880,7 +6880,7 @@
                   :mod (s / sport))
             :ARG1 (p / permit-01)))
 
-# ::id 288
+# ::id dev-288
 # ::idiom from scratch
 # ::snt Here was someone in the top position virtually starting from scratch as far as the day - to - day running of the various institutions were concerned, When she tried to lay down the law experienced officers found it hard to stomach.
 # ::usage figurative
@@ -6912,7 +6912,7 @@
                         :ARG1 (l2 / law)
                         :ARG2 (d3 / down)))))
 
-# ::id 289
+# ::id dev-289
 # ::idiom break someone's heart
 # ::snt It would break his immigrant heart, too.
 # ::usage figurative
@@ -6923,7 +6923,7 @@
             :ARG0-of (ii2 / immigrate-01)
             :poss (h / he)))
 
-# ::id 290
+# ::id dev-290
 # ::idiom bear in mind
 # ::snt These, then, are the kinds of factors to be borne in mind when any new knowledge or innovation is intended to affect practice.
 # ::usage figurative
@@ -6941,7 +6941,7 @@
                   :ARG1 (p / practice-01)))
       :mod (t2 / then))
 
-# ::id 291
+# ::id dev-291
 # ::idiom with a view to
 # ::snt Dr Florin retains a strong commitment to communication and is at present reading up on Eastern Christian icons with a view to writing something on the subject.
 # ::usage figurative
@@ -6970,7 +6970,7 @@
                   :ARG1 (s2 / something
                         :topic ii))))
 
-# ::id 292
+# ::id dev-292
 # ::idiom fall short
 # ::snt Yet although Haydon mocked his ‘ passionate timidity’ there was plenty of action in the amatory field — no ambiguity there, even if his style fell short ofByronic.
 # ::usage figurative
@@ -6999,7 +6999,7 @@
                   :ARG1-of (p4 / passionate-02)
                   :poss p2)))
 
-# ::id 293
+# ::id dev-293
 # ::idiom spill the beans
 # ::snt Please don't spill the beans to Elizabeth that I bought her a gold necklace for her birthday.
 # ::usage figurative
@@ -7021,7 +7021,7 @@
                         :poss p)))
       :polarity "-")
 
-# ::id 294
+# ::id dev-294
 # ::idiom bear fruit
 # ::snt In Russia the war aroused no more than a brief flicker of patriotic enthusiasm : years of nationalist propaganda under the last two tsars failed to bear fruit.
 # ::usage figurative
@@ -7049,7 +7049,7 @@
                   :ARG0 p2
                   :ARG1 (r / result))))
 
-# ::id 295
+# ::id dev-295
 # ::idiom come to mind
 # ::snt Yes thank you Chairman erm I think important question very similar question I think we 're we 're all wondering whether the changed landscape of West Sussex, the changed use of West Sussex has had any influence on the flooding and as the County Council has pointed out worst amount of rain we 've had for about seventy years or so I think it's very useful and important er to ask questions an and when this crisis is over we reflect on what we can learn from it, but I must bear in mind that it is first and foremost extraordinary climatic conditions which have caused these problems and that in itself of course might have implications erm the whole of global warming does tend to come to mind when you see what's happening in Australia as well as what's happening here erm that's certainly not anything that agencies great or small can have any control over.
 # ::usage figurative
@@ -7140,7 +7140,7 @@
       :mod (c8 / certain
             :polarity -))
 
-# ::id 296
+# ::id dev-296
 # ::idiom come to mind
 # ::snt One example which comes to mind is Bransby Williams, who emulated the performances of Charles Dickens and Sir Henry Irving throughout the first half of this century.
 # ::usage figurative
@@ -7169,7 +7169,7 @@
                                     :part-of (c2 / century
                                           :mod (t / this))))))))
 
-# ::id 297
+# ::id dev-297
 # ::idiom come to grips with
 # ::snt That all thinking is grounded in analogization shows up especially clearly when we try to come to grips with the thought of another civilization.
 # ::usage figurative
@@ -7189,7 +7189,7 @@
       :ARG1-of (c3 / clear-06
             :degree (e / especially)))
 
-# ::id 298
+# ::id dev-298
 # ::idiom ring a bell
 # ::snt She rang the bell, and the dog barked.
 # ::usage literal
@@ -7200,7 +7200,7 @@
       :op2 (b2 / bark-01
             :ARG0 (d / dog)))
 
-# ::id 299
+# ::id dev-299
 # ::idiom open someone's eyes
 # ::snt Then the Lad darted across the room like a fleeing hare, and vanished, and Calatin opened his eyes and looked right at them.
 # ::usage literal
@@ -7227,7 +7227,7 @@
                   :ARG1 e
                   :mod (r3 / right))))
 
-# ::id 300
+# ::id dev-300
 # ::idiom hold water
 # ::snt Your bladder holds your water, but your balls contain that lovely, sticky stuff which you waste by spreading it all over your bed.
 # ::usage literal
@@ -7252,7 +7252,7 @@
                                     :op1 (b3 / bed
                                           :poss y)))))))
 
-# ::id 301
+# ::id dev-301
 # ::idiom by heart
 # ::snt From 1935 Noel was increasingly oppressed by the diabetes from which he suffered, blindness, and a cancerous growth, but nothing could dampen his spirits, and when he could no longer sing the liturgy, he learned it off by heart.
 # ::usage figurative
@@ -7284,7 +7284,7 @@
                               :ARG1 (l2 / liturgy)
                               :time (n3 / no-longer))))))
 
-# ::id 302
+# ::id dev-302
 # ::idiom open someone's eyes
 # ::snt It's a wonder I didn't kill Benjamin but, when I opened my eyes, two of the rogues were dead of huge gashes between shoulder and neck whilst Benjamin was on the point of driving his sword straight through the breast of a third.
 # ::usage literal
@@ -7312,7 +7312,7 @@
                         :ARG0 ii
                         :ARG1 e))))
 
-# ::id 303
+# ::id dev-303
 # ::idiom jump on the bandwagon
 # ::snt In the US, however, IBM, Dell and Gateway have jumped on the 33MHz bandwagon and we can expect to see more UK manufacturers following suit.
 # ::usage figurative
@@ -7346,7 +7346,7 @@
                                           :name (n5 / name
                                                 :op1 "UK"))))))))
 
-# ::id 304
+# ::id dev-304
 # ::idiom go hand in hand
 # ::snt The theoretical and practical aims of the proposed study go hand in hand.
 # ::usage figurative
@@ -7358,7 +7358,7 @@
             :mod (p2 / practical))
       :manner (t2 / together))
 
-# ::id 305
+# ::id dev-305
 # ::idiom in hot water
 # ::snt McIntyre landed in hot water for an alleged V - sign to the fans after last week's disappointing home draw with Athlone Town.
 # ::usage figurative
@@ -7386,7 +7386,7 @@
                   :time (w / week
                         :mod (l2 / last)))))
 
-# ::id 306
+# ::id dev-306
 # ::idiom with a view to
 # ::snt Therefore, preparation for my work included a theoretical investigation of research undertaken in this area ; specifically, with a view to deconstructing the myths of motherhood and the family album's relationship to it.
 # ::usage figurative
@@ -7411,7 +7411,7 @@
                   :ARG1 (w / work-01
                         :ARG0 (ii3 / i)))))
 
-# ::id 307
+# ::id dev-307
 # ::idiom follow suit
 # ::snt That year Nestlé — which accounts for a tenth of the Swiss stockmarket — opened its register to overseas investors, and a number of other companies have followed suit.
 # ::usage figurative
@@ -7441,7 +7441,7 @@
                   :quant (n3 / number))
             :ARG1 c))
 
-# ::id 308
+# ::id dev-308
 # ::idiom by heart
 # ::snt Last night's lesson had been taught blind, there was no way of knowing how many had survived to get it by heart.
 # ::usage figurative
@@ -7463,7 +7463,7 @@
                         :ARG1 l
                         :manner (b2 / by-heart)))))
 
-# ::id 309
+# ::id dev-309
 # ::idiom out of order
 # ::snt How right you are Mr Deputy Speaker, of course I couldn't go into this because it's out of order but on the other hand I would simply say to the honourable gentleman if he looks at the basic policies, the basic flaw of the E C is it can't solve problems and all these new M E Ps we 're thinking of sending over I think we should bear in mind the problem, they 're going over to something where problems can't be solved.
 # ::usage figurative
@@ -7525,7 +7525,7 @@
             :ARG1 (y / you)
             :degree (s6 / so)))
 
-# ::id 310
+# ::id dev-310
 # ::idiom come to terms with
 # ::snt Today friends and colleagues were coming to terms with her murder.
 # ::usage figurative
@@ -7541,7 +7541,7 @@
             :ARG1 (s / she))
       :time (t / today))
 
-# ::id 311
+# ::id dev-311
 # ::idiom bear fruit
 # ::snt Frequently, the scientific understanding needed for the progress he wanted to make was not available to him and the work he began did not bear fruit until after his death.
 # ::usage figurative
@@ -7570,7 +7570,7 @@
                               :ARG1 h)))
             :polarity "-"))
 
-# ::id 312
+# ::id dev-312
 # ::idiom in the long run
 # ::snt By putting their money as well as their trust into credit, they are in the long run paying more, not less.
 # ::usage figurative
@@ -7593,7 +7593,7 @@
                         :poss t))
             :ARG2 (c2 / credit)))
 
-# ::id 313
+# ::id dev-313
 # ::idiom in hot water
 # ::snt But with lots of others in the same hot water it's great fun.
 # ::usage literal
@@ -7608,7 +7608,7 @@
                         :ARG1-of (s / same-01)
                         :ARG1-of (h / hot-05)))))
 
-# ::id 314
+# ::id dev-314
 # ::idiom open someone's eyes
 # ::snt At this she opened her bleared eyes wide, and cast a sinister glance first at me and then at the old man.
 # ::usage literal
@@ -7631,7 +7631,7 @@
                   :op2 (t / then)))
       :time (t2 / this))
 
-# ::id 315
+# ::id dev-315
 # ::idiom ring a bell
 # ::snt ' If so, please ring the second bell. '
 # ::usage literal
@@ -7644,7 +7644,7 @@
                   :value 2))
       :condition (s / so))
 
-# ::id 316
+# ::id dev-316
 # ::idiom bear fruit
 # ::snt He puts the success down to the science strategies that NERC adopted in the 1987–89 period, while the new resources gained in 1988 and 1989 are ' now bearing scientific fruit '.
 # ::usage figurative
@@ -7676,7 +7676,7 @@
                   :mod (s4 / science))
             :time (n3 / now)))
 
-# ::id 317
+# ::id dev-317
 # ::idiom ring a bell
 # ::snt But there was nothing here which rang a bell.
 # ::usage figurative
@@ -7686,7 +7686,7 @@
             :ARG0-of (s / sound-01
                   :ARG2 (f / familiarize-02))))
 
-# ::id 318-generated
+# ::id dev-318-generated
 # ::idiom go without saying
 # ::snt The goat went to the barn without saying a sound.
 # ::usage literal
@@ -7698,7 +7698,7 @@
             :ARG0 g2
             :ARG1 (s2 / sound)))
 
-# ::id 319
+# ::id dev-319
 # ::idiom in the long run
 # ::snt The two are related : more tourists might boost the economy, but they would damage Bhutan ’s environment and culture, and so reduce happiness in the long run.
 # ::usage figurative
@@ -7725,7 +7725,7 @@
                                     :ARG1-of (l / long-03))))))
       :ARG2 2)
 
-# ::id 320
+# ::id dev-320
 # ::idiom change hands
 # ::snt Other classy convertibles come from Mercedes - Benz, Porsche and Aston Martin, whose Volante, listed at £ 120,000, is said to be changing hands at over £ 200,000.
 # ::usage figurative
@@ -7758,7 +7758,7 @@
                                     :quant 200000
                                     :unit (d2 / dollar)))))))
 
-# ::id 321
+# ::id dev-321
 # ::idiom in the long run
 # ::snt But, to balance the budget in the long run, either taxes have to go up or spending has to go down relative to some baseline, or both.
 # ::usage figurative
@@ -7784,7 +7784,7 @@
                   :time (r2 / run-13
                         :ARG1-of (l / long-03)))))
 
-# ::id 322
+# ::id dev-322
 # ::idiom behind bars
 # ::snt It seems for many the idea of setting up behind the bar is even more powerful than the interest rates.
 # ::usage literal
@@ -7802,7 +7802,7 @@
                   :mod (ii2 / interest)))
       :beneficiary (m2 / many))
 
-# ::id 323
+# ::id dev-323
 # ::idiom break even
 # ::snt Some useful information can be made available in chart form, such as a ‘ break - even chart’.
 # ::usage figurative
@@ -7817,7 +7817,7 @@
                         :example (c2 / chart
                               :mod (b / break-even-09))))))
 
-# ::id 324
+# ::id dev-324
 # ::idiom in hot water
 # ::snt At five o'clock in the morning Ada Neumann would have been in her kitchen, simmering the dozens of doughnut - shaped rolls in hot water for a few minutes before baking them in the oven, glazing them with egg - white and then showering them with sesame seeds.
 # ::usage literal
@@ -7860,7 +7860,7 @@
                         :mod (s5 / sesame))
                   :time (t2 / then))))
 
-# ::id 325
+# ::id dev-325
 # ::idiom tie the knot
 # ::snt ) Tie knots in the cords at one end, and if using pencil pleat tape trim the tape only to within 1.5 cm ( ½in ) of knot.
 # ::usage literal
@@ -7888,7 +7888,7 @@
                   :ARG0 y
                   :ARG1 t3)))
 
-# ::id 326
+# ::id dev-326
 # ::idiom hand to mouth
 # ::snt Mr Furbank gives an excellent picture of this hand to mouth existence, not so different from that which Samuel Johnson was leading in London at the same time.
 # ::usage figurative
@@ -7917,7 +7917,7 @@
                                     :ARG1-of (s / same-01))))
                   :degree (s2 / so))))
 
-# ::id 327
+# ::id dev-327
 # ::idiom green light
 # ::snt ENGLAND 'S winter cricket tour to India received the green light yesterday despite the recent fierce rioting on the sub - continent between rival Muslim and Hindu factions.
 # ::usage figurative
@@ -7948,7 +7948,7 @@
             :mod (s / sub))
       :mod (f2 / fierce))
 
-# ::id 328
+# ::id dev-328
 # ::idiom follow suit
 # ::snt Japan ’s banks followed suit.
 # ::usage figurative
@@ -7958,7 +7958,7 @@
                   :name (n / name
                         :op1 "Japan"))))
 
-# ::id 329-generated
+# ::id dev-329-generated
 # ::idiom go without saying
 # ::snt The squirrel went up the tree without saying a sound.
 # ::usage literal
@@ -7972,14 +7972,14 @@
             :ARG0 s
             :ARG1 (s3 / sound)))
 
-# ::id 330
+# ::id dev-330
 # ::idiom hot air
 # ::snt Hot air.
 # ::usage literal
 (a / air
       :ARG1-of (h / hot-05))
 
-# ::id 331
+# ::id dev-331
 # ::idiom bite the dust
 # ::snt She was determined that the new course would not bite the dust because of a rearguard action by a couple of old fogies like Maurice Webb and Henry Hedger.
 # ::usage figurative
@@ -8005,7 +8005,7 @@
                         :mod (r / rearguard)))
             :polarity "-"))
 
-# ::id 332-generated
+# ::id dev-332-generated
 # ::idiom hot air
 # ::snt The politician’s speech was full of hot air and lacked real solutions.
 # ::usage figurative
@@ -8021,7 +8021,7 @@
                   :ARG2-of (s3 / solve-01)
                   :ARG1-of (r / real-04))))
 
-# ::id 333
+# ::id dev-333
 # ::idiom bear in mind
 # ::snt It should be borne in mind, however, that the modules which constitute the award are merely an indication of the expected level of competence to be demonstrated by office workers who hold a qualification at Level I and II.
 # ::usage figurative
@@ -8049,7 +8049,7 @@
                                                                   :mod "2"))))))))
                   :mod (m2 / mere))))
 
-# ::id 334
+# ::id dev-334
 # ::idiom go hand in hand
 # ::snt Medical isolation of the prostitute in the 1860s went hand - in - hand with a range of related social demarcations.
 # ::usage figurative
@@ -8065,7 +8065,7 @@
             :quant (r2 / range))
       :manner (t / together))
 
-# ::id 335-generated
+# ::id dev-335-generated
 # ::idiom spill the beans
 # ::snt He spilled the beans while trying to measure them.
 # ::usage literal
@@ -8078,7 +8078,7 @@
                   :ARG0 h
                   :ARG1 b)))
 
-# ::id 336
+# ::id dev-336
 # ::idiom go without saying
 # ::snt It goes without saying that when a charity do is well organized and welcoming, it can be the greatest joy and can give you a good deal more than you 'd ever anticipated.
 # ::usage figurative
@@ -8107,7 +8107,7 @@
                   :ARG1-of (w2 / well-09)))
       :ARG1-of (o2 / obvious-01))
 
-# ::id 337
+# ::id dev-337
 # ::idiom fall short
 # ::snt It was not as if what he saw fell short of his expectations.
 # ::usage figurative
@@ -8124,14 +8124,14 @@
                   :ARG1-of (e / expect-01
                         :ARG0 h))))
 
-# ::id 338
+# ::id dev-338
 # ::idiom cold feet
 # ::snt ' Cold feet.
 # ::usage literal
 (f / foot
       :ARG1-of (c / cold-01))
 
-# ::id 339
+# ::id dev-339
 # ::idiom from scratch
 # ::snt The second part of the ORIGINAL DRAWING tutorial explains how to create your won shapes entirely from scratch.
 # ::usage figurative
@@ -8153,7 +8153,7 @@
                         :degree (e2 / entire)
                         :op1 (b / begin-01)))))
 
-# ::id 340
+# ::id dev-340
 # ::idiom come to terms with
 # ::snt It helped fourth - century Christians to come to terms with the paradox that the privileged, wealthy, and powerful post - Constantinian church actually was also the church of the martyrs.
 # ::usage figurative
@@ -8180,7 +8180,7 @@
                                     :century 4)))))
       :ARG2 p)
 
-# ::id 341
+# ::id dev-341
 # ::idiom bear fruit
 # ::snt Techniques that went back to the age of Aristotle and the scholars of Alexandria were married to contemporary nations, among then the idea, conceived in the time of Leibnitz, of a historiography based on the study of original documents ; and the marriage bore fruit.
 # ::usage figurative
@@ -8215,7 +8215,7 @@
             :ARG0 m
             :ARG1 (r / result)))
 
-# ::id 342
+# ::id dev-342
 # ::idiom follow suit
 # ::snt Croydon followed suit and began fitting body mounted plough carriers to their cars.
 # ::usage figurative
@@ -8235,7 +8235,7 @@
                   :ARG2 (c3 / car
                         :poss c))))
 
-# ::id 343
+# ::id dev-343
 # ::idiom off the hook
 # ::snt ‘ That would let me nicely off the hook.
 # ::usage figurative
@@ -8245,7 +8245,7 @@
             :ARG1-of (n / nice-01)
             :ARG1 (ii / i)))
 
-# ::id 344
+# ::id dev-344
 # ::idiom hot air
 # ::snt It took a five - year tussle with the Luftfahrt Bundesamt, the German body which sets aeronautical regulations, before the cylinders were approved for use in hot - air balloons.
 # ::usage literal
@@ -8272,7 +8272,7 @@
                         :mod (a3 / air
                               :ARG1-of (h / hot-05))))))
 
-# ::id 345
+# ::id dev-345
 # ::idiom tie the knot
 # ::snt So busy are international players that they are lucky if they are able to find the time even in summer to tie the knot.
 # ::usage figurative
@@ -8295,7 +8295,7 @@
                               :season (s2 / summer)
                               :mod (e / even))))))
 
-# ::id 346-generated
+# ::id dev-346-generated
 # ::idiom bear fruit
 # ::snt The vines are bearing fruit earlier than usual this year.
 # ::usage literal
@@ -8310,7 +8310,7 @@
       :time (y / year
             :mod (t / this)))
 
-# ::id 347
+# ::id dev-347
 # ::idiom follow suit
 # ::snt Under the guise of outrage, the Daily Post self - righteously took up the story, forcing the other Fleet Street newspapers to follow suit.
 # ::usage figurative
@@ -8335,7 +8335,7 @@
       :ARG1-of (d / disguise-01
             :ARG2 (o2 / outrage-01)))
 
-# ::id 348
+# ::id dev-348
 # ::idiom in the long run
 # ::snt And third argued Mr Kinnock, they should negotiate entry into the European Exchange Rate Mechanism, and to stop Britain's economic slide in the long run, he told delegates, money had to be invested in training.
 # ::usage figurative
@@ -8376,7 +8376,7 @@
                                                 :ARG1-of (l / long-03)))))
                         :ARG2 (d / delegate)))))
 
-# ::id 349
+# ::id dev-349
 # ::idiom break someone's heart
 # ::snt It would break her heart.
 # ::usage figurative
@@ -8384,7 +8384,7 @@
       :ARG0 (ii / it)
       :ARG1 (s / she))
 
-# ::id 350
+# ::id dev-350
 # ::idiom bear fruit
 # ::snt Although war is unlikely in the coming months, if sanctions on Iran do n’t bear fruit by early 2011, Israel might feel the need to act.
 # ::usage figurative
@@ -8416,7 +8416,7 @@
                   :ARG1-of (c3 / come-01))
             :polarity "-"))
 
-# ::id 351
+# ::id dev-351
 # ::idiom follow suit
 # ::snt For new home - owners, some builders have now given a 20-year guarantee against structural defects, but the NHBC has not followed suit.
 # ::usage figurative
@@ -8442,7 +8442,7 @@
                         :op1 "NHBC"))
             :ARG1 g))
 
-# ::id 352-generated
+# ::id dev-352-generated
 # ::idiom bear fruit
 # ::snt The tree bore fruit early this season.
 # ::usage literal
@@ -8453,7 +8453,7 @@
             :op1 (s / season
                   :mod (t2 / this))))
 
-# ::id 353
+# ::id dev-353
 # ::idiom ring a bell
 # ::snt So if I call a paging call out and a paging call comes out it's gon na ring the bloody bell
 # ::usage literal
@@ -8468,7 +8468,7 @@
                   :op2 (c3 / come-out-09
                         :ARG1 c2))))
 
-# ::id 354
+# ::id dev-354
 # ::idiom hot air
 # ::snt Although it might be a temptation to say hot air, because you do put hot air in, but it says goes in at the top of the furnace.
 # ::usage literal
@@ -8488,7 +8488,7 @@
                               :ARG1 p)))
             :ARG0 p2))
 
-# ::id 355
+# ::id dev-355
 # ::idiom break even
 # ::snt Mr Bishko says sales volumes need to rise by a fifth or a quarter for the US operation to break even, and more stores will be needed before it makes a satisfactory profit.
 # ::usage figurative
@@ -8520,7 +8520,7 @@
                               :ARG0 o2
                               :ARG1-of (s4 / satisfactory-03))))))
 
-# ::id 356
+# ::id dev-356
 # ::idiom bear in mind
 # ::snt On the issue of Selby which er took quite a lot of time er I think it was an important area er bearing in mind the different views that have been expressed.
 # ::usage figurative
@@ -8543,7 +8543,7 @@
                   :ARG1-of (d / differ-02)
                   :ARG1-of (e / express-01))))
 
-# ::id 357
+# ::id dev-357
 # ::idiom follow suit
 # ::snt As a result rates were immediately raised in Austria, Belgium, Denmark and the Netherlands, while France, Italy and Spain also followed suit on Dec. 23.
 # ::usage figurative
@@ -8580,7 +8580,7 @@
                         :day 23
                         :month 12))))
 
-# ::id 358
+# ::id dev-358
 # ::idiom hot air
 # ::snt A race held across land, on water and through the air came up with an unlikely winner, when a steamroller took on a hot air balloon and a narrow boat to see which was the fastest.
 # ::usage literal
@@ -8615,7 +8615,7 @@
                                     :ARG1 t3)
                               :ARG3 (m / most))))))
 
-# ::id 359
+# ::id dev-359
 # ::idiom follow suit
 # ::snt """ 9 Other houses were seemingly slow to follow suit."
 # ::usage literal
@@ -8627,7 +8627,7 @@
             :ARG2 (f / follow-suit-00
                   :ARG1 h)))
 
-# ::id 360
+# ::id dev-360
 # ::idiom hand to mouth
 # ::snt My mother giggled again, hand to mouth, then delved into the meringue.
 # ::usage literal
