@@ -1,6 +1,6 @@
 # Data
 
-Validation and test data for the reviewing process
+[Validation](idiom_dev.txt) and [test](idiom_test.txt) data for the reviewing process
 
 Most of the sentences are taken from the MAGPIE corpus. Some sentences with
 literal meanings have been generated using GPT-4.1-nano (these ave the word
